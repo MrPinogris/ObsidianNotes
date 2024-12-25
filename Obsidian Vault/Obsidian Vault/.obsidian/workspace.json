@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "4b091eda6ae42c1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aafb13e6e2cbd9c4",
+        "type": "tabs",
+        "dimension": 79.55764075067025,
+        "children": [
+          {
+            "id": "1779a18d54da68fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024"
+            }
+          },
+          {
+            "id": "8725dde5b9fb541a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 28.11.2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 28.11.2024"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c015e3469aa8a67",
+        "type": "tabs",
+        "dimension": 20.44235924932976,
+        "children": [
+          {
+            "id": "a0def086e95be616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASM motorprincipe"
+            }
+          },
+          {
+            "id": "58731c6b6c32a026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASM Generatorprincipe"
+            }
+          },
+          {
+            "id": "93d9f8cafd08300e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASM en Gelijkstoom machines"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa55ec1886cf96ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf724dd247b39037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c852ba79710ebaba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "331a65d1ef7caf63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Vector",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "0fedb17b71fb012b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ee864111711a72c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "64f1275330d60be0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e771f7157881570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzingen voor powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024"
+            }
+          },
+          {
+            "id": "139d9bf18bb3beed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Electische machienes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Electische machienes"
+            }
+          },
+          {
+            "id": "74433fce50262651",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eba1d630e246eb90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electische machienes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Electische machienes"
+            }
+          },
+          {
+            "id": "528bb0731e0e793e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "528bb0731e0e793e",
+  "lastOpenFiles": [
+    "Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+    "attachments/Pasted image 20241225115817.png",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 28.11.2024.pdf",
+    "Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Tekeningen Machines.md",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf",
+    "attachments/Pasted image 20241225115442.png",
+    "attachments/Pasted image 20241225115422.png",
+    "attachments/Pasted image 20241225115150.png",
+    "attachments/Pasted image 20241225115137.png",
+    "attachments/Pasted image 20241225114853.png",
+    "attachments/Pasted image 20241225114750.png",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 26.11.2024.pdf",
+    "attachments/Pasted image 20241225113424.png",
+    "attachments/Pasted image 20241225113409.png",
+    "attachments/Pasted image 20241225113115.png",
+    "Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf",
+    "Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 19.11.2024.pdf",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 10.12.2024.pdf",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025- 12.11.2024bis.pdf",
+    "Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025.pdf",
+    "Odisee Klassen/Elektrische machines/PDF lessen",
+    "Wetten.md",
+    "Naamloos.canvas",
+    "Odisee Klassen",
+    "Odisee Klassen/Elektrische machines/Elektrische machines.md",
+    "Hand regels.md",
+    "ASM.md",
+    "Motor.md",
+    "ASM_motorprincipe.md",
+    "Odisee Klassen/Elektrische machines/Transformatoren.md",
+    "().md"
+  ]
+}
