@@ -1,4 +1,4 @@
-# Algemene Samenvatting van ASM
+S# Algemene Samenvatting van ASM
 
 ## Inleiding tot Asynchrone Machines
 Een asynchrone machine (ASM) is een elektrische machine die werkt op basis van elektromagnetische inductie. ASM's kunnen zowel als motoren als generatoren functioneren, afhankelijk van het toerental van de rotor ten opzichte van het draaiveld.

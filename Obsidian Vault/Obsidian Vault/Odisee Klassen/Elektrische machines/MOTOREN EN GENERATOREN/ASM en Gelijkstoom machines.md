@@ -369,6 +369,12 @@ De rotorstroom $I_2$ in functie van de slip $s$ wordt gegeven door:
 $$
 I_2 = \frac{E_{2,ST}}{\sqrt{\left( \frac{R_2}{s} \right)^2 + X_{2,ST}^2}}
 $$
+$$
+I_{2}= \frac{E_{2}}{\sqrt{ R_{2}^2+X_{2}^2 }}
+$$
+- $E_{2}=E_{2_{st}}*s$
+- $X_{2}^2=2\pi \cdot f_{r}\cdot s$
+- $f_{r}=f_{s}\cdot s$
 
 ![[Pasted image 20241226092138.png]]
 
@@ -399,7 +405,7 @@ $$
 \overline{I_1} = \overline{I_0} + \left(- \frac{1}{k}\right) \cdot \overline{I_2}
 $$
 
-De aanloopstroom ($I_{1,ST}$) wordt uitgedrukt als:
+De aanloopstroom ($I_{1,ST}$) wordt uitgedrukt als: 
 $$
 I_{1,ST} = \frac{U_1}{\sqrt{(R_1 + k^2 \cdot R_2)^2 + (X_1 + k^2 \cdot X_{2,ST})^2}}
 $$

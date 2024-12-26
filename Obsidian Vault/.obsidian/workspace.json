@@ -4,83 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "18eb3b2cebd088a3",
+        "id": "8ed97a4249c5ac52",
         "type": "tabs",
         "children": [
           {
-            "id": "fa1a76831a3e0ffc",
+            "id": "8d13dbd328d02c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Tekeningen Machines.md",
-                "mode": "source",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tekeningen Machines"
-            }
-          }
-        ]
-      },
-      {
-        "id": "723e70e93a98fa8d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5357c6c5a65f36a6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafiek weergave"
+              "title": "ASM motorprincipe"
             }
           },
           {
-            "id": "ddc4b89840963150",
+            "id": "a9fb2312fc2f05aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvatting Alle Formules ASM.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Samenvatting Alle Formules ASM"
+              "icon": "lucide-file-text",
+              "title": "powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
             }
           },
           {
-            "id": "9e03428dfef2aa03",
+            "id": "4cbeebea2ac22509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Algemene Samenvatting van ASM.md",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algemene Samenvatting van ASM"
-            }
-          },
-          {
-            "id": "4b8e9fb3a4efe6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "burn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "burn"
+              "title": "ASM motorprincipe"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -153,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "burn.md",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Terugverwijzingen voor burn"
+              "title": "Terugverwijzingen voor powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
             }
           },
           {
@@ -172,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "burn.md",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Uitgaande verwijzingen van burn"
+              "title": "Uitgaande verwijzingen van powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
             }
           },
           {
@@ -199,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "burn.md"
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf"
               },
               "icon": "lucide-list",
-              "title": "Overzicht van burn"
+              "title": "Overzicht van powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
             }
           },
           {
@@ -255,32 +222,38 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4b8e9fb3a4efe6e7",
+  "active": "a9fb2312fc2f05aa",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Tekeningen Machines.md",
-    "burn.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefen vragen.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Algemene Samenvatting van ASM.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvatting Alle Formules ASM.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 26.11.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 19.11.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 10.12.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025- 12.11.2024bis.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 28.11.2024.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Tekeningen Machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Samenvatting Alle Formules ASM.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Oefen vragen.md",
+    "Obsidian Vault/Wetten.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Algemene Samenvatting van ASM.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Antwoorden vragen.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen",
+    "burn.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Elektrische machines.md",
     "Naamloos",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 10.12.2024.pdf",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 19.11.2024.pdf",
     "attachments/Pasted image 20241226094629.png",
     "attachments/Pasted image 20241226094454.png",
     "attachments/Pasted image 20241226094439.png",
     "attachments/Pasted image 20241226094415.png",
     "attachments/Pasted image 20241226094315.png",
     "attachments",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf",
     "Obsidian Vault/attachments/Pasted image 20241226092018.png",
     "Obsidian Vault/attachments/Pasted image 20241226092541.png",
     "Obsidian Vault/attachments/Pasted image 20241226092212.png",
     "Obsidian Vault/attachments/Pasted image 20241226092138.png",
-    "Obsidian Vault/attachments/Pasted image 20241226092049.png",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 28.11.2024.pdf",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025- 12.11.2024bis.pdf"
+    "Obsidian Vault/attachments/Pasted image 20241226092049.png"
   ]
 }

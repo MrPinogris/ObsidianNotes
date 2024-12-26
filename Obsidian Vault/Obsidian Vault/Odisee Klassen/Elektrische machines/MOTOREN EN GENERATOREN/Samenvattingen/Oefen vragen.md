@@ -33,6 +33,9 @@
 8. **Dynamisch gedrag**:
    - Wat gebeurt er wanneer het intern gegenereerde koppel ($M_i$) niet gelijk is aan het tegenwerkende koppel ($M_T$)?
    - Hoe wordt de hoekversnelling ($\alpha$) van de rotor berekend?
+9. hoe verklaar je de hysteresies verliezen
+10. hoe verklaar je de wervelstromen
+	1. lenz
 
 ---
 
@@ -73,28 +76,3 @@
 
 ---
 
-## Antwoorden
-### Theorievragen
-1. **Slip**:
-   - Slip is de verhouding tussen het toerentalverschil en het synchrone toerental: $s = \frac{n_s - n_r}{n_s}$.
-   - Typische waarden: Motorwerking $3\% - 7\%$, Generatorwerking $s < 0$.
-
-### Oefenvragen
-1. **Slipberekening**:
-   - Absolute slip: $s_a = 1500 - 1455 = 45 \ \text{RPM}$
-   - Relatieve slip: $s = \frac{45}{1500} = 0.03$ of $3\%$.
-
-2. **Synchrone snelheid**:
-   - $n_s = \frac{60 \cdot 50}{2} = 1500 \ \text{RPM}$.
-
-3. **Koppelberekening**:
-   - $M_i \approx C^{te} \cdot \frac{s \cdot R_2}{R_2^2 + (s \cdot X_{2,ST})^2}$ (parameters invullen en uitwerken).
-
-4. **Aanloopstroom**:
-   - $I_{1,ST} = \frac{U_1}{\sqrt{(R_1 + k^2 \cdot R_2)^2 + (X_1 + k^2 \cdot X_{2,ST})^2}}$ (parameters invullen en uitwerken).
-
-5. **Rendement**:
-   - $\eta = \frac{13.5}{15} \cdot 100\% = 90\%$.
-
-6. **Dynamisch gedrag**:
-   - $\alpha = \frac{M_i - M_T}{J} = \frac{50 - 45}{0.1} = 50 \ \text{rad/s}^2$.

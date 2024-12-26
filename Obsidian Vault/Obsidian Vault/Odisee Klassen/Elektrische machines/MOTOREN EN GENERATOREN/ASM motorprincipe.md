@@ -34,7 +34,8 @@ $$E_{2(st)}=4,44*f_{s}*N_{r}*\Phi_{m}$$$\overline{U_{2(st)}}=0\impliesφ>90°\im
 #### [[Tekeningen Machines#Niet Ideale ASM#Belast#Equivalent schema|EQ schema]]
 ![[Pasted image 20241224102418.png]]
 De secundaire EMK is niet cte deze is veranderlijk, recht evenredig met de slip
-$$\overline{E_{2}}=s*\overline{E_{2(st)}}$$$$
+$$\overline{E_{2}}=s*\overline{E_{2(st)}}$$
+$$
 f_{s}\neq f_{r}
 $$
 $$
@@ -42,19 +43,24 @@ I_{2}=\frac{E_{2}}{\sqrt{ R^2_{2}+X^{2}_{2} }}
 $$
 $$
 \underbrace{ I_{2}=\frac{s*E_{2(st)}}{\sqrt{ R^2_{2}+(s*X_{2(st)})^2 }} }_{ \text{delen door }s }
-$$$$
+$$
+$$
  I_{2}=\frac{E_{2(st)}}{\sqrt{(\frac{ R_{2}}{s})^2+X_{2(st)}^2 }} 
-$$![[Pasted image 20241224122011.png]]
+$$
+![[Pasted image 20241224122011.png]]
 De vervang weerstand $R_{b}$ is ook berekenbaar
 $$
 R_{b}=\frac{R_{2}}{s}-R_{2}=\frac{1-s}{s}*R_{2}
-$$![[Pasted image 20241224114338.png]]!
+$$
+![[Pasted image 20241224114338.png]]!
 Als voorbeeld nemen we $s_n=0,04$ dan hebben we een verhouding van $\frac{1}{5}$
 $$
 \frac{R_{2}}{s_{n}}=\frac{R_{2}}{0,04}=25R_{2}\implies \frac{X_{2(st)}}{R_{2}}=\frac{5R_{2}}{25s_{n}}=\frac{5}{25}=\frac{1}{5}
-$$$$
+$$
+$$
 X_{2(st)}=5R_{2}
-$$![[Pasted image 20241224115046.png]]
+$$
+![[Pasted image 20241224115046.png]]
 ##### EQ schema: REFLECTIE
 ![[Pasted image 20241224122140.png]]
 
@@ -159,7 +165,8 @@ M_{i}=f(n_{r})
 $$
 $$
 M_{i}\approx \cancel{ \frac{1}{\omega_{s}}\cdot3\cdot \frac{U^2_{1}}{k^2} }\cdot \frac{s\cdot \cancel{ R_{2} }}{R_{2}^2+s^2\cdot X_{2_{st}}^2}
-$$ Vervangen door een constante
+$$
+Vervangen door een constante
 $$
 M_{i}\approx C^{te}\cdot \frac{s}{R_{2}^2+s^2\cdot X_{2_{st}}^2}
 $$
