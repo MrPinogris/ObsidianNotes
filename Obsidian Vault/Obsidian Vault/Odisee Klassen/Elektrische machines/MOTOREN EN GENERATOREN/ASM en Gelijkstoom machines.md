@@ -76,8 +76,12 @@ $$f_r=\frac{(n_{s}-n_{r})*p}{60}
 #### Stator
 - Stilstand$$E_{1}=4,44*n_{s}*f_{s}*\Phi$$
 #### Rotor
-- Stilstand$$E_{2(st)}=4,44*n_{r}*f_{s}*\Phi$$
-- Draaiend$$E_{2}=4,44*n_{r}*f_{r}*\Phi$$Met $n_{r}\to Draaien$$$E_{2}=4,44*n_{r}*s*f_{r}*\Phi$$$$E_{2}=s*E_{2(st)}=s*\frac{E_{1}}{k}$$
+- Stilstand
+$$E_{2(st)}=4,44*n_{r}*f_{s}*\Phi$$
+- Draaiend
+$$E_{2}=4,44*n_{r}*f_{r}*\Phi$$
+- Met $n_{r}\to Draaien$
+$$E_{2}=4,44*n_{r}*s*f_{r}*\Phi$$$$E_{2}=s*E_{2(st)}=s*\frac{E_{1}}{k}$$
 #### Vergelijking
 - Stilstand$$\frac{E_{1}}{E_{2(st)}}=\frac{N_{s}}{N_{r}}=k\to E_{2(st)}=\frac{E_{1}}{k}$$
 - Draaiend
@@ -351,8 +355,73 @@ Hieruit volgen drie methoden om het rotortoerental te beïnvloeden:
 
 ---
 
+### 2.14 Stroom-toerentalkarakteristiek
 
+#### Inleiding
+Bij het starten van een asynchrone motor vloeit er een stroom door de stator die veel groter is dan de nominale stroom. Deze grote aanloopstroom heeft gevolgen:
+- **Netspanning:** Spanning in het net kan aanzienlijk dalen.
+- **Motorwikkelingen:** Kans op schade door hoge temperaturen.
 
+Om dit te beperken worden methoden gebruikt, zoals verlaging van de statorspanning of verhoging van de rotorweerstand.
+
+#### Rotorstroom en slip
+De rotorstroom $I_2$ in functie van de slip $s$ wordt gegeven door:
+$$
+I_2 = \frac{E_{2,ST}}{\sqrt{\left( \frac{R_2}{s} \right)^2 + X_{2,ST}^2}}
+$$
+
+![[Pasted image 20241226092138.png]]
+
+---
+
+#### Statorstroom en slip
+Voor de statorstroom $I_1$ geldt de formule:
+$$
+\overline{I_1} = \overline{I_0} + \left(- \frac{1}{k}\right) \cdot \overline{I_2}
+$$
+
+De aanloopstroom ($I_{1,ST}$) wordt uitgedrukt als:
+$$
+I_{1,ST} = \frac{U_1}{\sqrt{(R_1 + k^2 \cdot R_2)^2 + (X_1 + k^2 \cdot X_{2,ST})^2}}
+$$
+
+![[Pasted image 20241226092212.png]]**
+
+---
+
+#### Bijzondere punten
+- **$s = 0$ (synchrone snelheid):**
+  - $I_2 = 0$
+  - $I_1 = I_0$
+
+- **$s = 1$ (stilstand):**
+  - $I_2 = I_{2,ST}$
+  - $I_1 = I_{1,ST}$
+
+- **$s \to -\infty$ (tegengestelde rotatie):**
+  - Maximale $I_2$ en $I_1$.
+
+| Slip ($s$)       | Situatie                                   | Rotorstroom ($I_2$)                       | Statorstroom ($I_1$)                   |
+|-------------------|-------------------------------------------|-------------------------------------------|----------------------------------------|
+| $s = 0$          | Synchrone snelheid                        | $I_2 = 0$                                 | $I_1 = I_0$                            |
+| $s = 1$          | Stilstand (aanloopfase)                   | $I_2 = I_{2,ST}$                          | $I_1 = I_{1,ST}$                       |
+| $s = -1$         | Tegengestelde rotatie                     | Maximale $I_2$                            | Maximale $I_1$                         |
+| $s \to +\infty$  | Rotor draait oneindig traag               | $I_2 \to 0$                               | $I_1 \to I_0$                          |
+| $s \to -\infty$  | Rotor draait oneindig snel in tegengestelde richting | Maximale $I_2$                            | Maximale $I_1$                         |
+
+---
+
+#### Beperken van de aanloopstroom
+Manieren om de aanloopstroom te beperken:
+1. Verlagen van de statorspanning.
+2. Verhogen van de stator- of rotorweerstand.
+3. Gebruik van reactantie.
+![[Pasted image 20241226092541.png]]
+---
+
+#### Conclusie
+- De stroom-toerentalkarakteristiek is essentieel voor het analyseren van het gedrag van de ASM bij verschillende slips.
+- Bijzonder belangrijk bij de startfase om schade te voorkomen en een efficiënte werking te garanderen.
 ## Links
 - [[ASM motorprincipe]]
 - [[ASM Generatorprincipe]]

@@ -4,6 +4,36 @@
     "type": "split",
     "children": [
       {
+        "id": "18eb3b2cebd088a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdfc6e900421db57",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024"
+            }
+          },
+          {
+            "id": "1a99f86870c6e017",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 10.12.2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 10.12.2024"
+            }
+          }
+        ]
+      },
+      {
         "id": "723e70e93a98fa8d",
         "type": "tabs",
         "children": [
@@ -77,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 813.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -154,13 +185,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "87e26a3fb21615db",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "96ef332937554ae1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +221,25 @@
       "daily-notes:Open de notitie van vandaag": false,
       "templates:Sjabloon invoegen": false,
       "command-palette:Open opdrachtenpaneel": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "5357c6c5a65f36a6",
   "lastOpenFiles": [
+    "Pasted image 20241226092541.png",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+    "Pasted image 20241226092212.png",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 10.12.2024.pdf",
+    "Pasted image 20241226092138.png",
+    "Pasted image 20241226092049.png",
+    "Pasted image 20241226092018.png",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 28.11.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025- 12.11.2024bis.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 19.11.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Elektrische machines.md"
   ]
 }
