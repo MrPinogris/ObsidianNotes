@@ -1,35 +1,70 @@
-## [[ASM en Gelijkstoom machines|ASM]]
-### [[ASM motorprincipe]]
-#### Ideale Motor
-#### Niet Ideale ASM
-##### Nullast
-###### Vector diagram nullast
-![[Pasted image 20241223183521.png]]
-###### EQ schema
-![[Pasted image 20241223183228.png]]
-##### Stilstand
-###### Vector diagram
-![[Pasted image 20241224093840.png]]
-###### Equivalent schema
-![[Pasted image 20241223185246.png]]
-##### Belast
-###### Equivalent schema
-![[Pasted image 20241224102444.png]]
-![[Pasted image 20241224114338.png]]![[Pasted image 20241224122020.png]]
-**Reflectie:**
-![[Pasted image 20241224122201.png]]
-###### Vector diagram
-![[Pasted image 20241224103909.png]]
+# Tekeningen voor ASM: Updates
 
-### [[ASM Generatorprincipe]]
-#### Ideale Generator
- Stromen 0° en 90° ![[Pasted image 20241223125932.png]]
- Bolfiguur focus draaizin ![[Pasted image 20241223130023.png]]
-Bolfiguur ![[Pasted image 20241223122233.png]]
-### [[ASM en Gelijkstoom machines|Slip]]
- Slip op een grafiek![[Pasted image 20241223163825.png]]
-### [[ASM en Gelijkstoom machines|Inwendig koppel van de machine]]
+Hieronder worden de tekeningen gecontroleerd en bijgewerkt met de exacte namen van de bestaande afbeeldingen uit de gegeven bestanden.
 
-#### ##### [[ASM en Gelijkstoom machines#Inwendig koppel|Slip moment karakteristiek]]
-belangrijke punten Slip koppel karakteristiek
-![[Pasted image 20241225092126.png]]
+## 1. Equivalentieschema Nullast
+**Beschrijving:** De rotor draait bijna op synchrone snelheid, de slip is minimaal.
+
+- **Schema:**
+  ![Nullast Schema](Pasted%20image%2020241223183135.png)
+
+- **Vector diagram:**
+  ![Nullast Vector Diagram](Pasted%20image%2020241223183425.png)
+
+---
+
+## 2. Equivalentieschema Stilstand
+**Beschrijving:** De rotor staat stil ($s = 1$), maximale aanloopstroom.
+
+- **Schema:**
+  ![Stilstand Schema](Pasted%20image%2020241223185137.png)
+
+- **Vector diagram:**
+  ![Stilstand Vector Diagram](Pasted%20image%2020241224093840.png)
+
+---
+
+## 3. Equivalentieschema Nominale Belasting
+**Beschrijving:** De rotor draait met nominale slip ($s \approx 2\% - 8\%$).
+
+- **Schema:**
+  ![Belasting Diagram](Pasted%20image%2020241224102444.png)
+
+- **Reflectie schema:**
+  ![Reflectie Schema](Pasted%20image%2020241224122201.png)
+
+- **Extra diagram:**
+  ![Extra Nominale Belasting Diagram](Pasted%20image%2020241224114338.png)
+
+- **Vector diagram:**
+  ![Nominale Belasting Vector Diagram](Pasted%20image%2020241224104000.png)
+
+---
+
+## 4. Koppel-Slip Diagram
+**Beschrijving:** Weergave van het interne koppel ($M_i$) in functie van de slip ($s$).
+
+- **Diagram:**
+  ![Koppel-Slip Diagram](Pasted%20image%2020241225092126.png)
+
+---
+
+## 5. Dynamische Toestand
+**Beschrijving:** Rotor onderhevig aan versnelling ($\alpha$).
+
+- **Diagram voorbeelden:**
+  ![Dynamisch Diagram 1](Pasted%20image%2020241225113409.png)
+  ![Dynamisch Diagram 2](Pasted%20image%2020241225113424.png)
+
+---
+
+## 6. Bolfiguren
+**Beschrijving:** Visualisaties van de fluxen en draaiveldwerking.
+
+- **Bolfiguur Algemeen:**
+  ![Bolfiguur Algemeen](Pasted%20image%2020241223122233.png)
+
+- **Bolfiguur Draaizin:**
+  ![Bolfiguur Draaizin](Pasted%20image%2020241223130023.png)
+
+---
