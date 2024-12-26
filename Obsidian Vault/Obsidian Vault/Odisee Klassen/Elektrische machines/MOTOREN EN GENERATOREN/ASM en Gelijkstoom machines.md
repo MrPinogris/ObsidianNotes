@@ -61,7 +61,7 @@ Waarbij:
   s_n \approx 4\% \quad \text{(voorbeeldwaarde afhankelijk van de machine).}
   $$
 
-## Frequentieafhankelijke rotorgrootheden
+## Frequentieafhankelijke grootheden
 #### Stator
 $$E_{1}=4,44*f_{s}*n_{s}*\Phi$$
 $$x_{1}=\omega_{s}*L_{1}$$
@@ -374,6 +374,25 @@ $$
 
 ---
 
+#### Equivalentieschema in context van stroom-toerentalkarakteristiek
+Het equivalentieschema van de asynchrone motor is essentieel om:
+1. **Stromen en spanningen te berekenen** bij verschillende punten van de slip ($s$).
+2. **Reflectie versus geen reflectie**:
+   - **Met reflectie:** Rotorimpedantie ($R_2$ en $X_{2,ST}$) wordt omgerekend naar de statorgrootheden.
+   - **Zonder reflectie:** Rotor- en statorgrootheden blijven afzonderlijk, wat een directe analyse van $I_2$ mogelijk maakt.
+
+Het equivalentieschema wordt als volgt gebruikt in deze context:
+- **Reflectie:** Toegepast om stroomwaarden in de stator ($I_1$) en rotor ($I_2$) te koppelen.
+- **Geen reflectie:** Nuttig om de rotorparameters onafhankelijk te analyseren.
+
+#### Toepassing van het schema
+- **Bij s = 0** (synchrone snelheid): Impedantie van de rotor is oneindig groot ($I_2 = 0$).
+- **Bij s = 1** (aanloopfase): Rotorimpedantie is minimaal, maximale stroom.
+
+![[Pasted image 20241226094315.png]]
+
+---
+
 #### Statorstroom en slip
 Voor de statorstroom $I_1$ geldt de formule:
 $$
@@ -385,7 +404,7 @@ $$
 I_{1,ST} = \frac{U_1}{\sqrt{(R_1 + k^2 \cdot R_2)^2 + (X_1 + k^2 \cdot X_{2,ST})^2}}
 $$
 
-![[Pasted image 20241226092212.png]]**
+![[Pasted image 20241226092212.png]]
 
 ---
 
@@ -417,7 +436,80 @@ Manieren om de aanloopstroom te beperken:
 2. Verhogen van de stator- of rotorweerstand.
 3. Gebruik van reactantie.
 ![[Pasted image 20241226092541.png]]
+
+
 ---
+### 2.15 Aanloopmethodes
+
+#### Inleiding
+Aanloopmethodes worden gebruikt om de aanloopstroom en het aanloopkoppel van asynchrone motoren te beheersen. Verschillende methodes worden ingezet afhankelijk van het type motor en de toepassingsvereisten.
+
+---
+
+#### 2.15.1 Directe aanloop
+- **Toepassing**: Geschikt voor motoren met klein vermogen of motoren aangesloten op een net met lage impedantie.
+- **Kenmerken**:
+  - Motor wordt direct verbonden met de netspanning.
+  - Maximale aanzetkoppel ($M_{i,ST}$).
+  - Aanloopstroom ($I_{1,ST}$) wordt niet beperkt.
+- **Werking**:
+  - Driepolige handschakelaar of automatische start-stop schakeling wordt gebruikt.
+  - Beveiligingen (zoals thermische beveiliging) worden toegepast om de motor te beschermen.
+
+![[Pasted image 20241226094415.png]]
+
+---
+
+#### 2.15.2 Verlaagde spanning
+
+#### 2.15.2.1 Ster-driehoek aanloop
+- **Toepassing**: Alleen geschikt voor motoren die in bedrijfstoestand in driehoek geschakeld worden.
+- **Werking**:
+  1. Start in sterconfiguratie om spanning en stroom te verlagen.
+  2. Overschakeling naar driehoek bij ongeveer $0,8 \cdot n_n$.
+
+- **Kenmerken**:
+  - Aanloopstroom wordt verlaagd met een factor $\sqrt{3}$.
+  - Aanloopkoppel is beperkt tot 1/3 van het nominale koppel.
+![[Pasted image 20241226094439.png]]
+##### Belangrijke opmerking (mogelijke examenvraag)
+- **Vraag**: Waarom moet de omschakeling van ster naar driehoek bij $0,8 \cdot n_n$ gebeuren?
+- **Antwoord**: Om stroompieken en activering van thermische beveiligingen te voorkomen.
+
+##### 2.15.2.2 Spaartransformator
+- **Werking**: Gebruik van een regelbare transformator om de motorspanning tijdens aanloop te verlagen.
+- **Kenmerken**:
+  - Verlaagd de aanloopstroom ($I_1 \propto k^2$).
+  - Verlaagd aanloopkoppel evenredig met de spanningsreductie.
+
+---
+
+##### 2.15.2.3 Stator aanzetweerstanden
+- **Toepassing**: Impedanties in serie met de statorwikkelingen verminderen de aanloopstroom.
+- **Kenmerken**:
+  - Vermindert aanloopkoppel sterk.
+  - Alleen geschikt voor onbelaste aanloop.
+  - Weerstanden worden trapsgewijs uitgeschakeld.
+
+---
+
+#### 2.15.3 Rotorweerstanden
+- **Toepassing**: Bij motoren met een bewikkelde rotor (sleepringmotoren).
+- **Kenmerken**:
+  - Verhoogt de slip bij maximaal koppel.
+  - Verhoogt aanloopkoppel.
+  - Wordt trapsgewijs uitgeschakeld naarmate de motor accelereert.
+
+![[Pasted image 20241226094629.png]]
+
+---
+
+#### Conclusie
+De keuze van de aanloopmethode hangt af van de toepassing, het gewenste aanloopkoppel, en de stroombeperkingen. Directe aanloop is geschikt voor kleine motoren, terwijl geavanceerde methodes zoals ster-driehoek en spaartransformatoren worden gebruikt bij grotere belastingen.
+
+---
+
+Gebruik de genoemde plaatsen om de relevante figuren en grafieken toe te voegen. Laat me weten als je meer verduidelijking nodig hebt of een andere sectie wilt uitbreiden! 😊
 
 #### Conclusie
 - De stroom-toerentalkarakteristiek is essentieel voor het analyseren van het gedrag van de ASM bij verschillende slips.
