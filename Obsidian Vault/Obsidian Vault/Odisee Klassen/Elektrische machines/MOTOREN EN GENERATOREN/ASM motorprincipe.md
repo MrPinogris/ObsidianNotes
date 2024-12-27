@@ -134,6 +134,108 @@ Het rendement is berekend door het nuttige vermogen te delen door het opgenomen 
 $$
 \eta=\frac{P_{2}}{P_{1}}*100\%
 $$
+
+
+## Vermogen en rendement
+
+### Actief opgenomen vermogen
+Het driefasig opgenomen elektrisch actieve vermogen kan worden berekend met:
+$$
+P_1 = 3 \cdot U_{F,1} \cdot I_{F,1} \cdot \cos \varphi_{F,1}
+$$
+of:
+$$
+P_1 = \sqrt{3} \cdot U_{L,1} \cdot I_{L,1} \cdot \cos \varphi_{F,1}
+$$
+- $U_{F,1}$: Fasespanning.
+- $U_{L,1}$: Lijnspanning.
+- $I_{F,1}$: Fasestroom.
+- $I_{L,1}$: Lijnstroom.
+- $\cos \varphi_{F,1}$: Arbeidsfactor.
+
+---
+
+### Vermogensverdeling
+Het opgenomen vermogen $P_1$ wordt verdeeld over verschillende verliezen en nuttig vermogen.
+
+#### In de stator
+1. **Statorkoperverliezen**:
+   $$
+   P_{Cu,S} = 3 \cdot R_1 \cdot I_{F,1}^2
+   $$
+
+   - $R_1$: Ohmse weerstand van de statorwikkeling.
+   - $P_i$: Inwendig vermogen.
+
+2. **Statorijzerverliezen**:
+   $$
+   P_{Fe,S} = 3 \cdot U_{F,1} \cdot I_{F,1,0} \cdot \cos \varphi_{F,1,0} - 3 \cdot R_1 \cdot I_{F,1,0}^2
+   $$
+   Deze verliezen zijn constant bij nominale spanning en frequentie.
+
+#### Overdracht van stator naar rotor
+Het luchtspleetvermogen $P_L$ is:
+$$
+P_L = P_1 - P_{Cu,S} - P_{Fe,S}
+$$
+of vanuit rotorzicht:
+$$
+P_L = 3 \cdot \frac{R_2}{s} \cdot I_{F,2}^2
+$$
+
+#### In de rotor
+1. **Rotorkoperverliezen**:
+   $$
+   P_{Cu,R} = s \cdot P_L
+   $$
+   of:
+   $$
+   P_{Cu,R} = 3 \cdot R_2 \cdot I_{F,2}^2
+   $$
+
+2. **Inwendig vermogen**:
+   $$
+   P_i = P_L - P_{Cu,R} = P_{L}\cdot (1-s) =P_{Cu_{R}}*\frac{1-s}{s}
+   $$
+
+3. **Mechanisch nuttig vermogen**:
+   $$
+   P_2 = (1 - s) \cdot P_L
+   $$
+   of:
+   $$
+   P_2 = P_i - P_v
+   $$
+   - $P_v$: Mechanische verliezen door wrijving en ventilatie.
+
+---
+
+### Rendement
+Het rendement wordt berekend als:
+$$
+\eta = \frac{P_2}{P_1} \cdot 100\%
+$$
+- $P_2$: Nuttig vermogen.
+- $P_1$: Opgenomen vermogen.
+
+---
+
+### Bijzonderheden
+- **Luchtspleetvermogen** is het vermogen dat via de luchtspleet wordt overgedragen aan de rotor.
+- **Slip** ($s$): De verhouding tussen toerentalverschil en synchrone snelheid, essentieel voor verliesanalyse.
+- **Mechanische verliezen** ($P_v$): Worden vaak constant aangenomen bij nominale snelheid.
+
+---
+
+### Grafisch
+#### Stator
+![[Pasted image 20241227100359.png]]
+#### Luchtspleet
+![[Pasted image 20241227100417.png]]
+#### Rotor
+![[Pasted image 20241227100438.png]]
+![[Pasted image 20241227100449.png]]
+
 ## Inwendig koppel
 Start formule afgeleid van het luchtspleetvermogen
 $$

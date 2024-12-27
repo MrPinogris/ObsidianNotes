@@ -4,23 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed97a4249c5ac52",
+        "id": "3ab0e9f43eb3d506",
         "type": "tabs",
         "children": [
-          {
-            "id": "8d13dbd328d02c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASM motorprincipe"
-            }
-          },
           {
             "id": "a9fb2312fc2f05aa",
             "type": "leaf",
@@ -31,6 +17,26 @@
               },
               "icon": "lucide-file-text",
               "title": "powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ed97a4249c5ac52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d13dbd328d02c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASM motorprincipe"
             }
           },
           {
@@ -47,8 +53,7 @@
               "title": "ASM motorprincipe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -120,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Terugverwijzingen voor powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
+              "title": "Terugverwijzingen voor ASM motorprincipe"
             }
           },
           {
@@ -139,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Uitgaande verwijzingen van powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
+              "title": "Uitgaande verwijzingen van ASM motorprincipe"
             }
           },
           {
@@ -166,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf"
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md"
               },
               "icon": "lucide-list",
-              "title": "Overzicht van powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024"
+              "title": "Overzicht van ASM motorprincipe"
             }
           },
           {
@@ -222,20 +228,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a9fb2312fc2f05aa",
+  "active": "8d13dbd328d02c20",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 26.11.2024.pdf",
+    "attachments/Pasted image 20241227100449.png",
+    "attachments/Pasted image 20241227100438.png",
+    "attachments/Pasted image 20241227100417.png",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 22.11.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+    "attachments/Pasted image 20241227100359.png",
+    "ASM Tekeningen.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 19.11.2024.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 10.12.2024.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 05.12.2024.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 26.11.2024.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025- 12.11.2024bis.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/PDF lessen/powerpoint elektrische machines - cursus - asynchrone machines - 2024-2025 - 28.11.2024.pdf",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Tekeningen Machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Samenvatting Alle Formules ASM.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Oefen vragen.md",
     "Obsidian Vault/Wetten.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Algemene Samenvatting van ASM.md",
@@ -251,9 +262,6 @@
     "attachments/Pasted image 20241226094315.png",
     "attachments",
     "Obsidian Vault/attachments/Pasted image 20241226092018.png",
-    "Obsidian Vault/attachments/Pasted image 20241226092541.png",
-    "Obsidian Vault/attachments/Pasted image 20241226092212.png",
-    "Obsidian Vault/attachments/Pasted image 20241226092138.png",
-    "Obsidian Vault/attachments/Pasted image 20241226092049.png"
+    "Obsidian Vault/attachments/Pasted image 20241226092541.png"
   ]
 }
