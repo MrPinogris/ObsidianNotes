@@ -1,7 +1,7 @@
 
 #### 1. Hoe is de ASM opgebouwd? Geef 2 verschillende types. Hoe kan je deze motor herkennen? Geef een andere naam voor de ASM.
 
-
+Een ASM is opgebouwd uit een statisch gedeelte, *de stator* en een dynamisch gedeelte, **
 
 #### 2. Vul in:
 
@@ -85,12 +85,13 @@ De motor heeft een veel grotere $I_{\mu}$ dan de transformator dit komt door de 
 |           |       |
 ![[Pasted image 20241227143452.png|#invert]]
 ![[Pasted image 20241227150422.png|#invert]]
-![[Pasted image 20241227150441.png|#invert]]
+![[Pasted image 20241227150422.png|#invert]]
 
 
-#### 11. Toon de werking aan van de asynchrone generator voor
-
-
+#### 11. Toon de werking aan van de asynchrone generator voor: ... Voorzie de figuren van de nodige uitleg. Teken de verschillende grootheden $(I_{µ},\Phi,n_{s},n_{r},v,I_{2},\Phi_{2},\Phi_{1},I_{1}',F,M)$ in verschillende kleuren en noteer in de tabel naast de respectievelijke grootheid.
+1. een tweepolig veld aan op $\omega t_{3}=180°$ met draaizin in wijzerzin
+2. een tweepolig veld aan op $\omega t_{3}=270°$ met draaizin in wijzerzin
+![[Pasted image 20241227150422.png|#invert]]
 
 
 #### 12. Teken vectordiagram van ideale generator a d h v besluiten van de vorige vraag. In welke mate verschilt deze van die van het motorprincipe
@@ -114,7 +115,7 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 		3. Rotor frequentie $f_{r}=f_{s}*s$
 		4. koppel $M_{max}\approx \frac{v_{2}}{X_{tot}}$
 
-#### Een AS motor wordt nominaal belast. Teken de motorkarakteristiek. Duid het tegenwerkend koppel aan. Wat gebeurt er met de onderstaande grootheden indien de belasting toeneemt? Leg uit en geef een nauwkeurige verklaring. Duid ook aan op de voorziene grafiek.
+#### 14. Een AS motor wordt nominaal belast. Teken de motorkarakteristiek. Duid het tegenwerkend koppel aan. Wat gebeurt er met de onderstaande grootheden indien de belasting toeneemt? Leg uit en geef een nauwkeurige verklaring. Duid ook aan op de voorziene grafiek.
 
 - Het inwendig koppel
 - Het rotortoerental
