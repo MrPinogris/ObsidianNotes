@@ -1,7 +1,18 @@
 
 #### 1. Hoe is de ASM opgebouwd? Geef 2 verschillende types. Hoe kan je deze motor herkennen? Geef een andere naam voor de ASM.
 
-Een ASM is opgebouwd uit een statisch gedeelte, *de stator* en een dynamisch gedeelte, **
+Een ASM is opgebouwd uit een statisch gedeelte, *de stator* en een dynamisch gedeelte, *de rotor*. Beide zijn gescheiden door een kleine *luchtspleet*.
+De *stator* is gemaakt uit gietstaal met gleuven waarin de $3f$ statorwikkelingen, regelmatig over de statoromtrek verdeeld, aangebracht zijn. In de *stator* bevind zich de *rotor* met een *luchtspleet tussen*. 
+De *rotor* is opgebouwd uit koperen of Aluminium staven die op hun uiteinden zijn verbonden met koperen of Al staven met elkaar terug verbonden. Deze zitten in een stalen gelamineerde cylinder.
+
+- Kooi anker machine
+  wikkelingen zitten in de stator
+  6 aansluitingen
+- Sleepring machine
+  Wikkelingen zitten in de rotor
+  3 aansluitingen
+
+Inductie motor
 
 #### 2. Vul in:
 
@@ -13,6 +24,15 @@ Een ASM is opgebouwd uit een statisch gedeelte, *de stator* en een dynamisch ged
 | $n>0$         | $\cosφ_{1}$ | +                    | -                |
 #### 3. Geef de formule voor het toegevoegd vermogen en het nuttig vermogen bij een AS generator. Stel schematisch voor en duid de energiestroom aan.
 
+$$
+P_{toe}=M\cdot \omega
+$$
+$$
+P_{L}=P_{toe}-P_{cu_{r}}-P_{Fe_{r}}-P_{v}
+$$
+$$
+P_{nuttig}=P_{L}-P_{cu_{s}}-P_{Fe_{s}}
+$$
 
 #### 4.Wat is een draaiveld?
 
@@ -26,11 +46,11 @@ Een magnetisch veld dat roteert in een ruimte. Gevoed door een 3f wisselstroom d
 
 #### 6.Toon het ontstaan van een
 
-1. tweepolig veld aan a.d.h.v één of meerdere figuren
-2. vierpolig veld aan a.d.h.v één of meerdere figuren
-3. tweepolig draaiveld aan a.d.h.v één of meerdere figuren, wijzerzin
-4. vierpolig draaiveld a.d.h.v één of meerdere figuren, wijzerzin
-5. tweepolig draaiveld a.d.h.v één of meerdere figuren; tegenwijzerzin
+1. tweepolig veld aan a.d.h.v één $(\omega t_{3}=180°)$ of meerdere figuren $(\omega t_{3}=180°$ en $\omega t_{4}=270°)$
+2. vierpolig veld aan a.d.h.v één $(\omega t_{3}=180°)$ of meerdere figuren $(\omega t_{3}=180°$ en $\omega t_{4}=270°)$
+3. tweepolig draaiveld aan a.d.h.v één $(\omega t_{3}=180°)$ of meerdere figuren $(\omega t_{3}=180°$ en $\omega t_{4}=270°)$, wijzerzin
+4. vierpolig draaiveld a.d.h.v één $(\omega t_{3}=180°)$ of meerdere figuren $(\omega t_{3}=180°$ en $\omega t_{4}=270°)$, wijzerzin
+5. tweepolig draaiveld a.d.h.v één $(\omega t_{3}=180°)$ of meerdere figuren $(\omega t_{3}=180°$ en $\omega t_{4}=270°)$, tegenwijzerzin
 
 | grootheid | kleur |
 | --------- | ----- |
@@ -56,7 +76,7 @@ Een magnetisch veld dat roteert in een ruimte. Gevoed door een 3f wisselstroom d
 
 #### 8. Kan een AS motor op het synchroon toerental draaien?
 
-Neen maar kan wel streven naar het synchroon toerental dus $n_{r}\to n_{s}$ maar nooit $n_{r}\geq n_{s}$ tenzij er een uitwendig meedraaiend koppel is die de motor duwt tot $n_{s}$ of verder ($n_{r}>n_{s}$)
+Neen maar kan wel streven naar het synchroon toerental dus $n_{r}\to n_{s}$ maar nooit $n_{r}\geq n_{s}$ tenzij er een uitwendig meedraaiend koppel is die de motor duwt tot $n_{s}$ of verder ($n_{r}>n_{s}$). De slip is essentieel voor de motorwerking ook al nadert de Slip naar 0 $(s\to0)$ Je kan enkel $s<0$ hebben als je de machine als generator gebruikt.
 
 #### 9. Beschouw de ideale AS motor. Teken het vectordiagram. In welke mate verschilt dit met die van de Ideale transformator?
 
