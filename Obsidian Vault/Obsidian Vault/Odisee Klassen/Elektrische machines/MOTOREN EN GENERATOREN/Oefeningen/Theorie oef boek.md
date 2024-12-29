@@ -72,7 +72,12 @@ Een magnetisch veld dat roteert in een ruimte. Gevoed door een 3f wisselstroom d
 
 #### 7.Bepaal wiskundig de grootte van het tweepolig draaiveld op $t=t_{3}$ en op $t=t_{4}$ . Geef hiervan de afleiding met bijhorend vectordiagram.
 
-
+$$
+\overline{\Phi_{t}}=\overline{\Phi_{1}}+\overline{\Phi_{2}}+\overline{\Phi_{3}}
+$$
+$$
+|\Phi_{t}|=|\Phi_{1}|\cdot \sin\alpha+|\Phi_{2}|\cdot \sin(\alpha-120°)+|\Phi_{3}|\sin(\alpha-240°)
+$$
 
 #### 8. Kan een AS motor op het synchroon toerental draaien?
 
@@ -166,9 +171,9 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 
 
 
-##### Welke actieve vermogens treden er op in de draaiende AS motor en in welke onderdelen van de machine treden deze vermogens op? Som ze één na één op. Bespreek ze uitgebreid en leg uit wat hun fysische betekenis is uitgaande van het EQ schema van de nominaal draaiende AS motor en geef de formule van dit vermogen. Kan je de formules vlot omzetten? Noteer tevens de formules van de resp. koppels. 
+##### ==Welke actieve vermogens treden== er op in de draaiende AS motor en in ==welke onderdelen== van de machine treden deze vermogens op? Som ze één na één op. ==Bespreek ze uitgebreid== en leg uit wat hun ==fysische betekenis== is uitgaande van het ==EQ schema== van de ==nominaal draaiende AS motor== en geef de ==formule van dit vermogen==. Kan je de ==formules vlot omzetten==? Noteer tevens de ==formules van de resp. koppels.==
 
-
+- $P_{1}\implies P_{L},P_{v}(P_{Cu},P_{Fe})\implies P_{i},P_{Cu_{s}}\implies$
 
 #### 18. Van welke parameters is het inwendig koppel van de asynchrone motor afhankelijk?
 

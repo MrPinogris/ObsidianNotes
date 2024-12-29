@@ -1,3 +1,21 @@
+## Equivalent schema ideale ASM 
+
+### Bolfiguur
+
+
+![[Pasted image 20241228093320.png]]
+
+1. Veld $\overline{\Phi}$
+2. Draaiveld
+3. $n_{s}\implies v_{rel}=-n_{s}$
+4. $E_{2}=B\cdot l\cdot v$ (RHL)
+5. $I_{2}\implies B \text{ loodrecht op } v_{rel}\implies E_{2_{max}}$
+6. $F=B\cdot l\cdot I$ (LHR)
+7. $M^+\implies n_{r}^+$
+8. $\overline{\Phi_{2}}$
+9. $\overline{\Phi_{1}}=-\overline{\Phi_{2}}$
+10. $I_{1}$'
+
 ## Equivalent schema niet ideale ASM
 ### Niet ideale ASM bij nullast
 $$n\approx n_s \implies s_{0}\to{0}$$$$\downarrow$$$$E_{2(0)}\ll$$$I_{2(0)}\gg$ In vergelijking met de $I_{0}$ van transfo. Door aanwezigheid luchtspleet.

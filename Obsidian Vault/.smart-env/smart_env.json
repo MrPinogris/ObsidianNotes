@@ -1,7 +1,8 @@
 {
   "is_obsidian_vault": true,
   "smart_blocks": {
-    "embed_blocks": true
+    "embed_blocks": true,
+    "min_chars": "300"
   },
   "smart_sources": {
     "single_file_data_path": ".smart-env/smart_sources.json",
@@ -12,6 +13,10 @@
         "model_key": "TaylorAI/bge-micro-v2"
       },
       "TaylorAI/bge-micro-v2": {}
+    },
+    "min_chars": "300",
+    "smart_change": {
+      "active": true
     }
   },
   "file_exclusions": "Untitled",
@@ -31,5 +36,6 @@
     "embed_model": {
       "model_key": "None"
     }
-  }
+  },
+  "excluded_headings": ""
 }
