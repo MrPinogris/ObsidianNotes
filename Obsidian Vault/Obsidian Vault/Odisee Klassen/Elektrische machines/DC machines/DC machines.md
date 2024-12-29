@@ -2,10 +2,18 @@
 
 ## 3.1 Inleiding
 
-De term *elektrische machine* verwijst naar een apparaat waarbij elektrische energie wordt omgezet in mechanische energie of omgekeerd. Deze machines zijn elektromechanische omzetters van energie. Gelijkstroommachines kunnen worden onderverdeeld in:
+==De term *elektrische machine* verwijst naar een apparaat waarbij elektrische energie wordt omgezet in mechanische energie of omgekeerd. Deze machines zijn elektromechanische omzetters van energie. Gelijkstroommachines kunnen worden onderverdeeld in:==
 
 - **Dynamo's**: zetten mechanische energie om in elektrische energie.
 - **Motoren**: zetten elektrische energie om in mechanische energie.
+
+### 3.1.2 de vergelijking
+
+| Transformator | ASM       | DC-machine    |
+| ------------- | --------- | ------------- |
+| Sinusoidal    | Draaiveld | Vast mag veld |
+| Primaire      | Stator    | Stator        |
+| Secundair     | Rotor     | Anker         |
 
 ---
 ## 3.2 De bouw van de gelijkstroommachine
@@ -46,13 +54,26 @@ Het anker is de draaiende rotor van de machine. Bij de meeste gelijkstroommachin
 De **draaizin** wordt bepaald door de richting van de stroom door het anker en het statorveld.
 
 ---
-## 3.3.2 De types bekrachtiging
+
+## 3.3 De verschillende types gelijkstroommachines
+
+### 3.3.1 De permanente magneet motor
+
+**Stator:**
+- **Primair veld:** bestaat uit permanente magneten
+**Anker:**
+- Gelijk als gewone DC-motor
+**Kenmerken:**
+- Kleine vermogens
+- Hoger rendement 
+
+### 3.3.2 De types bekrachtiging
 
 Gelijkstroommachines worden verder ingedeeld op basis van de methode waarmee de veldstroom wordt opgewekt:
 
 1. **Onafhankelijke bekrachtiging**:
    - De veldstroom wordt geleverd door een externe spanningsbron.
-   - Deze machines worden OB-machines genoemd.
+   - Deze machines worden OB-machines (Onafhankelijke Bekrachtiging machines) genoemd.
    - Aanduidingen:
      - **Ankerwikkeling**: $A_1 - A_2$
      - **Veldwikkeling**: $F_1 - F_2$
@@ -64,7 +85,8 @@ Gelijkstroommachines worden verder ingedeeld op basis van de methode waarmee de 
      - **Shuntmotor**: veldwikkeling in parallel met ankerwikkeling ($E_1 - E_2$).
      - **Compoundmotor**: combinatie van serie- en shuntwikkeling.
 
-### Klemmaanduidingen
+
+#### Klemmaanduidingen
 
 | **Benaming**                 | **Klemmaanduiding** |
 |------------------------------|---------------------|
