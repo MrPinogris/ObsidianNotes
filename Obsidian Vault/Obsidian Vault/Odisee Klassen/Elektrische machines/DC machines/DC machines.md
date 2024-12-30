@@ -100,43 +100,139 @@ Gelijkstroommachines worden verder ingedeeld op basis van de methode waarmee de 
 ---
 ## 3.4 Principe van de motorwerking
 ### 3.4.1 Algemene werking
-Een gelijkstroommotor werkt op basis van het effect van een magnetische flux $\phi$ op een stroom voerende geleider. Dit genereert een lorentzkracht, gegeven door: $$ F = B \cdot l \cdot I_a $$ waarbij: - $B$: inductie (in het magnetisch veld), - $l$: effectieve lengte van de geleider, - $I_a$: ankerstroom. Wanneer de hoek tussen $B$ en $I_a$ niet loodrecht is, wordt de kracht: $$ F = B \cdot l \cdot I_a \cdot \cos{\alpha} $$ 
-### 3.4.2 Motorwerking Het anker draait in het magnetisch veld door het resulterende koppel: 
-$$ M = F \cdot d = k_2 \cdot \phi \cdot I_a $$
-waarbij $k_2$ de tweede machineconstante is. ### 3.4.3 Tegen-EMK en toerental De opwekking van de tegen-EMK $E$ is recht evenredig met het toerental $n$ en de flux $\phi$: 
-$$ E = k_1 \cdot \phi \cdot n $$
-waarbij $k_1$ de eerste machineconstante is. De ankerstroom bij stilstand is: 
-$$ I_{a,\text{aan}} = \frac{U_a}{R_a + R_{\text{aan}}} $$
+Een gelijkstroommotor werkt op basis van het effect van een magnetische flux $\phi$ op een stroom voerende geleider. Dit genereert een lorentzkracht, gegeven door: 
+$$
+F = B \cdot l \cdot I_a 
+$$
+![[Pasted image 20241229124134.png]]
+waarbij: - $B$: inductie (in het magnetisch veld), - $l$: effectieve lengte van de geleider, - $I_a$: ankerstroom. Wanneer de hoek tussen $B$ en $I_a$ niet loodrecht is, wordt de kracht: 
+$$
+F = B \cdot l \cdot I_a \cdot \cos{\alpha} 
+$$
+Met:
+- $B \text{ de inductie}$
+- $l \text{ de nuttige lengte}$
+- $I_{a} \text{ de stroomvoerende gelijder}$
+- $\alpha \text{ de hoek van waar de gelijder zich bevind tov het veld}$
+![[Pasted image 20241229124155.png]]
+![[Pasted image 20241229124358.png]]
+
+### 3.4.2 Motorwerking
+Het anker draait in het magnetisch veld door het resulterende koppel: 
+$$
+M = F \cdot d = k_2 \cdot \phi \cdot I_a 
+$$
+waarbij:
+- $d \text{ de diameter van het anker}[m]$
+- $k_2$ de tweede machineconstante is.
+$$
+M=F\cdot d=\frac{\Phi}{S}\cdot l\cdot I_{a}\cdot d=k_{2}\cdot \Phi\cdot I_{a}
+$$
+Met: $B \text{ wordt vervangen door }\frac{\Phi}{S} \implies k_{2}=\frac{l*d}{S}$
+
+waarbij:
+- $\Phi[Wb]$
+- $I_{a}[A]$
+- $M[Nm]$
+- $S[m^2]$
+
+#### 3.4.2.0 Motorwerking
+
+Om het gewenste magnetische veld in de luchtspeling te bekomen:
+- Het veld wordt opgebouwd door poolschoenen dicht bij het cirkelvormige anker.
+- Lorentzkrachten werken radiaal op actieve geleiders (loodrecht op de straal).
+- Nabij de neutrale lijn neemt de kracht af tot nul.
+
+Wanneer het anker roteert:
+- Opvolgende wikkelingen moeten van elektrische stroom worden voorzien.
+- De stroomrichting wordt omgepoold door koolstofborstels en de commutator.
+- Geleiders op de neutrale lijn dragen niet bij aan het koppel door een tangentiële krachtcomponent.
+
+**Koolstofborstels en commutator:**
+- Koolstofborstels maken contact met het anker via een commutator.
+- De commutator bestaat uit koperen lamellen gescheiden door isolatiemateriaal.
+- Koolstofborstels zorgen voor een continue stroom naar de wikkelingen.
+- Door rotatie schakelt de commutator de stroomrichting, waardoor een constant koppel ontstaat.
+
+De combinatie van koolstofborstels en commutator:
+- Zorgt voor stroomtoevoer naar het anker.
+- Schakelt de stroomrichting, zodat het magnetische veld een constante richting behoudt en rotatie ondersteunt.
+
+### 3.4.3 Primair verschijnsel bij motorwerking
+
+**Oorzaak toerental:**
+1. Inductie
+2. Stroom voerende geleiders
+3. Lorentzkracht
+4. Cylinder dus Lorentzkracht omgezet in koppel
+5. Koppel veroorzaakt draaiende beweging
+6. Toerental
+
+### 3.4.4 Secundair verschijnsel bij motorwerking
+De opwekking van de tegen-EMK $E$ is recht evenredig met het toerental $n$ en de flux $\phi$: 
+$$
+E = k_1 \cdot \phi \cdot n 
+$$
+
+waarbij $k_1$ de eerste machineconstante is. 
+$$
+k_{1}=s\cdot \frac{1}{S}\cdot l\cdot R\cdot \frac{2\pi}{60}
+$$
+De ankerstroom bij stilstand is: 
+$$
+I_{a,\text{aan}} = \frac{U_a}{R_a + R_{\text{aan}}} 
+$$
+De tegen EMK OB-machine
+$$
+E=U_{a}-R_{a_{tot}}\cdot I_{a}
+$$
+$$
+k_{1}\cdot n\cdot \Phi=U_{a}-R_{a_{tot}}\cdot I_{a}
+$$
+$$
+n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}*\Phi}
+$$
 
 ---
-## 3.5 Ankerreactie
+## 3.5 Anker reactie
 
 ### 3.5.1 Onbelast
 
 Bij een onbelaste twee-polige gelijkstroommachine is de ankerstroom $I_{a,0}$ vrijwel nul, omdat de motor in nullast werkt. Het magnetisch veld, het hoofdveld $\phi_h$, wordt gegenereerd door de statorpolen. De neutrale lijn ($AB$) staat loodrecht op het hoofdveld en stroomwisselingen kunnen daar plaatsvinden.
+![[Pasted image 20241229141347.png]]
 
 ### 3.5.2 Belast
 
 Wanneer de gelijkstroommachine belast wordt, ontstaat er een ankerstroom $I_a$. Deze stroom genereert een ankerveld $\phi_a$, dat invloed heeft op het hoofdveld $\phi_h$. Het resulterende veld $\phi_\text{res}$ is de som van het hoofdveld en het ankerveld. Dit veroorzaakt:
-- Verplaatsing van de neutrale lijn.
+- Verplaatsing van de neutrale lijn(loodrecht op het hoofdveld).
 - Lokale verzadiging in de poolschoenen, wat de flux verzwakt.
 
-De nadelige effecten van ankerreactie zijn:
+De nadelige effecten van anker reactie zijn:
 1. Fluxvermindering, wat leidt tot verminderde prestaties van de machine.
 2. Vervorming van de neutrale lijn, wat commutatie bemoeilijkt en vonkvorming veroorzaakt.
-3. Veranderingen in de ankerreactie bij wisselende belasting.
+3. Veranderingen in de anker reactie bij wisselende belasting.
+![[Pasted image 20241229141737.png]]
 
-### 3.5.3 Oplossingen voor ankerreactie
+**Ankerreactie**
+![[Pasted image 20241229143115.png]]
+
+### 3.5.3 Oplossingen voor anker reactie
+
+#### Borstelverschuiving
+- De borstels op de hoogte zetten van de verwachte verschoven neutrale lijn.
+![[Pasted image 20241229143418.png]]
 
 #### Compensatiewikkeling
 - Deze wikkeling wordt aangebracht in de poolschoenen en staat in serie met het anker.
 - Het opgewekte compensatieveld is tegengesteld aan het ankerveld.
 - Toegepast bij zwaar belaste gelijkstroommachines.
+![[Pasted image 20241229143432.png]]
 
 #### Hulppolen
 - Geplaatst tussen de hoofdpolen.
-- Genereren een veld om de ankerreactie lokaal te compenseren.
+- Genereren een veld om de anker reactie lokaal te compenseren.
 - Toegepast bij gelijkstroommachines met een klein vermogen.
+![[Pasted image 20241229143443.png]]
 
 ---
 ## 3.6 Principe gelijkstroomdynamo
@@ -158,6 +254,7 @@ Met:
 - $l$: effectieve lengte van de geleider,
 - $v$: snelheid van de geleider,
 - $\alpha$: hoek tussen $v$ en $B$.
+![[Pasted image 20241229143648.png]]
 
 ### 3.6.2 Dynamowerking
 
@@ -187,8 +284,26 @@ F = B \cdot l \cdot I_a
 $$
 Dit resulteert in een tegenwerkend koppel:
 $$
+M_{tot}=z'\cdot B\cdot l\cdot I_{a}\cdot_{2}R = z'\cdot l\cdot 2R\cdot \frac{1}{S}\cdot \Phi\cdot I_{a}
+$$
+
+---
+
+- $F=B\cdot l\cdot I_{a}$
+- $B=\frac{\Phi}{S}$
+
+
+----
+
+$$
 M = k_2 \cdot \phi \cdot I_a
 $$
+
+---
+
+- $k_{2}=z'\cdot l\cdot 2R\cdot \frac{1}{S}$
+
+---
 
 Met:
 - $k_2$: tweede machineconstante,
@@ -197,12 +312,18 @@ Met:
 
 Het koppel is evenredig met de flux en de ankerstroom.
 
+![[Pasted image 20241229144444.png]]
+$R_{a_{tot}}=R_{a}+R_{b}+R_{c}$
+
+
 ---
-## 3.7 Vermogenverdeling motor
+## 3.7 Vermogensverdeling OB-motor
 
 ### Inleiding
 
 Bij de werking van een motor wordt elektrische energie omgezet in mechanische energie. Deze omzetting is echter niet volledig efficiënt. Een deel van de elektrische energie gaat verloren als warmte of mechanische verliezen.
+
+![[Pasted image 20241229144628.png]]
 
 ### 3.7.1 Toegevoegd vermogen
 
@@ -226,7 +347,7 @@ Waarbij $R_{a,\text{tot}}$ de totale weerstand van de wikkelingen omvat, inclusi
 
 Het inwendig vermogen, na aftrek van de koperen verliezen, wordt berekend als:
 $$
-P_i = P_t - P_{Cu} = E \cdot I_a
+P_i = P_t - P_{Cu} = U_{a}\cdot I_{a}-R_{a_{tot}}\cdot I_{a}^2 = E \cdot I_a
 $$
 Het overeenkomende inwendige koppel is:
 $$
@@ -274,3 +395,143 @@ $$
 Dit rendement is afhankelijk van de belasting en de ontwerpkenmerken van de motor.
 
 ---
+## 3.8 Vermogensverdeling dynamo
+
+![[Pasted image 20241229172108.png]]
+
+Wanneer een gelijkstroommachine als dynamo werkt, wordt mechanisch vermogen ($P_t$) aan de as toegevoegd. Tijdens het draaien treden er verliezen op:
+- **IJzerverliezen** ($P_{\text{Fe}}$),
+- **Mechanische verliezen** ($P_{\text{vent+wrij}}$): ventilatie- en wrijvingsverliezen.
+
+Het totaal van deze verliezen wordt aangegeven als $P_v$.
+
+### Inwendig vermogen
+Het inwendig vermogen van de dynamo wordt berekend door het mechanisch toegevoegd vermogen te verminderen met de verliezen:
+$$
+P_i = P_t - P_v = P_t - (P_{\text{Fe}} + P_{\text{vent+wrij}})
+$$
+Ook kan dit uitgedrukt worden als:
+$$
+P_i = E \cdot I_a
+$$
+waarbij:
+- $E$: opgewekte spanning,
+- $I_a$: ankerstroom.
+
+### Nuttig vermogen
+Het afgegeven of nuttig vermogen (nu elektrisch vermogen) wordt berekend als:
+$$
+P_n = P_i - P_{\text{Cu,anker}} = U_a \cdot I_a
+$$
+waarbij:
+- $U_a$: klemspanning.
+
+### Rendement
+Het rendement van de dynamo wordt berekend door het nuttige vermogen te delen door het toegevoegde vermogen:
+$$
+\eta = \frac{P_n}{P_t} \cdot 100\%
+$$
+
+### Opmerkingen
+- Bij de dynamo geldt dat $P_t$ mechanisch vermogen is, terwijl $P_n$ elektrisch vermogen is.
+- De respectieve koppels kunnen worden afgeleid door de vermogens te delen door de hoeksnelheid $\omega$.
+
+---
+
+## 3.9 Kwadrantenwerking
+
+De gelijkstroommachine kan zowel als motor als dynamo werken, afhankelijk van de richting van de stroom ($I_a$) en de opgewekte spanning ($E$). De werking wordt onderverdeeld in vier kwadranten, afhankelijk van:
+- Het toerental ($n$),
+- Het koppel ($M$),
+- De energiestroom (positief of negatief).
+
+### Kwadrantindeling
+De kwadranten worden als volgt beschreven:
+
+1. **Kwadrant I**: 
+   - **Motorwerking**: De machine werkt als motor en neemt energie op.
+   - $M > 0$, $n > 0$, energiestroom positief.
+   - $E < U_a$ (opgewekte EMK kleiner dan de klemspanning).
+   - Voorbeeld: normaal bedrijf van een motor.
+
+2. **Kwadrant II**:
+   - **Dynamowerking (genererend)**: De machine genereert energie met een positief toerental maar negatief koppel.
+   - $M < 0$, $n > 0$, energiestroom negatief.
+   - Voorbeeld: remmen via regeneratie in voertuigen.
+
+3. **Kwadrant III**:
+   - **Motorwerking (omgekeerd)**: De machine werkt als motor, maar met omgekeerde draairichting.
+   - $M < 0$, $n < 0$, energiestroom positief.
+   - Voorbeeld: achteruitrijden met een elektrisch aangedreven voertuig.
+
+4. **Kwadrant IV**:
+   - **Dynamowerking (genererend)**: De machine genereert energie met een negatief toerental en negatief koppel.
+   - $M > 0$, $n < 0$, energiestroom negatief.
+   - Voorbeeld: regeneratief remmen bij omgekeerde draairichting.
+
+### Overzichtstabel
+| **Kwadrant** | **M** | **n** | **Energiestroom** | **$U_a$** | **$E$** | **$I_a$** | **Verduidelijking** |
+|--------------|--------|-------|-------------------|-----------|----------|----------|----------------------|
+| I            | +      | +     | +                 | +         | $E < U_a$| +        | Motorwerking, energieopname |
+| II           | -      | +     | -                 | +         | $E > U_a$| -        | Dynamowerking, energieafgifte |
+| III          | -      | -     | +                 | -         | $E < U_a$| +        | Motorwerking, omgekeerde draairichting |
+| IV           | +      | -     | -                 | -         | $E > U_a$| -        | Dynamowerking, energieafgifte bij omgekeerde draairichting |
+
+![[Pasted image 20241229150838.png]]
+
+### Conclusie
+De kwadrantenwerking maakt het mogelijk om een gelijkstroommachine flexibel in te zetten als motor of dynamo, afhankelijk van de toepassingsvereisten.
+
+---
+
+## 3.10 Onafhankelijk bekrachtigde gelijkstroommotor
+
+### 3.10.1 Equivalent schema
+Het equivalent schema van de onafhankelijk bekrachtigde motor omvat een voorschakelweerstand $R_{\text{aan}}$, die dient om de ankerstroom te beperken tijdens het starten. 
+
+![[Pasted image 20241229151111.png]]
+
+### 3.10.2 Veldstroom
+De veldwikkeling is aangesloten op een externe spanningsbron $U_v$. De veldstroom wordt berekend met:
+$$
+I_v = \frac{U_v}{R_v}
+$$
+Hierbij:
+- $R_v$: weerstand van de veldwikkeling,
+- $U_v$: spanning over de veldwikkeling.
+
+Door het grote aantal windingen in de veldwikkeling is $I_v$ klein, maar het opgewekte magnetisch veld is relatief groot.
+
+### 3.10.3 Ankerstroom
+De ankerstroom wordt gegeven door:
+$$
+I_a = \frac{\overbrace{ U_a }^{ C^{te} } - \overbrace{ E }^{ Var }}{R_{a_{tot}}}
+$$
+Waarbij:
+- $U_a$: klemspanning,
+- $E$: tegen-emk,
+- $R_{a,\text{tot}}$: totale weerstand van de ankerkring.
+
+### 3.10.4 Koppelkarakteristiek
+Het koppel wordt berekend met:
+$$
+M = \overbrace{ k_2 }^{ C^{te} } \cdot \overbrace{ \Phi }^{ C^{te} } \cdot I_a
+$$
+Bij een constante flux $\phi$ is het koppel evenredig met $I_a$. De koppelkarakteristiek is een rechte lijn door de oorsprong, waarbij een hogere ankerstroom resulteert in een groter koppel.
+![[Pasted image 20241229151352.png]]
+
+### 3.10.5 Toerentalkarakteristiek
+Het toerental wordt gegeven door:
+$$
+n = \frac{U_a - R_{a,\text{tot}} \cdot I_a}{k_1 \cdot \phi}
+$$
+Bij een constante flux verloopt het toerental lineair met $I_a$. Belangrijke punten:
+- Bij een kleine belasting blijft het toerental relatief constant.
+- Bij een grote belasting daalt het toerental door de toenemende spanningsval over $R_{a,\text{tot}}$.
+
+In nullast bereikt het toerental theoretisch:
+$$
+n_{\text{max}} = \frac{U_a}{k_1 \cdot \phi}
+$$
+Bij verlies van flux ($\phi = 0$) kan de motor "op hol slaan." Dit wordt voorkomen door veldbewaking in de stuurkring.
+
