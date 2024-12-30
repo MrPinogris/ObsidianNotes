@@ -10,7 +10,8 @@
       "no_import_queue": true,
       "done_initial_scan": true,
       "Notice_muted": true,
-      "embedding_complete": true
+      "embedding_complete": true,
+      "no_entity": true
     }
   },
   "system_prompts_folder": "smart prompts",

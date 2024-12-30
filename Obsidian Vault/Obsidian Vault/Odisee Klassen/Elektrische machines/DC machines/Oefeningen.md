@@ -175,11 +175,26 @@ Een OB-motor is aangesloten op 750 V. De ankerweerstand is 0,1 ohm en de veldwee
 - $\eta = 84\%$
 
 **Gevraagd:**
-1. De tegenemk (740 V).
+1. De tegen emk (740 V).
+   $$
+E=U-I\cdot R_{a}=750\cdot 0,1\cdot 100=740V
+$$
 2. Het asvermogen (63 kW).
+   $$
+P_{as}= P_{in}\cdot \eta = 750\cdot 100\cdot 0,84=63kW
+$$
 3. Het askoppel bij 500 tpm ($M_N = 1203 \, \text{Nm}$).
+   $$
+M_{as}(500tpm)=\frac{P_{as}}{\omega}=\frac{63kW}{500\cdot 2\pi / 60}=1203Nm
+$$
 4. De aanzetweerstand als de aanzetstroom 1,5 keer de nominale stroom is ($R_a = 4,9 \, \Omega$).
+   $$
+R_{voor}=\frac{U_{a}}{I_{a}\cdot 1,5}-R_{a}=\frac{750}{150}-0,1=4,9 \ohm
+$$
 5. De veldstroom ($I_f = 2 \, \text{A}$).
+   $$
+I_{f}= \frac{U_{f}}{R_{f}}=\frac{110}{55}=2A
+$$
 
 ---
 
@@ -196,6 +211,9 @@ Een OB-motor heeft een nominale ankerspanning van 440 V, het nominaal vermogen v
 
 **Gevraagd:**
 1. De ankerstroom bij het aanzetten als de spanning verlaagd werd naar 50 V. ($I_a = 125 \, \text{A}$)
+   $$
+I_{a}=
+$$
 2. Het nominale askoppel. ($M_N = 573 \, \text{Nm}$)
 3. Het aanzetkoppel als het inwendig koppel en het askoppel aan elkaar mogen gelijkgesteld worden. ($M_{st} = 955 \, \text{Nm}$)
 
