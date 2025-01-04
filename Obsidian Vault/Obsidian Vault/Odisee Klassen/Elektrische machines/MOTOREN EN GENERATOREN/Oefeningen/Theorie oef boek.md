@@ -159,11 +159,11 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 
 
 
-#### 16. Verklaar de fysische betekenis van de weerstanden $R_{2},R_{2}/s,R_{2}(1-s)/s$
+### 16. Verklaar de fysische betekenis van de weerstanden $R_{2},R_{2}/s,R_{2}(1-s)/s$
 
 
 
-#### 17. De nominaal draaiende AS motor (niet ideaal):
+### 17. De nominaal draaiende AS motor (niet ideaal):
 
 
 
