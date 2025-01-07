@@ -1,0 +1,55 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-shellcommands:shell-command-6uw8j9advu",
+      "icon": "lucide-calculator",
+      "name": "Shell commands: Execute: Run LaTeX Calculator",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "script-launcher:run-script",
+      "icon": "lucide-a-arrow-down",
+      "name": "Script Launcher: Run script",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "pencil",
+      "name": "task",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open: View Smart Connections",
+      "Open: Smart Chat Conversation",
+      "Templater",
+      "Advanced Tables Toolbar",
+      "Sjabloon invoegen"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

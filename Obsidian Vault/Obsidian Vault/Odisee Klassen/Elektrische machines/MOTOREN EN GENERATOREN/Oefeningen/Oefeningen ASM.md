@@ -37,6 +37,8 @@ $$
 n_{r}=\frac{f_{s}-f_{r}\cdot60}{4}=\frac{49\cdot60}{4}=735\text{tpm}
 $$
 
+
+- [ ] Bereken LaTeX: `cmd /c start "" "C:\Users\alexa\Desktop\Obsidian\Obsidian Vault\Latex Calculator\run_calculator.bat"`
 ## Oefening 4
 
 ### Gegeven
@@ -176,28 +178,71 @@ $$
 $$
 9. $M_{n}$
    $$
-M_{n}=\frac{P_{n}}{\underbrace{ \omega_{r} }_{ =n_{r}\cdot \frac{2\pi}{60}=n_{s}*(1-s)\cdot \frac{2\pi}{60} }}=13
+M_{n}=\frac{P_{n}}{\underbrace{ \omega_{r} }_{ =n_{r}\cdot \frac{2\pi}{60}=n_{s}*(1-s)\cdot \frac{2\pi}{60} }}=\frac{13392}{\frac{2\pi}{60}\cdot 750\cdot(1-0,03)}=175,79\text{Nm}
 $$
 ## Oefening 10
 ### Gegeven
 ASM, $P_{as}=1100\text{kW}$, $n_{r}=147$, ster $U_{1}=6000\text{V@50Hz}$, $\eta=90\%$ met $\cos \varphi=0,88$, $s_{n}=2\%$
 ### Gevraagd
-1. $P\text{ ?}$
+1. $p\text{ ?}$
+   $$
+n_{s}= \frac{n_{r}}{1-s} \implies n_{s}=\frac{60\cdot f}{P}\implies P=\frac{60\cdot f}{n_{s}}=\frac{60\cdot50}{\frac{147}{0,98}}=20\implies p=2\cdot P=40
+$$
 2. $I_{s_{n}}$
+   $$
+\frac{P_{2}}{\eta}=P_{toe}=\sqrt{ 3 }\cdot U_{L}\cdot I_{L}\cdot \cos \varphi_{1}\implies I_{s_{n}}= \frac{\frac{P_{2}}{\eta}}{\sqrt{ 3 }\cdot U_{L}\cdot \cos \varphi_{1}}=\frac{\frac{1100000}{0,9}}{\sqrt{ 3 }\cdot 6000\cdot 0,88}=133.65
+$$
 3. $P_{Cu}\text{ ? als }P_{\text{verlies stator}}=4\%\cdot P_{1}$
-## Oefening 11
+   $$
+P_{1}=P_{L}+4\%\cdot P_{1}\implies P_{L}=\frac{1100000}{0,9}\cdot 0,96=1.17M\text{W}
+$$
+$$
+P_{Cu}=3\cdot R_{2}\cdot I_{2}^2
+$$
+$$
+P_{L}=3\cdot \frac{R_{2}}{s}\cdot I_{2}^2= \frac{P_{Cu}}{s}
+$$
+$$
+P_{Cu}=P_{L}*s=1173333.33\cdot 0,02= 23466.67\text{W}
+$$
+## ==Oefening 11==
 ### Gegeven
 ASM, $P_{as}=22\text{kW}$, $50\text{Hz}$, $P=6$, $s_{n}=4\%$, $P_{Fe}= 250\text{W}$
 ### Gevraagd
 1. $s_{a}\text{ ?}$
+   $$
+n_{s}=\frac{60\cdot50}{3}=1000\text{tpm}
+$$
+$$
+s_{a}= n_{s}\cdot s=1000\cdot 0,04=\text{tpm}
+$$
 2. $P_{Cu}\text{ ?}$
+
+$$
+P_{i}=22000+250=22250.0
+$$
+   $$
+P_{L}=P_{v}+P_{Cu}+P_{as}=3\cdot \frac{R_{2}}{s}\cdot I_{2}^2=\frac{P_{Cu}}{s}=\frac{P_{i}}{1-s}=\frac{22250}{1-0,04}=23177.08
+$$
+$$
+P_{Cu}=P_{L}-P_{i}=23177.08-22250=927.08\text{W}
+$$
 ## Oefening 12
 ### Gegeven
 $P=3$, $P_{as}=10\text{kW}$, $50\text{Hz}$, $P_{Cu_{r}}=400\text{W}$, $P_{v_{s}}= 100\text{W}$, $\eta=80\%$
 ### Gevraagd
 1. $s\text{ ?}$
+   $$
+s = \frac{P_{Cu}}{P_{L}}=\frac{400}{10000-100}\cdot 100=4.04\%
+$$
 2. $n_{r}\text{ ?}$
+   $$
+n_{r}=n_{s}\cdot (1-s)=\frac{60\cdot50}{3}\cdot (1-0,0404)=959.6\text{tpm}
+$$
 3. $M_{as}$
+   $$
+M_{as}=\frac{P_{as}}{\omega _{r}}=\frac{10000\cdot 0.8}{\frac{2\cdot \pi}{60}\cdot959.6}=79.6
+$$
 ## Oefening 13
 ### Gegeven
 ASM, $R_{2}=0,01\ohm$, $X_{2_{st}}=0,06\ohm$

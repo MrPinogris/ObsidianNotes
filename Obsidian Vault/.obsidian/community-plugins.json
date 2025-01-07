@@ -6,5 +6,9 @@
   "table-editor-obsidian",
   "oz-image-plugin",
   "hotkeysplus-obsidian",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "cmdr",
+  "script-launcher",
+  "obsidian-shellcommands",
+  "obsidian-tasks-plugin"
 ]
