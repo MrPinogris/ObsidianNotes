@@ -154,12 +154,30 @@ I_{2_{st}}=\frac{E_{2_{st}}}{Z_{2_{st}}}=\frac{92}{\sqrt{ 0,04^2+0,24^2 }}=378,1
 $$
 5. $I_{2_{n}}$
    $$
-I_{2}=\frac{E_{2_{st}}}{\sqrt{ \frac{R_{2}}{s}^2+X_{2_{st}}^2 }}=
+I_{2}=\frac{E_{2_{st}}}{\sqrt{ \frac{R_{2}}{s}^2+X_{2_{st}}^2 }}=\frac{92}{\sqrt{ \frac{0,04}{0,03}^2+0,24^2 }}=67,9\text{A}
 $$
 6. $I_{1_{st}}$
+   $$
+\overline{I_{1_{st}}}=\overbrace{ \overline{I_{0}} }^{\approx 0 }+\overline{I_{1}'}\implies I_{2_{st}}\cdot k=378,12\cdot 0,4=151,25\text{A}
+$$
 7. $I_{1_{n}}$
+   $$
+I_{1_{n}}=\overbrace{ \overline{I_{0}} }^{\approx 0 }+\overline{I_{1}'}\approx I_{2_{n}}\cdot k=67,9\cdot 0,4= 27,16\text{A}
+$$
 8. $\eta_{n}\text{ met }\cos \varphi=0,8\text{ en }P_{v_{s}}=700\text{W}$
+   $$
+P_{toe}=3\cdot U_{1_{F}}\cdot I_{1_{F}}\cdot \cos \varphi_{1}=\sqrt{ 3 }\cdot 400\cdot 27,16\cdot 0,8= 15055\text{W}
+$$
+$$
+P_{as}=P_{toe}-P_{v_{1}}-\overbrace{ P_{Cu_{2}} }^{ 3\cdot R_{2}\cdot I_{2_{n}}^2 }=15055-700-553,396-410=13390,2\text{W}
+$$
+   $$
+\eta_{n} =\frac{P_{as}}{P_{toe}}=\frac{13390,2}{15055}=88,95\%
+$$
 9. $M_{n}$
+   $$
+M_{n}=\frac{P_{n}}{\underbrace{ \omega_{r} }_{ =n_{r}\cdot \frac{2\pi}{60}=n_{s}*(1-s)\cdot \frac{2\pi}{60} }}=13
+$$
 ## Oefening 10
 ### Gegeven
 ASM, $P_{as}=1100\text{kW}$, $n_{r}=147$, ster $U_{1}=6000\text{V@50Hz}$, $\eta=90\%$ met $\cos \varphi=0,88$, $s_{n}=2\%$
