@@ -4,115 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "a69344a181aff4c9",
+        "id": "58761c559f030a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "0f979f9c130b1dfc",
+            "id": "5bb318fbf99cc711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Smart-grids.md",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Vragen Monitoriaat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smart-grids"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9c044ee6b2ac0abd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4fd7ced89df81981",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 1 (v240924).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "smart grids & e-mobility lesmodule 1 (v240924)"
+              "title": "Vragen Monitoriaat"
             }
           },
           {
-            "id": "79099bee80cd4afe",
+            "id": "173520b86a73686d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 2 (v240930).pdf"
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "smart grids & e-mobility lesmodule 2 (v240930)"
+              "icon": "lucide-file",
+              "title": "Oefeningen ASM"
             }
           },
           {
-            "id": "d8cdd678ca6cac55",
+            "id": "b5fffb3c3da859dd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 3 (v241007).pdf"
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "smart grids & e-mobility lesmodule 3 (v241007)"
-            }
-          },
-          {
-            "id": "28007800bb87cc2c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 4 (v241007).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "smart grids & e-mobility lesmodule 4 (v241007)"
-            }
-          },
-          {
-            "id": "7a353332389e47a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 5 (v241020).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "smart grids & e-mobility lesmodule 5 (v241020)"
-            }
-          },
-          {
-            "id": "d29e3fe39be4f92d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 6 (241210) lesnotities.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "smart grids & e-mobility lesmodule 6 (241210) lesnotities"
-            }
-          },
-          {
-            "id": "6fef2fa2defe3cb8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 7 (v221202).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "smart grids & e-mobility lesmodule 7 (v221202)"
+              "title": "4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5110321044922,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -282,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,30 +233,34 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d8cdd678ca6cac55",
+  "active": "173520b86a73686d",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 2 (v240930).pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 1 (v240924).pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 7 (v221202).pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 6 (241210) lesnotities.pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 5 (v241020).pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 4 (v241007).pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf/smart grids & e-mobility lesmodule 3 (v241007).pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Smart-grids.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Samenvatting Alle Formules ASM.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
-    "Obsidian Vault/Odisee Klassen/Smart-grids/Lessen pdf",
-    "Obsidian Vault/Odisee Klassen/Smart-grids",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.14-2.16.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Vragen Monitoriaat.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.3-2.4.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Transformatoren.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/4.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/1.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Samenvatting Alle Formules ASM.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Algemene Samenvatting van ASM.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Antwoorden vragen.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.14-2.16.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.13-2.14.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.13.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.10-2.12.pdf",
     "Naamloos.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefen vragen.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Antwoorden vragen.md",
+    "Obsidian Vault/Odisee Klassen/Smart-grids/Smart-grids.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
     "attachments/Pasted image 20241229172108.png",
     "attachments/Pasted image 20241229151352.png",
     "attachments/Pasted image 20241229151111.png",
@@ -335,7 +274,6 @@
     "ASM Tekeningen.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Tekeningen Machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Wetten.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Algemene Samenvatting van ASM.md",
     "burn.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Elektrische machines.md"
   ]
