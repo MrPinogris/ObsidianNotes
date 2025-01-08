@@ -37,8 +37,6 @@ $$
 n_{r}=\frac{f_{s}-f_{r}\cdot60}{4}=\frac{49\cdot60}{4}=735\text{tpm}
 $$
 
-
-- [ ] Bereken LaTeX: `cmd /c start "" "C:\Users\alexa\Desktop\Obsidian\Obsidian Vault\Latex Calculator\run_calculator.bat"`
 ## Oefening 4
 
 ### Gegeven

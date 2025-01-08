@@ -572,7 +572,7 @@ P_{as}=\frac{2\cdot \pi}{60}\cdot 1400\cdot 6=879.65\text{W}
 \\
 \left( \frac{6\cdot 0,1^2}{1} + 0,0025 \right)n=\frac{6\cdot 0,1\cdot 150}{1}\implies n=\frac{90.0}{0.0625}= 1440\text{tpm}
 \\
-M= 0,0025\cdot 1440=3.6
+M= 0,0025\cdot 1440=3.6\text{Nm}
 \\
 (3.6\text{Nm, }1440\text{tpm})
 \end{gathered}
@@ -580,7 +580,7 @@ $$
 $$
 \begin{gathered}
 M=800\cdot 0,0025=2.0\text{Nm} \\
-M=k_{2}\cdot \phi\cdot I_{a}\implies I_{a}=\frac{M}{k_{2}\cdot \phi}=\frac{2}{6\cdot 0,1}=3.333333\text{A}\\
-n=\frac{U_{a}-I_{a}\cdot R_{a}}{k_{1}\cdot \phi}\implies U_{a}=n\cdot k_{1}\cdot \phi+R_{a}\cdot I_{a}=
+M=k_{2}\cdot \phi\cdot I_{a}\implies I_{a}=\frac{M}{k_{2}\cdot \phi}=\frac{2}{6\cdot 0,1}=3.33\text{A}\\
+n=\frac{U_{a}-I_{a}\cdot R_{a}}{k_{1}\cdot \phi}\implies U_{a}=n\cdot k_{1}\cdot \phi+R_{a}\cdot I_{a}=800*0,1+1\cdot 3.33=83.33\text{V}
 \end{gathered}
 $$
