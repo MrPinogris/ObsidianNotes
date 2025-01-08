@@ -46,7 +46,14 @@
               "icon": "lucide-file-text",
               "title": "ASM en DC"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "70cb7eb0f2ed72d6",
+        "type": "tabs",
+        "children": [
           {
             "id": "84f64b2dfb573584",
             "type": "leaf",
@@ -61,8 +68,7 @@
               "title": "DC machines"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,13 +323,13 @@
       }
     ]
   },
-  "active": "84f64b2dfb573584",
+  "active": "0e7265a0b01f7a5a",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
     "2025-01-08.md",
     "Naamloos.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Vragen en Moeilijkheden.md",
