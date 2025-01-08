@@ -17,7 +17,7 @@ try:
         result = expression.evalf()
 
         # Rond het resultaat af op twee decimalen
-        rounded_result = round(float(result), 2)
+        rounded_result = round(float(result), 6)
         #rounded_result = result
 
 

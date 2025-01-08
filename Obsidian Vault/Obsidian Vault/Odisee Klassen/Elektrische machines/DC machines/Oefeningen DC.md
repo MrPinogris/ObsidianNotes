@@ -568,6 +568,10 @@ M_{n}=M_{werk}=0,0025\cdot n \implies n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1
 \\
 P_{as}=\frac{2\cdot \pi}{60}\cdot 1400\cdot 6=879.65\text{W}
 \\
-
+0,0025n=k_{2}\cdot \phi\cdot \frac{\left( \frac{U_{a}}{R_{1}\cdot \phi}-n_{1} \right)\cdot k_{1}\cdot \phi}{R_{a}}\implies 0,0025n+\frac{k_{2}\cdot k_{1}\cdot \phi^2\cdot n}{R_{a}}=\frac{k_{2}\cdot \phi\cdot U_{a}}{R_{a}}=
+\\
+\left( \frac{6\cdot 0,1^2}{1} + 0,0025 \right)n=\frac{6\cdot 0,1\cdot 150}{1}\implies n=\frac{90.0}{0.0625}= 1440\text{tpm}
+\\
+M= 0,0025\cdot 1440=3.6
 \end{gathered}
 $$
