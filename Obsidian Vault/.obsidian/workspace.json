@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf"
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2.4-2.6"
+              "title": "2.7-2.8"
             }
           },
           {
@@ -301,6 +301,7 @@
   },
   "active": "173520b86a73686d",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.3-2.4.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
@@ -319,7 +320,6 @@
     "scripts/run_calculator.bat",
     "scripts/latex_calculator.py",
     "scripts",
-    "Scripts/latex_calculator.py",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Transformatoren.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
