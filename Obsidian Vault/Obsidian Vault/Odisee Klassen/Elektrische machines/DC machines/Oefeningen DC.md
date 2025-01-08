@@ -529,8 +529,10 @@ De OB-motor heeft een nominale spanning van 440 V. De ankerweerstand is 0,3 ohm.
 ### Oplossing
 $$
 \begin{gathered}
-\frac{P_{i_{1}}}{n_{1}}=\frac{P_{i_{2}}}{n_{2}}\implies n_{2}=\frac{P_{i_{2}}\cdot n_{1}}{P_{i_{2}}} \\
-P_{i_{2}}=E_{2}\cdot I_{a_{2}}=
+\frac{P_{i_{1}}}{n_{1}}=\frac{P_{i_{2}}}{n_{2}}\implies n_{2}=\frac{P_{i_{2}}\cdot n_{1}}{P_{i_{2}}} = \frac{7000\cdot 500}{41000}=85.37\text{tpm}
+\\
+P_{i_{2}}=E_{2}\cdot I_{a_{2}}=(100-100\cdot 0,3)\cdot 100=7000\text{W}\\
+P_{i_{1}}=(440-100\cdot 0,3)\cdot 100=41000\text{W}
 \end{gathered}
 $$
 
@@ -550,8 +552,14 @@ Een OB-motor heeft volgende kenmerken: $k_1 = 1$, $k_2 = 6$, $R_{a,totaal} = 1 \
 - $M = 0,0025 \, n$
 
 **Gevraagd:**
-1. Het nominaal toerental. (1400 tpm)
-2. Het nominaal koppel. (6 Nm)
-3. De coördinaten van het werkingspunt. (3,6 Nm, 1440 tpm)
-4. De ankerstroom en ankerspanning als het werktuig aan 800 tpm draait. (3,33 A; 83,3 V)
+1. Het nominaal toerental. ||($n_{n}=1400 tpm$)||
+2. Het nominaal koppel. ||($M_{n}=6 Nm$)||
+3. De coördinaten van het werkingspunt. ||($3,6 \text{Nm, }1440\text{tpm}$)||
+4. De ankerstroom en ankerspanning als het werktuig aan 800 tpm draait. ||($3,33 A\text{; }83,3 V$)||
 5. De grafische voorstelling in het $(M,n)$-assenstelsel van beide bedrijfstoestanden.
+### Oplossing
+$$
+\begin{gathered}
+
+\end{gathered}
+$$
