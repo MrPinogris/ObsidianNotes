@@ -433,15 +433,17 @@ De OB-motor is aangesloten op een spanning van 230 V. Bij een ankerstroom van 60
 - $I_{nul} = 4 \, \text{A}$
 
 **Gevraagd:**
-1. Bereken het toerental wanneer de motor onbelast draait. ||(863,4 tpm)||
+1. Bereken het toerental wanneer de motor onbelast draait. De anker $I_{0}=4\text{A}$ ||($n_{2}=863,4 tpm$)||
 ### Oplossing
 $$
-P_{i_{1}}=E_{1}\cdot I_{a_{1}}=(230-60\cdot 0,3)\cdot 60=12720
+P_{i_{1}}=E_{1}\cdot I_{a_{1}}=(230-60\cdot 0,3)\cdot 60=12720\text{W}
 $$
 $$
-
+P_{i_{2}}=E_{2}\cdot I_{a_0}=(230 - 4\cdot 0,3)\cdot 4=915.2\text{W}
 $$
-
+$$
+\frac{E_{1}}{E_{2}}=\frac{k_{1} \cdot n_{1}\cdot \phi}{k_{1} \cdot n_{2}\cdot \phi }\implies n_{2}=\frac{E_{2}\cdot n_{1}}{E_{1}}=\frac{(230-4\cdot 0,3)\cdot 800}{230 - 60\cdot 0,3}=863.4\text{tpm}
+$$
 ---
 
 ## Oef 13
@@ -450,17 +452,19 @@ De OB-motor is aangesloten op een spanning van 230 V. De veldspanning is 230 V. 
 
 **Gegeven:**
 - $U = 230 \, \text{V}$
-- $U_f = 230 \, \text{V}$
-- $n = 800 \, \text{tpm}$
-- $I_a = 18 \, \text{A}$
+- $U_f = U$
+- $n_{1} = 800 \, \text{tpm}$
+- $I_{a_{1}} = 18 \, \text{A}$
 - $R_a = 0,5 \, \Omega$
 - $R_f = 110 \, \Omega$
-- $U' = 110 \, \text{V}$
+- $U_{2} = 110 \, \text{V}$
 - $I'_a = 11 \, \text{A}$
 
 **Gevraagd:**
-1. Het toerental bij 11 A als de flux 75% is van zijn oorspronkelijke waarde. (504,37 tpm)
-2. De verhouding der inwendige koppels (2,18).
+1. Het toerental bij 11 A als de flux 75% is van zijn oorspronkelijke waarde. ||($n_{2}=504,37 tpm$)||
+2. De verhouding der inwendige koppels ||($2,18$)||.
+### Oplossing
+
 
 ---
 
