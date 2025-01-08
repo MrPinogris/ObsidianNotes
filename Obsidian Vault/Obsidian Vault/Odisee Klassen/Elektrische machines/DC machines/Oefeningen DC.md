@@ -478,7 +478,7 @@ $$
 
 ## Oef 14
 
-De OB-motor is aangesloten op een spanning van 230 V. Het nullasttoerental is 500 tpm. De veldspanning is 230 V en de veldweerstand is 115 ohm. Het verband tussen veldstroom en flux wordt gegeven door:
+De OB-motor is aangesloten op een spanning van 230 V. Het nullast toerental is 500 tpm. De veldspanning is 230 V en de veldweerstand is 115 ohm. Het verband tussen veldstroom en flux wordt gegeven door:
 
 | Veldstroom (A) | Flux (Wb) |
 |----------------|-----------|
@@ -498,7 +498,10 @@ De OB-motor is aangesloten op een spanning van 230 V. Het nullasttoerental is 50
 2. Het toerental bij nullast als in de veldketen een weerstand van 36,8 ohm wordt opgenomen. ||($n_{2}=545\text{tpm}$)||
 ### Oplossing
 $$
-I_{\text{veld}}=
+I_{\text{f}}= \frac{U_{\text{f}}}{R_{\text{f}}}=\frac{230}{115}=2\,\text{A}\implies \phi_{1}=12\text{Wb}
+$$
+$$
+\frac{E_{1}}{E_{2}}=1=\frac{k_{1}\cdot n_{1}\cdot \phi_{1}}{k_{1}\cdot n_2 \cdot \phi_{2} }\implies \cancel{ k_{1} }\cdot n_2 \cdot \phi_{2} =\cancel{ k_{1} }\cdot n_{1}\cdot \phi_{1} \implies \phi_{2}=\frac{n_{1}\cdot \phi_{1}}{n_{2}}=\frac{12\cdot 500}{1000}=6.0\text{Wb}
 $$
 
 ---
