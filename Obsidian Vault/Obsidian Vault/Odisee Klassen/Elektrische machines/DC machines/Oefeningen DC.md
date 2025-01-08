@@ -410,10 +410,26 @@ De OB-motor is aangesloten op een spanning van 230 V. Bij een ankerstroom van 60
 - $n' = 1050 \, \text{tpm}$
 
 **Gevraagd:**
-1. Welke ankerstroom wordt nu door de motor opgenomen? ($I_a = 101,9 \, \text{A}$)
+1. Welke ankerstroom wordt nu door de motor opgenomen? ||($I_a = 101,9 \, \text{A}$)||
 ### Oplossing
 $$
-\frac{M_{i_{1}}}{M_{i_{1}}}=\frac{P_{i_1}\cdot n_{2}}{\underbrace{ P_{i_{2}} }_{ P_{i_{2}}=E\cdot \underbrace{ I_{a} }_{  } }\cdot n_{1}}
+\frac{E_{1}}{E_{2}}=\frac{n_{1}}{n_{2}}\implies E_{2}=\frac{E_{1}\cdot n_{2}}{n_{1}}=\frac{(230-(60\cdot 0,1))\cdot 1050}{1070}=219.81
+$$
+$$
+I_{2}=U_{R}
+$$
+$$
+\frac{M_{i_{1}}}{M_{i_{2}}}=\frac{P_{i_1}\cdot n_{2}}{\underbrace{ P_{i_{2}} }_{ P_{i_{2}}=E\cdot \underbrace{ I_{a} }_{ =\frac{P_{i_{2}}}{E} } }\cdot n_{1}}
+$$
+
+$$
+I_{a}=\frac{P_{i_{2}}}{E}
+$$
+$$
+P_{i_{2}}=n\cdot M_{i_{2}}
+$$
+$$
+M_{i_{1}}=\frac{P_{i_{1}}}{n_{1}}
 $$
 
 ---
