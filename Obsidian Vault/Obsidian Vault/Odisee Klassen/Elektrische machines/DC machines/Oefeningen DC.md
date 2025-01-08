@@ -560,6 +560,8 @@ Een OB-motor heeft volgende kenmerken: $k_1 = 1$, $k_2 = 6$, $R_{a,totaal} = 1 \
 ### Oplossing
 $$
 \begin{gathered}
-
+n_{1}=\frac{E}{k\cdot \phi}=\frac{150-10}{1\cdot 0,1}=1400\text{tpm}
+\\
+M_{n}=\frac{P_{as}}{\omega}= 
 \end{gathered}
 $$

@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "4f8f65ac458648ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ASM en DC"
+            }
+          },
+          {
             "id": "84f64b2dfb573584",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,24 +308,24 @@
           }
         ],
         "direction": "vertical",
-        "x": 921,
+        "x": 920,
         "y": 0,
-        "width": 615,
+        "width": 616,
         "height": 816,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "0e7265a0b01f7a5a",
+  "active": "84f64b2dfb573584",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
-    "2025-01-08.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
-    "Naamloos.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
+    "2025-01-08.md",
+    "Naamloos.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Vragen en Moeilijkheden.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/4.pdf",
