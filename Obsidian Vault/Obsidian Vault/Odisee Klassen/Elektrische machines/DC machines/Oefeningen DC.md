@@ -411,6 +411,10 @@ De OB-motor is aangesloten op een spanning van 230 V. Bij een ankerstroom van 60
 
 **Gevraagd:**
 1. Welke ankerstroom wordt nu door de motor opgenomen? ($I_a = 101,9 \, \text{A}$)
+### Oplossing
+$$
+\frac{M_{i_{1}}}{M_{i_{1}}}=\frac{P_{i_1}\cdot n_{2}}{\underbrace{ P_{i_{2}} }_{ P_{i_{2}}=E\cdot \underbrace{ I_{a} }_{  } }\cdot n_{1}}
+$$
 
 ---
 
