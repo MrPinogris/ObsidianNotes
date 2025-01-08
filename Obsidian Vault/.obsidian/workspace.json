@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -224,7 +223,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Shell commands: Execute: Run LaTeX Calculator": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:Open snel wisselen": false,
       "graph:Open grafiek weergave": false,
@@ -235,7 +233,8 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "cmdr:Shell commands: Execute: Run LaTeX Calculator": false
     }
   },
   "floating": {
@@ -295,9 +294,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1045,
+        "x": 926,
         "y": 0,
-        "width": 491,
+        "width": 610,
         "height": 816,
         "maximize": false,
         "zoom": 1
@@ -308,6 +307,7 @@
   "lastOpenFiles": [
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
+    "2025-01-08.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
     "Naamloos.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",

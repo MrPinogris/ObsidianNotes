@@ -319,12 +319,19 @@ Een OB-motor heeft een nominale ankerspanning van 440 V, het nominaal vermogen v
 - $I_{a,nom} = 75 \, \text{A}$
 
 **Gevraagd:**
-1. De ankerstroom bij het aanzetten als de spanning verlaagd werd naar 50 V. ($I_a = 125 \, \text{A}$)
-   $$
-I_{a}=
+1. De ankerstroom bij het aanzetten als de spanning verlaagd werd naar 50 V. 
+2. Het nominale askoppel.
+3. Het aanzetkoppel als het inwendig koppel en het askoppel aan elkaar mogen gelijkgesteld worden. $P_{i}=P_{as}=P_{toe}-P_{Cu}\implies P_{Cu}=\frac{U_{a_{nom}}}{R_{a}}$
+### Oplossing
 $$
-2. Het nominale askoppel. ($M_N = 573 \, \text{Nm}$)
-3. Het aanzetkoppel als het inwendig koppel en het askoppel aan elkaar mogen gelijkgesteld worden. ($M_{st} = 955 \, \text{Nm}$)
+I_{a} =\frac{U}{R_{a}}=\frac{50}{0,4}=125\text{A}
+$$
+$$
+M_{n}=\frac{P_{n}}{\omega}=\frac{30000}{\frac{2\cdot \pi}{60}\cdot 500}=572\text{Nm}
+$$
+$$
+M_{st}= \frac{P_{i}}{\omega_{nom}}=\frac{\overbrace{ E }^{ E=\frac{P_{i_{n}}}{I_{a_{n}}}=\frac{30000}{75}=400 }\cdot I_{st}}{\omega_{nom}}=\frac{400\cdot125}{\frac{2\cdot \pi}{60}\cdot 500}=954.93\text{Nm}
+$$
 
 ---
 
@@ -341,10 +348,20 @@ Een OB-motor heeft een nominale ankerspanning van 230 V. De ankerweerstand is 0,
 - $\eta = 85\%$
 
 **Gevraagd:**
-1. De tegenemk. ($E = 220 \, \text{V}$)
-2. Het inwendig koppel. ($M_{in} = 105,04 \, \text{Nm}$)
-3. Het uitwendig koppel. ($M_{uit} = 93,34 \, \text{Nm}$)
-4. Het toerental als de motor nu minder belast wordt en slechts nog 30 A opneemt. ($n = 1018,18 \, \text{tpm}$)
+1. De tegen EMK. 
+2. Het inwendig koppel. 
+3. Het uitwendig koppel.
+4. Het toerental als de motor nu minder belast wordt en slechts nog 30 A opneemt.
+### Oplossing
+$$
+E = U_{a}-U_{r}=230-50\cdot 0,2=220
+$$
+$$
+M_{i}=\frac{P_{i}}{\omega}=\frac{E\cdot I}{\frac{2\cdot \pi}{60}\cdot n}=\frac{220\cdot 50}{\frac{2\cdot \pi}{60}\cdot 1000}=105.04\text{Nm}
+$$
+$$
+M_{as}=\frac{P_{as}}{\omega}=\frac{230 \cdot 50 \cdot 0,85}{\frac{2\cdot \pi}{60}\cdot 1000}= 93.34\text{Nm}
+$$
 
 ---
 
@@ -360,10 +377,20 @@ Als de OB-motor aangesloten is op een spanning van 230 V bedraagt het toerental 
 - $R_f = 22 \, \Omega$
 
 **Gevraagd:**
-1. De tegenemk bij deze belasting. ($E = 220,5 \, \text{V}$)
-2. De tegenemk indien de belasting afneemt en de ankerstroom nog 90 A is. ($E = 225,5 \, \text{V}$)
-3. Het toerental bij de tweede belasting. ($n = 613,61 \, \text{tpm}$). Geef tevens de grafische voorstelling.
-4. De verhouding der inwendige koppels. (2,11). Geef de grafische voorstelling.
+1. De tegenemk bij deze belasting. ||($E = 220,5 \, \text{V}$) ||
+2. De tegenemk indien de belasting afneemt en de ankerstroom nog 90 A is. ||($E = 225,5 \, \text{V}$)||
+3. Het toerental bij de tweede belasting. ||($n = 613,61 \, \text{tpm}$)||. Geef tevens de grafische voorstelling.
+4. De verhouding der inwendige koppels. ||(2,11)||. Geef de grafische voorstelling.
+### Oplossing
+$$
+E=U-U_{R}=230-190\cdot 0,05=220.5
+$$
+$$
+E=U-U_{R}=230-90\cdot 0,05=225.5
+$$
+$$
+n=\frac{\omega\cdot60}{2\cdot \pi} \impliedby \omega = \frac{P_{as}}{M_{as}}
+$$
 
 ---
 

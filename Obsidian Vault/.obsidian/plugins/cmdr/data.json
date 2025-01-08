@@ -9,7 +9,7 @@
       "id": "obsidian-shellcommands:shell-command-6uw8j9advu",
       "icon": "lucide-calculator",
       "name": "Shell commands: Execute: Run LaTeX Calculator",
-      "mode": "any"
+      "mode": "0b7181b05a91e439"
     }
   ],
   "rightRibbon": [],
@@ -28,7 +28,8 @@
       "Open: Smart Chat Conversation",
       "Templater",
       "Advanced Tables Toolbar",
-      "Sjabloon invoegen"
+      "Sjabloon invoegen",
+      "Shell commands: Custom variables"
     ]
   },
   "spacing": 8,
