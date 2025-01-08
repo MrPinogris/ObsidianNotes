@@ -501,9 +501,14 @@ $$
 I_{\text{f}}= \frac{U_{\text{f}}}{R_{\text{f}}}=\frac{230}{115}=2\,\text{A}\implies \phi_{1}=12\text{Wb}
 $$
 $$
-\frac{E_{1}}{E_{2}}=1=\frac{k_{1}\cdot n_{1}\cdot \phi_{1}}{k_{1}\cdot n_2 \cdot \phi_{2} }\implies \cancel{ k_{1} }\cdot n_2 \cdot \phi_{2} =\cancel{ k_{1} }\cdot n_{1}\cdot \phi_{1} \implies \phi_{2}=\frac{n_{1}\cdot \phi_{1}}{n_{2}}=\frac{12\cdot 500}{1000}=6.0\text{Wb}
+\begin{gathered}
+\frac{E_{1}}{E_{2}}=1=\frac{k_{1}\cdot n_{1}\cdot \phi_{1}}{k_{1}\cdot n_2 \cdot \phi_{2} }\implies \cancel{ k_{1} }\cdot n_2 \cdot \phi_{2} =\cancel{ k_{1} }\cdot n_{1}\cdot \phi_{1} \implies \phi_{2}=\frac{n_{1}\cdot \phi_{1}}{n_{2}}=\frac{12\cdot 500}{1000}=6.0\text{Wb} \\
+\implies I_{f_{2}}=0,5\text{A}\implies R_{f}=\frac{U_{f}}{I_{f_{2}}}=\frac{230}{0,5}-115=345\ohm
+\end{gathered}
+$$
 $$
 
+$$
 ---
 
 ## Oef 15
