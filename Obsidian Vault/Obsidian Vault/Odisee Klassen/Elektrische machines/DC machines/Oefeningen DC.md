@@ -560,10 +560,14 @@ Een OB-motor heeft volgende kenmerken: $k_1 = 1$, $k_2 = 6$, $R_{a,totaal} = 1 \
 ### Oplossing
 $$
 \begin{gathered}
-n_{1}=\frac{E}{k_{1}\cdot \phi}=\frac{150-10}{1\cdot 0,1}=1400\text{tpm}
+n_{n}=\frac{E}{k_{1}\cdot \phi}=\frac{150-10}{1\cdot 0,1}=1400\text{tpm}
 \\
 M_{n}=\frac{P_{as}}{\omega}= k_{2}\cdot \phi\cdot I_{a}= 6\cdot 0,1\cdot 10=6Nm
 \\
-M_{n}=M_{werk}=0,0025\cdot n \implies n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}=150-1\cdot I_{a}
+M_{n}=M_{werk}=0,0025\cdot n \implies n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}=\frac{150-1\cdot I_{a}}{0,1}
+\\
+P_{as}=\frac{2\cdot \pi}{60}\cdot 1400\cdot 6=879.65\text{W}
+\\
+
 \end{gathered}
 $$
