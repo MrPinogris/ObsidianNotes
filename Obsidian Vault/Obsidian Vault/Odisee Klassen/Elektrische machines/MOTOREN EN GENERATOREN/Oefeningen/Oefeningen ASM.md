@@ -248,20 +248,46 @@ $$
 ASM, $R_{2}=0,01\ohm$, $X_{2_{st}}=0,06\ohm$
 ### Gevraagd
 1. $R_{aanzet}\text{ voor }s_{k}=1$
+   $$
+s_{k}=\frac{R_{2}}{X_{2_{st}}}=\frac{0,01+0,05}{0,06}=1
+$$
 ## Oefening 14
 ### Gegeven
-ASM, $R_{1}=R_{1}$, $X_{2_{st}}=6R_{2}$
+ASM, $R_{1}=R_{1}$, $X_{2_{st}}=8R_{2}$
 ### Gevraagd
 1. $R_{\text{aanzet}}\text{ bij aanzetten maximaal koppel te berijken}$
+   $$
+1=\frac{1R}{8R}\implies R_{aanzet}=X_{2_{st}}-R_{2}=7R_{2}
+$$
 ## Oefening 15
 ### Gegeven
-sleepringenmotor, $50\text{Hz}$, $E_{st}\text{(ster)}=173\text{V}$, $R_{1}=0,3\ohm$, $X_{2_{st}}=1,25\ohm$
+sleepringenmotor, $50\text{Hz}$, $E_{st}\text{(ster)}=173\text{V}$, $R_{2}=0,3\ohm$, $X_{2_{st}}=1,25\ohm$
 ### Gevraagd
-1. $I_{r}\text{ bij }s_{n}=4\%$
-2. $R_{2}$
+1. $I_{r_n}\text{ bij }s_{n}=4\%$
+   $$
+I_{r_{n}}=\frac{E_{2_{st}}}{\sqrt{ \frac{R_{2}}{s}^2+X_{2_{st}}^2 }}=\frac{\frac{173}{\sqrt{ 3 }}}{\sqrt{ \frac{0,3}{0,04}^2+1,25^2 }}=13.14\text{A}
+$$
+2. $R_{\text{extra}}$ als  $I_{st}=I_{n}$
+   $$
+   \frac{0,3}{0,04}=0,3+R_{extra}\implies R_{extra}=\frac{0,3}{0,04}-0,3=7.2 \ohm
+$$
+   
 ## Oefening 16
 ### Gegeven
 $P=2$, $R_{2}=0,1\ohm$, $X_{2_{st}}=0,5\ohm$, $50\text{Hz}$, $E_{2_{st}}=173\text{V}$
 ### Gevraagd
 1. $I_{r}\text{ bij }n_{r}=1455\text{tpm}$
-2. $Rdsfsdf$
+   $$
+1-s_{n}=\frac{1455}{1500}\cdot 100=97.0\%
+$$
+$$
+I_{r_{n}}=\frac{E_{2_{st}}}{\sqrt{ \frac{R_{2}}{s}^2+X_{2_{st}}^2 }}=\frac{\frac{173}{\sqrt{ 3 }}}{\sqrt{ \frac{0,1}{0,03}^2+0,5^2 }}=29.63\text{A}
+$$
+2. De weerstand die in elke rotorfase moet opgenomen worden om bij dezelfde stroom als in het eerste geval het toerental op 900 tpm terug te brengen.
+$R_{voor}$ bij $n_{r} = 900$ zodat $I_{2}=I_{2_{n}}$
+$$
+1-s=\frac{900}{1500}=0.6\implies s=0,4
+$$
+$$
+\frac{0,1}{0,03}=\frac{0,1+R_{voor}}{0,4}\implies R_{voor}=(\frac{0,1}{0,03}-\frac{0,1}{0,4})\cdot 0,4= 1.23\ohm
+$$

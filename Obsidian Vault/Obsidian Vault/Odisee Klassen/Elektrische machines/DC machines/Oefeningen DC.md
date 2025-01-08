@@ -2,15 +2,27 @@
 
 ## Oef 1
 
-Een gelijkspanningsdynamo met een klemspanning van 230V levert een ankerstroom van 100A. Het gedissipeerde kopervermogen bedraagt 3% van het afgegeven vermogen. Het aandrijvende werktuig geeft een vermogen af van 25,5kW.
+Een gelijkspanningsdynamo met een klemspanning van 230V levert een ankerstroom van 100A. Het gedissipeerde kopervermogen bedraagt 3% van het afgegeven vermogen. Het aandrijvende werktuig geeft een vermogen af van 25,6kW.
 
 **Gegeven:**
 - $E_{1}=230V$
 - $I_{a}=100A$
 - $P_{Cu}=3\%P_{n}$
-- $P_{n}=25.6kW$
+- $P_{toe}=25.6kW$
 **Gevraagd:**
 0. Stel schematisch de vermogensverdeling voor
+1. $\eta$
+2. $P_{i}$
+3. $P_{v}$
+### Oplossingen 2
+1. $$
+\eta =\frac{Pn}{P_{toe}}=\frac{230\cdot 100}{25600}\cdot 100=89.84\%
+$$
+2. $$
+P_{i}=P_{n}\cdot 1,03=23000\cdot 1,03=23690\text{W}
+$$
+3. $P_{v}=P_{toe}-P_{i}=25600-23690=1910\text{W}$
+### Oplossingen
 1. Het rendement
    $$
 P_{elec}=230\cdot 100=23kW
@@ -41,6 +53,20 @@ Een dynamo wekt een emk op van 110 V en levert een ankerstroom van 50 A. Het act
 
 **Gevraagd:**
 0. Stel schematisch de vermogensverdeling voor.
+1. $P_{i}$
+2. $P_{n}$
+3. $P_{v}$
+### Oplossingen 2
+1. $$
+P_{i}= E\cdot I_{a}=110\cdot 50= 5500\text{W}
+$$
+$$
+P_{n}= P_{i}-P_{Cu}=0,96\cdot P_{i}=0,96\cdot 5500= 5280.0
+$$
+$$
+P_{v}= P_{\text{toe}}-P_{i}=\frac{P_{n}}{\eta}-P_{i}=\frac{5280}{0,84}-5500=785.71\text{W}
+$$
+### Oplossingen
 1. Het inwendig vermogen (5,5 kW).
    $$
 P_{i} = E\cdot I_{a}=110\cdot 50= 5500W
@@ -68,6 +94,21 @@ Een 230 V-gelijkstroommotor van 10 kW neemt een ankerstroom op van 50 A. Het act
 
 **Gevraagd:**
 0. Stel schematisch de vermogensverdeling voor.
+1. $\eta$
+2. $P_{i}$
+3. $P_{v}$
+### Oplossingen 2
+$$
+\eta = \frac{P_{as}}{P_{toe}}=\frac{10000}{230\cdot 50}\cdot 100=86.96\%
+$$
+$$
+P_{i}=P_{toe}-P_{Cu}=230\cdot 50-600=10900\text{W}
+$$
+$$
+P_{v}=P_{i}-P_{as}=10900-10000=900\text{W}
+$$
+
+### Oplossingen
 1. Het rendement $\eta = 86,96\%$.
    $$
 \eta = \frac{P_{as}}{P_{elec}}=\frac{10kW}{230\cdot 50}=86,96 \%
@@ -95,6 +136,22 @@ Een 4 kW - 110 V-gelijkstroommotor neemt een ankerstroom op van 40 A. De tegenem
 
 **Gevraagd:**
 0. Stel schematisch de vermogensverdeling voor.
+1. $P_{v}$
+2. $P_{Cu}$
+3. $\eta$
+
+### Oplossingen 2
+$$
+P_{v}=P_{i}-P_{as}=106\cdot 40-4000=240\text{W}
+$$
+$$
+P_{Cu}=(U-E)\cdot I=4\cdot 40=160\text{W}
+$$
+$$
+\eta=\frac{P_{as}}{P_{toe}}=\frac{4000}{40\cdot 110}\cdot 100=90.91\%
+$$
+
+### Oplossingen
 1. De mechanische verliezen (0,24 kW).
    $$
 P_{v}=P_{i}-P_{as}=40\cdot 106 - 4000=240W
@@ -122,6 +179,22 @@ Een 110 V-gelijkstroommotor heeft een totale ankerweerstand van 0,2 ohm. Het ver
 
 **Gevraagd:**
 0. Stel schematisch de vermogensverdeling voor.
+1. $I_{a}$
+2. $P_{Cu}$
+3. $P_{v}$
+### Oplossingen 2
+$$
+I_{a}=\frac{P_{toe}}{U}=\frac{\frac{8000}{0,84}}{110}= 86.58
+$$
+$$
+P_{Cu}=R_{a}\cdot I_{a}^2=0,2\cdot 86.58^2=1499.22\text{W}
+$$
+$$
+P_{v}=P_{i}-P_{as}=\frac{8000}{0,84}-1499.22-8000=24.59\text{W}
+$$
+
+### Oplossingen
+
 1. De opgenomen stroom (86,6 A).
    $$
 I_{a} = \frac{P_{elec}}{U} = \frac{\frac{8000}{0,84}}{110}=86,6A
@@ -149,6 +222,17 @@ Een OB-motor is aangesloten op 230 V. De ankerweerstand is 2 ohm. De nominale an
 
 **Gevraagd:**
 1. Som 1 of meerdere oplossingen op en maak de bijhorende berekening.
+### Oplossingen 2
+1. Startweerstand
+   $$
+I_{st}=20\text{A}=\frac{U}{R}=\frac{230}{2+R_{st}}\implies R_{st}=\frac{230}{20}-2= 9.5 \ohm
+$$
+2. Startspanning
+$$
+U_{st}=20\cdot 2=40\text{V}
+$$
+
+### Oplossingen
    - Voorschakelweerstand
      $$
 I_{a}=20A
@@ -169,12 +253,37 @@ Een OB-motor is aangesloten op 750 V. De ankerweerstand is 0,1 ohm en de veldwee
 
 **Gegeven:**
 - $U = 750 \, \text{V}$
+- $U_{veld}=110\text{V}$
 - $R_a = 0,1 \, \Omega$
 - $R_f = 55 \, \Omega$
 - $I_a = 100 \, \text{A}$
 - $\eta = 84\%$
 
 **Gevraagd:**
+1. $E$
+2. $P_{as}$
+3. $M_{as}$ bij $n_{r}=500\text{tpm}$
+4. $R_{aanzet}$ als $I_{st}=1,5\cdot I_{n}$
+5. $I_{veld}$
+
+### Oplossingen 2
+$$
+E = U - U_{R}=750- 100\cdot 0,1= 740.0\text{V}
+$$
+$$
+P_{as}=P_{toe}\cdot \eta=750 \cdot 0,84 \cdot 100 =63000\text{W}
+$$
+$$
+M_{as}= \frac{P_{as}}{\omega}=\frac{63000}{\frac{2\cdot\pi}{60}\cdot 500}=1203.21\text{Nm}
+$$
+$$
+R_{aan}=\frac{U}{I_{aan}}-R_{a}= \frac{750}{150}-0,1=4.9\ohm
+$$
+$$
+I_{veld}=\frac{U_{\text{Veld}}}{R_{f}}=\frac{110}{55}=2\text{A}
+$$
+
+### Oplossingen
 1. De tegen emk (740 V).
    $$
 E=U-I\cdot R_{a}=750\cdot 0,1\cdot 100=740V

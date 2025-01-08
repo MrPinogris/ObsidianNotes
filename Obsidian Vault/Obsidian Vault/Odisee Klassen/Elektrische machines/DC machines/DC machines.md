@@ -1,7 +1,7 @@
 # Gelijkstroommachines
 
 [[ASM en Gelijkstoom machines]]
-[[Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen]]
+[[Oefeningen DC]]
 ## 3.1 Inleiding
 
 ==De term *elektrische machine* verwijst naar een apparaat waarbij elektrische energie wordt omgezet in mechanische energie of omgekeerd. Deze machines zijn elektromechanische omzetters van energie. Gelijkstroommachines kunnen worden onderverdeeld in:==

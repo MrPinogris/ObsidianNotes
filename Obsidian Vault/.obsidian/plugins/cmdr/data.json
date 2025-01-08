@@ -14,25 +14,15 @@
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "script-launcher:run-script",
-      "icon": "lucide-a-arrow-down",
-      "name": "Script Launcher: Run script",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-tasks-plugin:edit-task",
-      "icon": "pencil",
-      "name": "task",
-      "mode": "any"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
   "hide": {
-    "statusbar": [],
+    "statusbar": [
+      "editor-status",
+      "backlink"
+    ],
     "leftRibbon": [
       "Open: View Smart Connections",
       "Open: Smart Chat Conversation",
