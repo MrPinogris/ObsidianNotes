@@ -451,20 +451,28 @@ $$
 De OB-motor is aangesloten op een spanning van 230 V. De veldspanning is 230 V. Bij 800 tpm is de ankerstroom 18 A. De ankerweerstand is 0,5 ohm en de veldweerstand is 110 ohm. Het anker en het veld worden nu op een lagere spanning van 110 V aangesloten. De ankerstroom bedraagt 11 A.
 
 **Gegeven:**
-- $U = 230 \, \text{V}$
+- $U_{1} = 230 \, \text{V}$
 - $U_f = U$
 - $n_{1} = 800 \, \text{tpm}$
 - $I_{a_{1}} = 18 \, \text{A}$
 - $R_a = 0,5 \, \Omega$
 - $R_f = 110 \, \Omega$
 - $U_{2} = 110 \, \text{V}$
-- $I'_a = 11 \, \text{A}$
+- $I_{a_{2}} = 11 \, \text{A}$ 
 
 **Gevraagd:**
-1. Het toerental bij 11 A als de flux 75% is van zijn oorspronkelijke waarde. ||($n_{2}=504,37 tpm$)||
+1. Het toerental bij 11 A als de flux 75% ($\phi_{2} =\phi_{1}\cdot 75\%$) is van zijn oorspronkelijke waarde. ||($n_{2}=504,37 tpm$)||
 2. De verhouding der inwendige koppels ||($2,18$)||.
 ### Oplossing
-
+$$
+\frac{E_{1}}{E_{2}}=\frac{k_{1}\cdot n_{1}\cdot \phi_{1}}{k_{1}\cdot n_{2}\cdot \phi_{2}} \implies n_{2} =\frac{\overbrace{ E_{2} }^{ 110-11\cdot 0,5=104.5 }\cdot 1\cdot n_{1}}{\underbrace{ E_{1} }_{ 230-18\cdot 0,5=221\text{V} }\cdot 75\%}=\frac{104.5\cdot 800}{221\cdot 0,75}=504.37\text{tpm}
+$$
+$$
+n_2=504.37\text{tpm}
+$$
+$$
+\frac{M_{i_{1}}}{M_{i_{2}}}=
+$$
 
 ---
 
