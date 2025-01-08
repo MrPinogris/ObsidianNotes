@@ -413,25 +413,11 @@ De OB-motor is aangesloten op een spanning van 230 V. Bij een ankerstroom van 60
 1. Welke ankerstroom wordt nu door de motor opgenomen? ||($I_a = 101,9 \, \text{A}$)||
 ### Oplossing
 $$
-\frac{E_{1}}{E_{2}}=\frac{n_{1}}{n_{2}}\implies E_{2}=\frac{E_{1}\cdot n_{2}}{n_{1}}=\frac{(230-(60\cdot 0,1))\cdot 1050}{1070}=219.81
+\frac{E_{1}}{E_{2}}=\frac{k_{1} \cdot n_{1}\cdot \phi}{k_{1} \cdot n_{2}\cdot \phi }\implies E_{2}=\frac{E_{1}\cdot n_{2}}{n_{1}}=\frac{(230-(60\cdot 0,1))\cdot 1050}{1070}=219.81
 $$
 $$
-I_{2}=U_{R}
+I_{2}=\frac{U_{R}}{R}=\frac{230-219.81}{0,1}=101.9\text{A}
 $$
-$$
-\frac{M_{i_{1}}}{M_{i_{2}}}=\frac{P_{i_1}\cdot n_{2}}{\underbrace{ P_{i_{2}} }_{ P_{i_{2}}=E\cdot \underbrace{ I_{a} }_{ =\frac{P_{i_{2}}}{E} } }\cdot n_{1}}
-$$
-
-$$
-I_{a}=\frac{P_{i_{2}}}{E}
-$$
-$$
-P_{i_{2}}=n\cdot M_{i_{2}}
-$$
-$$
-M_{i_{1}}=\frac{P_{i_{1}}}{n_{1}}
-$$
-
 ---
 
 ## Oef 12
@@ -447,7 +433,14 @@ De OB-motor is aangesloten op een spanning van 230 V. Bij een ankerstroom van 60
 - $I_{nul} = 4 \, \text{A}$
 
 **Gevraagd:**
-1. Bereken het toerental wanneer de motor onbelast draait. (863,4 tpm)
+1. Bereken het toerental wanneer de motor onbelast draait. ||(863,4 tpm)||
+### Oplossing
+$$
+P_{i_{1}}=E_{1}\cdot I_{a_{1}}=(230-60\cdot 0,3)\cdot 60=12720
+$$
+$$
+
+$$
 
 ---
 
