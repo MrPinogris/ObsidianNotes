@@ -471,7 +471,7 @@ $$
 n_2=504.37\text{tpm}
 $$
 $$
-\frac{M_{i_{1}}}{M_{i_{2}}}=
+\frac{M_{i_{1}}}{M_{i_{2}}}=\frac{\frac{P_{i_{1}}}{n_{1}}}{\frac{P_{i_{2}}}{n_{2}}}= \frac{\overbrace{ P_{i_{1}} }^{ 221\cdot 18=3978\text{W} }\cdot n_{2}}{\underbrace{ P_{i_{2}} }_{ 104,5\cdot 11=1149\text{W} }\cdot n_{1}}= \frac{3978\cdot 504,37}{1149\cdot 800}= 2.18
 $$
 
 ---
@@ -494,8 +494,12 @@ De OB-motor is aangesloten op een spanning van 230 V. Het nullasttoerental is 50
 - $R_f = 115 \, \Omega$
 
 **Gevraagd:**
-1. De weerstand die in de veldketen moet worden geschakeld om een toerental van 1000 tpm te bekomen. (345 ohm)
-2. Het toerental bij nullast als in de veldketen een weerstand van 36,8 ohm wordt opgenomen. (545 tpm)
+1. De weerstand die in de veldketen moet worden geschakeld om een toerental van 1000 tpm te bekomen. ||($R_{veld}=345 \ohm$)||
+2. Het toerental bij nullast als in de veldketen een weerstand van 36,8 ohm wordt opgenomen. ||($n_{2}=545\text{tpm}$)||
+### Oplossing
+$$
+I_{\text{veld}}=
+$$
 
 ---
 
