@@ -507,7 +507,10 @@ $$
 \end{gathered}
 $$
 $$
-
+\begin{gathered}
+I_{f_{2}}=\frac{230}{115+36,8}=1.52 \text{A}\implies \phi \approx 11\text{Wb}\\
+n_{2} \approx \frac{500\cdot 12}{11} =545.45\text{tpm}
+\end{gathered}
 $$
 ---
 
@@ -522,7 +525,14 @@ De OB-motor heeft een nominale spanning van 440 V. De ankerweerstand is 0,3 ohm.
 - $I_a = 100 \, \text{A}$
 
 **Gevraagd:**
-1. Het toerental als de ankerspanning wordt ingesteld op 100 V. (85 tpm)
+1. Het toerental als de ankerspanning wordt ingesteld op 100 V. ||($n_{2}=85\text{tpm}$)||
+### Oplossing
+$$
+\begin{gathered}
+\frac{P_{i_{1}}}{n_{1}}=\frac{P_{i_{2}}}{n_{2}}\implies n_{2}=\frac{P_{i_{2}}\cdot n_{1}}{P_{i_{2}}} \\
+P_{i_{2}}=E_{2}\cdot I_{a_{2}}=
+\end{gathered}
+$$
 
 ---
 
