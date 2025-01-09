@@ -246,6 +246,7 @@ Ja, dit gebeurt als de hoeksnelheid afneemt. Dit betekend dat het systeem een re
 - nominale stroom van de motor $I_{n}=1,75A$
 ![[Pasted image 20241227142126.png]]
 
-De Motor zal overbelast zijn als deze pomp 2  moet aansturen, want de 
+De Motor zal overbelast zijn als deze pomp 2  moet aansturen en in het statisch punt komt, want de stator stroom zal groter zijn dan de nominale stroom en dus zal de motor oververhitten.
+Bij pomp 1 is het wel mogelijk om deze constant aan te sturen, want h
 
 
