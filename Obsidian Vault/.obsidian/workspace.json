@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,7 +277,7 @@
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
                     "page": 176,
                     "left": -4,
-                    "top": 715,
+                    "top": 779,
                     "zoom": 0.6
                   },
                   "icon": "lucide-file-text",
@@ -297,7 +297,7 @@
       }
     ]
   },
-  "active": "79170f084d549dd7",
+  "active": "381fa1b8674d7df1",
   "lastOpenFiles": [
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
