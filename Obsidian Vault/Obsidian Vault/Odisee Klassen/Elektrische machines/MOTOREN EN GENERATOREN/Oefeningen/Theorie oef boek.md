@@ -160,13 +160,13 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 ### 15.Vergelijk de arbeidsfactor van de rotor bij aanzetten van de niet ideale AS motor met deze bij nominaal draaien. Bewijs dit adhv vector diagramma's en voorzie dit van de nodige verklaringen, uitleg, formules, equivalente schema's. 
 
 ##### *Aanzetten-starten* - Equivalent schema
-
-
-
+$$ 
+Z=\sqrt{ \frac{R_{2}}{\underbrace{ s }_{ s=1=\text{MAX} }}^2+X_{st}^2 } \implies\cos \varphi \ll
+$$
 ##### *Nominaal draaien/bedrijf* - Equivalent schema
-
-
-
+$$
+Z=\sqrt{ \frac{R_{2}}{\underbrace{ s }_{ s\ll }}^2+X_{st}^2 } \implies\cos \varphi \ll
+$$
 ### 16. Verklaar de fysische betekenis van de weerstanden $R_{2},R_{2}/s,R_{2}(1-s)/s$
 
 

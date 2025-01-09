@@ -1,4 +1,4 @@
-## Equivalent schema ideale ASM 
+²## Equivalent schema ideale ASM 
 
 ### Bolfiguur
 
