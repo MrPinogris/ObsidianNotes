@@ -389,7 +389,7 @@ $$
 E=U-U_{R}=230-90\cdot 0,05=225.5
 $$
 $$
-\frac{E_{1}}{E_{2}}=\frac{k_{1}n_{1}\phi_{1}}{k_{1}n_{2}\phi_{2}}\implies n_{2}=\frac{n_{1}E_{2}}{E_{1}}=\frac{600\cdot 225,5}{220,5}=613.61
+\frac{E_{1}}{E_{2}}=\frac{k_{1}n_{1}\phi_{1}}{k_{1}n_{2}\phi_{2}}\implies n_{2}=\frac{n_{1}E_{2}}{E_{1}}=\frac{600\cdot 225,5}{220,5}=613.61\text{tpm}
 $$
 $$
 \frac{M_{1}}{M_{2}}=\frac{\frac{P_{1_{i}}}{n_{1}}}{\frac{P_{2_{i}}}{n_{2}}}= \frac{\overbrace{ P_{1_{i}} }^{ P_{1_i}=220,5\cdot 190= 41895}\cdot n_{2}}{\underbrace{ P_{2_{i}} }_{ =225,5\cdot 90=20295.0 }\cdot n_{1}}=\frac{41895\cdot 613.61}{20295\cdot 600}=2.11
