@@ -175,11 +175,11 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 
 - $P_{1}\implies P_{L},P_{v}(P_{Cu},P_{Fe})\implies P_{i},P_{Cu_{s}}\implies$
 
-#### 18. Van welke parameters is het inwendig koppel van de asynchrone motor afhankelijk?
+### 18. Van welke parameters is het inwendig koppel van de asynchrone motor afhankelijk?
 
 
 
-#### 19. Teken een realistische koppel-toerentalkarakteristiek samen met lineaire belastingskarakteristiek. Duid hierop de volgende punten/gebieden aan
+### 19. Teken een realistische koppel-toerentalkarakteristiek samen met lineaire belastingskarakteristiek. Duid hierop de volgende punten/gebieden aan
 - nullastkoppel $M_{i_{0}}$
 - nominaal koppel $M_{i_{n}}$
 - startkoppel $M_{i_{st}}$
@@ -205,7 +205,7 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 
 
 
-#### 20 Betreffende $M_{J}$
+### 20 Betreffende $M_{J}$
 
 ##### 1. Leg de betekenis uit van het $M_{J}$ koppel.
 
@@ -220,11 +220,11 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 
 
 
-#### 21. Wat wort er verstaan onder de statische werking van de motor? Wat wordt verstaan onder de dynamische werking van de motor? Zijn aan beide modi voorwaarden gekoppeld?
+### 21. Wat wort er verstaan onder de statische werking van de motor? Wat wordt verstaan onder de dynamische werking van de motor? Zijn aan beide modi voorwaarden gekoppeld?
 
 
 
-#### 22. Bespreek het statisch en dynamisch gedrag van de motor, onderhevig aan elk van deze belastingen.
+### 22. Bespreek het statisch en dynamisch gedrag van de motor, onderhevig aan elk van deze belastingen.
 
 **Gegeven**:
 - onderstaand kopel-toerentalkarakteristiek

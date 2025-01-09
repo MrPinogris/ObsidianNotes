@@ -27,10 +27,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf"
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
+                "page": 114,
+                "left": -12,
+                "top": 683,
+                "zoom": 1.2308506142771851
               },
               "icon": "lucide-file-text",
-              "title": "2.8-2.10"
+              "title": "ASM en DC"
             }
           },
           {
@@ -46,9 +50,23 @@
               "icon": "lucide-file",
               "title": "Theorie oef boek"
             }
+          },
+          {
+            "id": "bf0ce66c73b28a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASM en Gelijkstoom machines"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,87 +257,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "floating": {
-    "id": "3dd4f8d15de9e2da",
-    "type": "floating",
-    "children": [
-      {
-        "id": "23bfb535836d80eb",
-        "type": "window",
-        "children": [
-          {
-            "id": "3761b290271a877a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5bb318fbf99cc711",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Vragen en Moeilijkheden.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vragen en Moeilijkheden"
-                }
-              },
-              {
-                "id": "a55c0495ab02ee75",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
-                    "page": 1,
-                    "zoom": 1
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ASM en DC(gemaakte oef)"
-                }
-              },
-              {
-                "id": "c1e444b0ee9a90c9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ASM en Gelijkstoom machines"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 553,
-        "y": 0,
-        "width": 987,
-        "height": 816,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "4f8f65ac458648ea",
+  "active": "0e7265a0b01f7a5a",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefen vragen.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.14-2.16.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Vragen en Moeilijkheden.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
     "Naamloos.canvas",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Analoge regeltech basis/Examenvragen.md",
     "Obsidian Vault/Odisee Klassen/Energietechnologieën.md",
     "attachments/Afbeelding van WhatsApp op 2024-12-30 om 15.05.36_0636fc2d.jpg",
@@ -340,7 +292,6 @@
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/4.pdf",
     "scripts/test.bat",
     "Templates/LatexCalculatorTemplate.md.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Transformatoren.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Samenvatting Alle Formules ASM.md",
