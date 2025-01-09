@@ -226,7 +226,7 @@ Ja, dit gebeurt als de hoeksnelheid afneemt. Dit betekend dat het systeem een re
    De motor draait aan een constante hoeksnelheid, dus geen versnelling of vertraging:
    - $M_{J}=0$  omdat er geen verandering is in de hoeksnelheid
    - $M_{as}=M_{belasting}$ geleverde koppel is gelijk aan tegenwerkend koppel
-   - De motor levert een constant koppel en verandert niet meer van snelheid 
+	   - De motor levert een constant koppel en verandert niet meer van snelheid 
 
 
 ### 22. Bespreek het statisch en dynamisch gedrag van de motor, onderhevig aan elk van deze belastingen.
