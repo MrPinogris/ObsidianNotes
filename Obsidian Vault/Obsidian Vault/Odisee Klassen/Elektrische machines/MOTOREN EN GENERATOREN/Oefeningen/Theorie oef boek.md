@@ -224,9 +224,17 @@ Ja, dit gebeurt als de hoeksnelheid afneemt. Dit betekend dat het systeem een re
 ### 21. Wat wort er verstaan onder de statische werking van de motor? Wat wordt verstaan onder de dynamische werking van de motor? Zijn aan beide modi voorwaarden gekoppeld?
 1. Statische werking:
    De motor draait aan een constante hoeksnelheid, dus geen versnelling of vertraging:
-   - $M_{J}=0$  omdat er geen verandering is in de hoeksnelheid
-   - $M_{as}=M_{belasting}$ geleverde koppel is gelijk aan tegenwerkend koppel
-	   - De motor levert een constant koppel en verandert niet meer van snelheid 
+	- $M_{J}=0$  omdat er geen verandering is in de hoeksnelheid
+	- $M_{as}=M_{belasting}$ geleverde koppel is gelijk aan tegenwerkend koppel
+	- De motor levert een constant koppel en verandert niet meer van snelheid 
+	- Alle krachten opgeteld tellen op tot 0
+1. Dynamische werking:
+   Motor versneld, vertraagt of start op. Dit betekend dat het toerental vd motor veranderd
+	- $\frac{d \omega}{dt} \neq 0$ er is een verandering van hoeksnelheid/toerental.
+	- $M_{J}$ speelt een rol en wordt opgeteld of afgetrokken van het totale koppel
+	- $M_{\text{motor}}=M_{\text{belasting}+}M_{J}$ 
+	- Gebeurt bij opstarten van de motor en/of verandering in de belasting
+	- De motor moet het extra koppel ($M_{J}$) kunnen leveren om de traagheid van het systeem te kunnen overwinnen.
 
 
 ### 22. Bespreek het statisch en dynamisch gedrag van de motor, onderhevig aan elk van deze belastingen.
@@ -238,6 +246,6 @@ Ja, dit gebeurt als de hoeksnelheid afneemt. Dit betekend dat het systeem een re
 - nominale stroom van de motor $I_{n}=1,75A$
 ![[Pasted image 20241227142126.png]]
 
-
+De Motor zal overbelast zijn als deze pomp 2  moet aansturen, want de 
 
 
