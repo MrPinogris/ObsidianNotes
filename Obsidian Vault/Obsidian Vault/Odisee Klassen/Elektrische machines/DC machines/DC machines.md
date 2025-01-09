@@ -559,3 +559,23 @@ Kan nooit op hol slaan, tenzij de flux wegvalt.
 - Constant Veld dus koppel recht evenredig met stroom $M=k_{2}\cdot \phi\cdot I_{a}$
 ### 3.11.5 Toerentalkarakteristiek
 - $n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}$
+## 3.12 Seriemotor
+### 3.12.1 EQ schema
+![[Pasted image 20250109160313.png]]
+### 3.12.2 Ankerstroom
+- veldwikkeling in serie met anker
+- ankerstroom is gelijk als e verldstroom
+- veldwikkeling weinig wikkelingen en grote diameter
+### 3.12.3 Koppelkarakteristiek
+- $M=k_{2}\cdot \phi\cdot I_{a} \approx k_{2}'\cdot I_{a}^2$
+- koppel kwadratisch afhankelijk van ankerstroom
+### 3.12.4 Toerentalkarakteristiek
+- $n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}$
+- $n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}'\cdot I_{a}}$
+- Motor kan op hol slaan als de ankerstroom daalt
+- toerental is sterk afhankelijk van de belasting
+- als er geen belasting is dan zal de motor op hol slaan
+## 3.13 Toerentalvariatie van de OB-motor
+$$
+n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}=n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{}
+$$
