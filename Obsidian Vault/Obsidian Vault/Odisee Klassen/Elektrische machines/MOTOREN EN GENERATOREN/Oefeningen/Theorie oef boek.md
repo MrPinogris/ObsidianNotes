@@ -243,8 +243,8 @@ $M_{as}$:
 
 ##### 19.1 van welke parameters is de kipslip. Het kipkoppel afhankelijk, ifv het type motor
 $s_{k}=\frac{R_{2}}{X_{2_{st}}}$
-
-
+![[Pasted image 20250109152550.png]]
+$R_2,\text{ }k\text{ en }X_{2}$ zijn motorafhankelijk
 ##### 19.2 Op welke wijze hebben deze parameters invloed op de koppel-toerentalkarakteristiek?
 
 
