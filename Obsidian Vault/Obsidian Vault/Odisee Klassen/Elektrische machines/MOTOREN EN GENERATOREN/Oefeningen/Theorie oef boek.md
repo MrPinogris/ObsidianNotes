@@ -144,14 +144,20 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 
 ### 14. Een AS motor wordt nominaal belast. Teken de motorkarakteristiek. Duid het tegenwerkend koppel aan. Wat gebeurt er met de onderstaande grootheden indien de belasting toeneemt? Leg uit en geef een nauwkeurige verklaring. Duid ook aan op de voorziene grafiek.
 
-- Het inwendig koppel
-- Het rotortoerental
-- De slip
-- De rotorfrequentie
-- De rotor EMK
-- De rotorstroom $I_2$
+- Het inwendig koppel:
+  Zal stijgen tot het as koppel gelijk wordt met het tegenwerkend koppel van de belasting en als dit tegenwerkend koppel groter is dan het maximale koppel van de motor zal de motor tot stilstand geforceerd worden
+- Het rotortoerental:
+  Zal dalen tot het as koppel gelijk wordt met het tegenwerkend koppel van de belasting en als dit tegenwerkend koppel groter is dan het maximale koppel van de motor zal de motor tot stilstand geforceerd worden
+- De slip:
+  Zal stijgen tot het as koppel wordt met het tegenwerkend koppel van de belasting en als dit tegenwerkend koppel groter is dan het maximale koppel van de motor zal de motor tot stilstand geforceerd worden
+- De rotorfrequentie:
+  Zal stijgen tot het as koppel wordt met het tegenwerkend koppel van de belasting en als dit tegenwerkend koppel groter is dan het maximale koppel van de motor zal de motor tot stilstand geforceerd worden
+- De rotor EMK:
+  Zal stijgen tot het as koppel wordt met het tegenwerkend koppel van de belasting en als dit tegenwerkend koppel groter is dan het maximale koppel van de motor zal de motor tot stilstand geforceerd worden
+- De rotorstroom $I_2$:
+  Zal stijgen tot het as koppel wordt met het tegenwerkend koppel van de belasting en als dit tegenwerkend koppel groter is dan het maximale koppel van de motor zal de motor tot stilstand geforceerd worden
 
-### 15.Vergelijk de arbeidsfactor van de rotor bij aanzetten van de niet ideale AS motor met deze bij nominaal draaien. Bewijs dit adhv vector diragramma's en voorzie dit van de nodige verklaringen, uitleg, formules, equivalente schema's. 
+### 15.Vergelijk de arbeidsfactor van de rotor bij aanzetten van de niet ideale AS motor met deze bij nominaal draaien. Bewijs dit adhv vector diagramma's en voorzie dit van de nodige verklaringen, uitleg, formules, equivalente schema's. 
 
 ##### *Aanzetten-starten* - Equivalent schema
 
