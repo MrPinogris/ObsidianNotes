@@ -577,5 +577,19 @@ Kan nooit op hol slaan, tenzij de flux wegvalt.
 - als er geen belasting is dan zal de motor op hol slaan
 ## 3.13 Toerentalvariatie van de OB-motor
 $$
-n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}=n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{}
+M=k_{2}\cdot \phi\cdot I_{a}
 $$
+$$
+I_{a}=\frac{M}{k_{2}\cdot \phi}
+$$
+$$
+\begin{aligned}
+n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}=\frac{U_{a}}{k_{1}\cdot \phi}-\frac{R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}=\\
+\frac{U_{a}}{k_{1}\cdot \phi}-\frac{R_{a_{tot}}}{k_{1}\cdot \phi\cdot k_{2}\cdot \phi}\cdot M
+\end{aligned}
+$$
+### 3.13.1 Regeling van de ankerspanning
+
+### 3.13.2 Regeling van de ankerweerstand
+### 3.13.3 Regeling van de flux
+## 3.14 Aanloopstroombeperking
