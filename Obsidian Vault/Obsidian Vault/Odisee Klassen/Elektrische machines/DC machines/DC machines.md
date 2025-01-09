@@ -537,3 +537,20 @@ n_{\text{max}} = \frac{U_a}{k_1 \cdot \phi}
 $$
 Bij verlies van flux ($\phi = 0$) kan de motor "op hol slaan." Dit wordt voorkomen door veldbewaking in de stuurkring.
 
+## 3.11 Shunt motor
+### 3.11.1 EQ Schema
+![[Pasted image 20250109153407.png]]
+### 3.11.2 Veldstroom
+**Veldwikkeling:**
+- veel wikkelingen
+- aangesloten op ankerspanning
+- hoge ohmse weerstand
+- sterk inductief
+- kleine veldstroom
+- groot veld
+- $I_{v}=\frac{U_{a}}{R_{v}}$
+### 3.11.3 Ankerstroom
+- $I_{a}=\frac{U_{a}-E}{R_{a_{tot}}}$
+- Aanloopweerstand voor start stroom te beperken
+- $I_{tot}=I_{a}+I_{v}$
+- 

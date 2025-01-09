@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e7265a0b01f7a5a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.10-2.12.pdf",
-                "page": 4,
-                "left": -22,
-                "top": 572,
-                "zoom": 0.709280303030303
-              },
-              "icon": "lucide-file-text",
-              "title": "2.10-2.12"
-            }
-          },
-          {
             "id": "4f8f65ac458648ea",
             "type": "leaf",
             "state": {
@@ -57,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASM motorprincipe"
+              "title": "DC machines"
             }
           },
           {
@@ -80,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -271,16 +256,58 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
+  "floating": {
+    "id": "3dd4f8d15de9e2da",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fd9855f30dba5452",
+        "type": "window",
+        "children": [
+          {
+            "id": "0004adae0614ece4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "79170f084d549dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
+                    "page": 150,
+                    "left": 80,
+                    "top": 666,
+                    "zoom": 0.7
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ASM en DC"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 540,
+        "height": 548,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "381fa1b8674d7df1",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/TODO.md",
+    "attachments/Pasted image 20250109153407.png",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.10-2.12.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/TODO.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.10-2.12.pdf",
     "attachments/Pasted image 20250109152550.png",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "attachments/Pasted image 20250109143057.png",
     "attachments/Pasted image 20250109142316.png",
@@ -318,7 +345,6 @@
     "ASM Tekeningen.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Tekeningen Machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Wetten.md",
-    "burn.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/Elektrische machines.md"
+    "burn.md"
   ]
 }
