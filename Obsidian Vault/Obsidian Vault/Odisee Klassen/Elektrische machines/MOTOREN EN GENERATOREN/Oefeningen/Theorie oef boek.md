@@ -122,8 +122,8 @@ De motor heeft een veel grotere $I_{\mu}$ dan de transformator dit komt door de 
 
 ### 12. Teken vectordiagram van ideale generator a d h v besluiten van de vorige vraag. In welke mate verschilt deze van die van het motorprincipe
 
-De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoordelijk is voor het genereren van de `rotorflux` ook omgepoold. Daardoor hebben we een $I'$ die ook $180°$ verdraaid is en dus hebben we een $\cos \phi>90°$ . Die bij motorwerking kleiner dan $90°$ is.
-
+De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoordelijk is voor het genereren van de `rotorflux` ook omgepoold. Daardoor hebben we een $I'$ die ook $180°$ verdraaid is en dus hebben we een $\cos \varphi>90°$ . Die bij motorwerking kleiner dan $90°$ is.
+![[Pasted image 20250109142316.png]]
 ### 13. Som de frequentieafhankelijke grootheden op bij de AS motor. Geef aan hoe ze wijzigen ifv de frequentie (formule). Geef voor elke grootheid een fysische duiding voor hun wijziging ifv de frequentie.
 
 1. Machine
@@ -140,6 +140,7 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 		2. Rotorreactantie $X_{2}=2\pi f_{r}*L_{2}$
 		3. Rotor frequentie $f_{r}=f_{s}*s$
 		4. koppel $M_{max}\approx \frac{v_{2}}{X_{tot}}$
+		5. $s_{k}$ is afhankelijk van $X_{2}$ 
 
 ### 14. Een AS motor wordt nominaal belast. Teken de motorkarakteristiek. Duid het tegenwerkend koppel aan. Wat gebeurt er met de onderstaande grootheden indien de belasting toeneemt? Leg uit en geef een nauwkeurige verklaring. Duid ook aan op de voorziene grafiek.
 

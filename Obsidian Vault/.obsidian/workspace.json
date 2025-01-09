@@ -30,10 +30,10 @@
               "type": "pdf",
               "state": {
                 "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
-                "page": 2,
-                "left": -16,
-                "top": 572,
-                "zoom": 0.9308712121212122
+                "page": 21,
+                "left": -15,
+                "top": 570,
+                "zoom": 1.0160984848484849
               },
               "icon": "lucide-file-text",
               "title": "2.4-2.6"
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -259,11 +260,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4f8f65ac458648ea",
+  "active": "173520b86a73686d",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
+    "attachments/Pasted image 20250109143057.png",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
+    "attachments/Pasted image 20250109142316.png",
     "attachments/Pasted image 20250109142014.png",
     "attachments/Pasted image 20250109141851.png",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.14-2.16.pdf",
@@ -284,8 +288,6 @@
     "attachments/Afbeelding van WhatsApp op 2024-12-30 om 15.05.36_0636fc2d.jpg",
     "attachments/Afbeelding van WhatsApp op 2024-12-30 om 15.05.13_34485552.jpg",
     "attachments/Afbeelding van WhatsApp op 2024-12-30 om 15.02.40_de9fcb62.jpg",
-    "attachments/Afbeelding van WhatsApp op 2024-12-30 om 15.02.32_17ba9c26.jpg",
-    "attachments/Afbeelding van WhatsApp op 2024-12-30 om 15.02.25_730fb75a.jpg",
     "Obsidian Vault/Odisee Klassen/Analoge regeltech basis",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.3-2.4.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
@@ -300,7 +302,6 @@
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Algemene Samenvatting van ASM.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Antwoorden vragen.md",
     "Obsidian Vault/Odisee Klassen/Smart-grids/Smart-grids.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM Generatorprincipe.md",
     "ASM Tekeningen.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Tekeningen Machines.md",
