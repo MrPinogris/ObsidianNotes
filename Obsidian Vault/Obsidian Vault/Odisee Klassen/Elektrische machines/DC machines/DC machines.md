@@ -553,4 +553,9 @@ Bij verlies van flux ($\phi = 0$) kan de motor "op hol slaan." Dit wordt voorkom
 - $I_{a}=\frac{U_{a}-E}{R_{a_{tot}}}$
 - Aanloopweerstand voor start stroom te beperken
 - $I_{tot}=I_{a}+I_{v}$
+- Grootste deel ankerstroom
+### 3.11.4 Koppelkarakteristiek
+- Constant Veld dus koppel recht evenredig met stroom $M=k_{2}\cdot \phi\cdot I_{a}$
+### 3.11.5 Toerentalkarakteristiek
+- $n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}$
 - 
