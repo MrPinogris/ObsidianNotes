@@ -625,3 +625,26 @@ Het verhogen van de ankerweerstand verlaagt het toerental door een steilere hell
 Het verminderen van de flux verhoogt het toerental door het snijpunt op de $Y$-as en de richtingscoëfficiënt te beïnvloeden.
 
 ## 3.14 Aanloopstroombeperking
+
+- **Startconditie**: Bij het inschakelen van een gelijkstroommotor op de nominale ankerspanning ($U_a$) en toerental $n = 0$:
+  - De tegenspanning ($E$) is $0$.
+  - De aanloopstroom ($I_{a,\text{aan}}$) is zeer groot vanwege de kleine totale ankerweerstand ($R_{a,\text{tot}}$).
+
+- **Formule voor aanloopstroom**:
+  $$
+  I_{a,\text{aan}} = \frac{U_a}{R_{a,\text{tot}}}
+  $$
+
+- **Beperking van de aanloopstroom**:
+  - **Methodes**:
+    1. Verlaging van de ankerspanning ($U_a$).
+    2. Verhoging van de totale ankerweerstand ($R_{a,\text{tot}}$) met een aanzetweerstand.
+  - Tijdens het op gang komen van de motor:
+    - De aanzetweerstand kan geleidelijk verminderd worden.
+    - De ankerspanning kan terug opgevoerd worden.
+
+- **Grafische weergave**:
+  - Gebruik de inzichten van 1.13.1 (regeling van de ankerspanning) en 1.13.2 (regeling van de ankerweerstand) om beide methodes te illustreren.
+
+### Conclusie:
+De aanloopstroom kan gecontroleerd worden door de ankerspanning te verlagen of de totale ankerweerstand te verhogen met een aanzetweerstand. Dit voorkomt overmatige stromen en schade bij het starten van de motor.
