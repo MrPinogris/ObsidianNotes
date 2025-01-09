@@ -227,9 +227,9 @@
       "command-palette:Open opdrachtenpaneel": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:Shell commands: Execute: Run LaTeX Calculator": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "cmdr:Shell commands: Execute: Run LaTeX Calculator": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "floating": {
@@ -284,25 +284,24 @@
                   "title": "ASM en Gelijkstoom machines"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 554,
+        "x": 553,
         "y": 0,
-        "width": 982,
+        "width": 987,
         "height": 816,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "a55c0495ab02ee75",
+  "active": "5bb318fbf99cc711",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.14-2.16.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC(gemaakte oef).pdf",
     "Naamloos.canvas",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
