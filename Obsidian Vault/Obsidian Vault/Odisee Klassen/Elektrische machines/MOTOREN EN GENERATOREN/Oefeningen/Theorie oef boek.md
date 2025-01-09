@@ -190,24 +190,37 @@ $R_{2}\cdot \frac{1-s}{s}$: De equivalente weerstandswaarde van de belasting op 
    Dit is het verloren vermogen te danken aan de koper verliezen in de stator
    $P_{Cu_{1}}=3\cdot R_{1}\cdot I_{F_{S}}^2$
 3. **Primaire ijzerverliezen:**
-   Dit is het verloren vermogen te danken aan de wervelstromen in de stator
-   $P_{Fe_{S}}=P_{1}-3\cdot R_{1}$
+   Dit is het verloren vermogen te danken aan de wervelstromen in de stator is onafhankelijk van het toerental
+   $P_{Fe_{S}}=P_{1}-3\cdot R_{1}\cdot I_{F_{S_{0}}}^2$
 4. **Luchtspleetvermogen:**
    Het overgedragen vermogen van de stator naar de rotor dus dit vermogen is het toegevoegd vermogen zonder de prim Cu- en Fe-verliezen
+   $P_{L}=3\cdot \frac{R_{2}}{s}\cdot I_{2}^2$
 5. **Secundaire koperverliezen:**
    Het vermogen verloren door het Joule effect in de rotorstaven
+   $P_{Cu_{R}}=3\cdot R_{2}\cdot I_{2}^2$
 6. **Inwendig vermogen:**
    Het vermogen dat het inwendig koppel genereerd.
-7. **Mechanische verliezen:**
+   $P_{i}=P_{L}\cdot (1-s)$
+1. **Mechanische verliezen:**
    Het vermogen verloren aan factoren zoals wrijving van de rotor as en ventilatie.
+   $/$
 8. **Nuttig- of Asvermogen:**
    Het mechanisch vermogen op de rotor as.
+   $P_{as}=P_{i}-P_{v}=M_{as}\cdot \omega$
 
 
 - $P_{1}\implies P_{L},P_{v}(P_{Cu},P_{Fe})\implies P_{i},P_{Cu_{s}}\implies$
 
 ### 18. Van welke parameters is het inwendig koppel van de asynchrone motor afhankelijk?
-
+$M_{as}$:
+- Toerental
+- Toegevoegd vermogen
+- Tegenwerkend koppel
+- Motorconstanten
+- Rotorweerstanden en reactanties
+- Statorweerstanden en reactanties
+- Polenparen -> Toerental
+- Statorfrequentie -> Toerental
 
 
 ### 19. Teken een realistische koppel-toerentalkarakteristiek samen met lineaire belastingskarakteristiek. Duid hierop de volgende punten/gebieden aan
@@ -229,7 +242,7 @@ $R_{2}\cdot \frac{1-s}{s}$: De equivalente weerstandswaarde van de belasting op 
 - inwendig koppel
 
 ##### 19.1 van welke parameters is de kipslip. Het kipkoppel afhankelijk, ifv het type motor
-
+$s_{k}=\frac{R_{2}}{X_{2_{st}}}$
 
 
 ##### 19.2 Op welke wijze hebben deze parameters invloed op de koppel-toerentalkarakteristiek?

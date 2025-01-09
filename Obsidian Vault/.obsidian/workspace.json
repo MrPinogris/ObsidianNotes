@@ -50,14 +50,7 @@
               "icon": "lucide-file",
               "title": "ASM en Gelijkstoom machines"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d58ed5f94aeac462",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "381fa1b8674d7df1",
             "type": "leaf",
@@ -72,7 +65,8 @@
               "title": "ASM motorprincipe"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,7 +258,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4f8f65ac458648ea",
+  "active": "bf0ce66c73b28a0b",
   "lastOpenFiles": [
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
