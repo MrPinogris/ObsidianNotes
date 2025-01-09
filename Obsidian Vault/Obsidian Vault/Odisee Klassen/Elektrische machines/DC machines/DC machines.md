@@ -538,6 +538,7 @@ $$
 Bij verlies van flux ($\phi = 0$) kan de motor "op hol slaan." Dit wordt voorkomen door veldbewaking in de stuurkring.
 
 ## 3.11 Shunt motor
+Kan nooit op hol slaan, tenzij de flux wegvalt.
 ### 3.11.1 EQ Schema
 ![[Pasted image 20250109153407.png]]
 ### 3.11.2 Veldstroom
@@ -558,4 +559,3 @@ Bij verlies van flux ($\phi = 0$) kan de motor "op hol slaan." Dit wordt voorkom
 - Constant Veld dus koppel recht evenredig met stroom $M=k_{2}\cdot \phi\cdot I_{a}$
 ### 3.11.5 Toerentalkarakteristiek
 - $n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}$
-- 
