@@ -65,8 +65,8 @@ Een magnetisch veld dat roteert in een ruimte. Gevoed door een 3f wisselstroom d
 |           |       |
 |           |       |
 ![[Pasted image 20250109124410.png]]
-![[Pasted image 20241227143508.png|#invert]]
-![[Pasted image 20241227145129.png|#invert]]
+![[Pasted image 20250109141104.png]]
+![[Pasted image 20250109141142.png]]
 ![[Pasted image 20241227145141.png|#invert]]
 
 ### 7.Bepaal wiskundig de grootte van het tweepolig draaiveld op $t=t_{3}$ en op $t=t_{4}$ . Geef hiervan de afleiding met bijhorend vectordiagram.
@@ -78,21 +78,23 @@ $$
 |\Phi_{t}|=|\Phi_{1}|\cdot \sin\alpha+|\Phi_{2}|\cdot \sin(\alpha-120°)+|\Phi_{3}|\sin(\alpha-240°)
 $$
 
-#### 8. Kan een AS motor op het synchroon toerental draaien?
+### 8. Kan een AS motor op het synchroon toerental draaien?
 
-Neen maar kan wel streven naar het synchroon toerental dus $n_{r}\to n_{s}$ maar nooit $n_{r}\geq n_{s}$ tenzij er een uitwendig meedraaiend koppel is die de motor duwt tot $n_{s}$ of verder ($n_{r}>n_{s}$). De slip is essentieel voor de motorwerking ook al nadert de Slip naar 0 $(s\to0)$ Je kan enkel $s<0$ hebben als je de machine als generator gebruikt.
+**Theoretisch:** als ideale ASM kan dit wel want er zijn geen verliezen dus $M_{i}=M_{as}$ en op s=0 zal het inwendig moment ook 0 zijn en als er het tegenwerkend koppel ook 0 is dan kan de motor op zijn synchroon toerental draaien.
 
-#### 9. Beschouw de ideale AS motor. Teken het vectordiagram. In welke mate verschilt dit met die van de Ideale transformator?
+**Praktisch:** Neen maar kan wel streven naar het synchroon toerental dus $n_{r}\to n_{s}$ maar nooit $n_{r}\geq n_{s}$ tenzij er een uitwendig meedraaiend koppel is die de motor duwt tot $n_{s}$ of verder ($n_{r}>n_{s}$). De slip is essentieel voor de motorwerking ook al nadert de Slip naar 0 $(s\to0)$ Je kan enkel $s<0$ hebben als je de machine als generator gebruikt.
 
-De motor heeft een veel grotere $I_{\mu}$ dan de transformator dit komt door de luchtspleet tussen de stator en de rotor.
+### 9. Beschouw de ideale AS motor. Teken het vectordiagram. In welke mate verschilt dit met die van de Ideale transformator?
+![[Pasted image 20250109141851.png]]
+De motor heeft een veel grotere $I_{\mu}$ dan de transformator dit komt door de luchtspleet tussen de stator en de rotor. En door de grotere magnetiseringsstroom zal de nullaststroom ook groter zijn.
 
-#### 10. Toon de werking aan van de AS motor voor: ... En voorzie de figuren van de nodige uitleg. Teken de verschillende grootheden $(I_{µ},\Phi,n_{s},n_{r},v,I_{2},\Phi_{2},\Phi_{1},I_{1}',F,M)$ in verschillende kleuren en noteer in de tabel naast de respectievelijke grootheid.
+### 10. Toon de werking aan van de AS motor voor: ... En voorzie de figuren van de nodige uitleg. Teken de verschillende grootheden $(I_{µ},\Phi,n_{s},n_{r},v,I_{2},\Phi_{2},\Phi_{1},I_{1}',F,M)$ in verschillende kleuren en noteer in de tabel naast de respectievelijke grootheid.
 
-1. Een tweepolig veld aan io $\omega t_{3}=180°$ met draaizin in wijzerzin
-2. Een tweepolig veld aan io $\omega t_{4}=270°$ met draaizin in wijzerzin
+1. Een tweepolig veld aan io $\omega t_{3}=0°$ met draaizin in wijzerzin
+2. Een tweepolig veld aan io $\omega t_{4}=90°$ met draaizin in wijzerzin
    
-3. Een tweepolig veld aan io $\omega t_{3}=180°$ met draaizin in tegenwijzerzin
-4. Een tweepolig veld aan io $\omega t_{3}=270°$ met draaizin in tegenwijzerzin
+3. Een tweepolig veld aan io $\omega t_{3}=0°$ met draaizin in tegenwijzerzin
+4. Een tweepolig veld aan io $\omega t_{3}=90°$ met draaizin in tegenwijzerzin
 
 
 | grootheid | kleur |
@@ -108,21 +110,21 @@ De motor heeft een veel grotere $I_{\mu}$ dan de transformator dit komt door de 
 |           |       |
 |           |       |
 ![[Pasted image 20241227143452.png|#invert]]
-![[Pasted image 20241227150422.png|#invert]]
+![[Pasted image 20250109142014.png]]
 ![[Pasted image 20241227150422.png|#invert]]
 
 
-#### 11. Toon de werking aan van de asynchrone generator voor: ... Voorzie de figuren van de nodige uitleg. Teken de verschillende grootheden $(I_{µ},\Phi,n_{s},n_{r},v,I_{2},\Phi_{2},\Phi_{1},I_{1}',F,M)$ in verschillende kleuren en noteer in de tabel naast de respectievelijke grootheid.
+### 11. Toon de werking aan van de asynchrone generator voor: ... Voorzie de figuren van de nodige uitleg. Teken de verschillende grootheden $(I_{µ},\Phi,n_{s},n_{r},v,I_{2},\Phi_{2},\Phi_{1},I_{1}',F,M)$ in verschillende kleuren en noteer in de tabel naast de respectievelijke grootheid.
 1. een tweepolig veld aan op $\omega t_{3}=180°$ met draaizin in wijzerzin
 2. een tweepolig veld aan op $\omega t_{3}=270°$ met draaizin in wijzerzin
 ![[Pasted image 20241227150422.png|#invert]]
 
 
-#### 12. Teken vectordiagram van ideale generator a d h v besluiten van de vorige vraag. In welke mate verschilt deze van die van het motorprincipe
+### 12. Teken vectordiagram van ideale generator a d h v besluiten van de vorige vraag. In welke mate verschilt deze van die van het motorprincipe
 
 De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoordelijk is voor het genereren van de `rotorflux` ook omgepoold. Daardoor hebben we een $I'$ die ook $180°$ verdraaid is en dus hebben we een $\cos \phi>90°$ . Die bij motorwerking kleiner dan $90°$ is.
 
-#### 13. Som de frequentieafhankelijke grootheden op bij de AS motor. Geef aan hoe ze wijzigen ifv de frequentie (formule). Geef voor elke grootheid een fysische duiding voor hun wijziging ifv de frequentie.
+### 13. Som de frequentieafhankelijke grootheden op bij de AS motor. Geef aan hoe ze wijzigen ifv de frequentie (formule). Geef voor elke grootheid een fysische duiding voor hun wijziging ifv de frequentie.
 
 1. Machine
 	1. Flux $\Phi$ = $\Phi \approx \frac{V}{X_{m}}=\frac{V}{2\pi fL_{m}}$
@@ -139,7 +141,7 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 		3. Rotor frequentie $f_{r}=f_{s}*s$
 		4. koppel $M_{max}\approx \frac{v_{2}}{X_{tot}}$
 
-#### 14. Een AS motor wordt nominaal belast. Teken de motorkarakteristiek. Duid het tegenwerkend koppel aan. Wat gebeurt er met de onderstaande grootheden indien de belasting toeneemt? Leg uit en geef een nauwkeurige verklaring. Duid ook aan op de voorziene grafiek.
+### 14. Een AS motor wordt nominaal belast. Teken de motorkarakteristiek. Duid het tegenwerkend koppel aan. Wat gebeurt er met de onderstaande grootheden indien de belasting toeneemt? Leg uit en geef een nauwkeurige verklaring. Duid ook aan op de voorziene grafiek.
 
 - Het inwendig koppel
 - Het rotortoerental
