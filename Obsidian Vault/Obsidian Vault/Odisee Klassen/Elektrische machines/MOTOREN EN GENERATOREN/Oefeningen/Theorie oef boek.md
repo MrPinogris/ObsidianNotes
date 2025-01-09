@@ -215,14 +215,15 @@ Ja, dit gebeurt als de hoeksnelheid toeneemt.
 Dit betekent dat de motor extra koppel moet geven om de traagheid te overwinnen en dus een versnelling kan veroorzaken
 
 ##### 3. Kan $M_{J}=0$? Zo ja, situeer het gevolg vd. motorwerking
-Ja, dit betekent dat: $\frac{d\omega}{dt} = 0$  en 
+Ja, dit gebeurt wanneer: $\frac{d\omega}{dt} = 0$  en dus het systeem dezelfde hoeksnelheid behoud. De motor moet geen extra koppel leveren om de hoeksnelheid te veranderen. De motor moet enkel het belasting koppel overwinnen. 
 
 #### 4. Kan $M_{J}<0$? Zo ja, situeer het gevolg vd. motorwerking
-
+Ja, dit gebeurt als de hoeksnelheid afneemt. Dit betekend dat het systeem een remmend effect heeft. de motor moet minder koppel leveren omdat het de traagheid al een deel van de vertraging veroorzaakt. In sommige gevallen kan de motor dan als generator werken, waarbij er energie wordt teruggewonnen.
 
 
 ### 21. Wat wort er verstaan onder de statische werking van de motor? Wat wordt verstaan onder de dynamische werking van de motor? Zijn aan beide modi voorwaarden gekoppeld?
-
+1. Statische werking:
+   De motor draait aan een constante hoeksnelheid, dus geen versnelling of vertraging
 
 
 ### 22. Bespreek het statisch en dynamisch gedrag van de motor, onderhevig aan elk van deze belastingen.
