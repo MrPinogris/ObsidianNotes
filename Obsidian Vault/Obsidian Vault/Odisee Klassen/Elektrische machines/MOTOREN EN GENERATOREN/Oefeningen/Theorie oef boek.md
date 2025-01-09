@@ -208,13 +208,14 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 ### 20 Betreffende $M_{J}$
 
 ##### 1. Leg de betekenis uit van het $M_{J}$ koppel.
-
+$M_{J}$ is het koppel dat nodig is om de hoeksnelheid van het systeem te veranderen. Met andere woorden $M_{J}$ is de weerstand dat het roterend systeem biedt tegen een veranderijng in snelheid
 
 ##### 2. Kan $M_{J}>0$? Zo ja, situeer het gevolg vd. motorwerking
-
+Ja, dit gebeurt als de hoeksnelheid toeneemt. 
+Dit betekent dat de motor extra koppel moet geven om de traagheid te overwinnen en dus een versnelling kan veroorzaken
 
 ##### 3. Kan $M_{J}=0$? Zo ja, situeer het gevolg vd. motorwerking
-
+Ja, dit betekent dat: $\frac{d\omega}{dt} = 0$  en 
 
 #### 4. Kan $M_{J}<0$? Zo ja, situeer het gevolg vd. motorwerking
 
