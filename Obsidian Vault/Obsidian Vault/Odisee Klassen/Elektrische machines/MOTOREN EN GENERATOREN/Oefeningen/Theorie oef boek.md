@@ -160,26 +160,37 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 ### 15.Vergelijk de arbeidsfactor van de rotor bij aanzetten van de niet ideale AS motor met deze bij nominaal draaien. Bewijs dit adhv vector diagramma's en voorzie dit van de nodige verklaringen, uitleg, formules, equivalente schema's. 
 
 ##### *Aanzetten-starten* - Equivalent schema
+![[Pasted image 20241223185137.png]]
 $$ 
 Z=\sqrt{ \frac{R_{2}}{\underbrace{ s }_{ s=1=\text{MAX} }}^2+X_{st}^2 } \implies\cos \varphi \ll
 $$
+![[Pasted image 20241224093833.png]]
 ##### *Nominaal draaien/bedrijf* - Equivalent schema
+![[Pasted image 20241224122011.png]]
+![[Pasted image 20241224114338.png]]
 $$
 Z=\sqrt{ \frac{R_{2}}{\underbrace{ s }_{ s\ll }}^2+X_{st}^2 } \implies\cos \varphi \ll
 $$
+![[Pasted image 20241224104000.png]]
 ### 16. Verklaar de fysische betekenis van de weerstanden $R_{2},R_{2}/s,R_{2}(1-s)/s$
-
-
+$R_{2}$: De weerstandswaarde van de statorstaven
+$\frac{R_{2}}{s}$: De weerstandswaarde van de statorstaven plus de equivalente weerstandswaarde van de belasting op de as
+$R_{2}\cdot \frac{1-s}{s}$: De equivalente weerstandswaarde van de belasting op de as van de motor
 
 ### 17. De nominaal draaiende AS motor (niet ideaal):
-
-
-
 ##### Geef het EQ schema
 
-
+![[Pasted image 20241224122140.png]]
 
 ##### ==Welke actieve vermogens treden== er op in de draaiende AS motor en in ==welke onderdelen== van de machine treden deze vermogens op? Som ze één na één op. ==Bespreek ze uitgebreid== en leg uit wat hun ==fysische betekenis== is uitgaande van het ==EQ schema== van de ==nominaal draaiende AS motor== en geef de ==formule van dit vermogen==. Kan je de ==formules vlot omzetten==? Noteer tevens de ==formules van de resp. koppels.==
+1. **Toegevoegd vermogen:**
+   dit is het elektrische vermogen dat in de motor wordt gestuurd
+2. **Primaire koperverliezen:**
+   Dit is het verloren vermogen te danken aan de koper verliezen in de stator
+3. **Primaire ijzerverliezen:**
+   Dit is het verloren vermogen te danken aan de wervelstromen in de stator
+4. 
+
 
 - $P_{1}\implies P_{L},P_{v}(P_{Cu},P_{Fe})\implies P_{i},P_{Cu_{s}}\implies$
 
