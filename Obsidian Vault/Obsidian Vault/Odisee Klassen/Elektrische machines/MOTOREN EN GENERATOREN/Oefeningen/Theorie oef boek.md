@@ -185,11 +185,23 @@ $R_{2}\cdot \frac{1-s}{s}$: De equivalente weerstandswaarde van de belasting op 
 ##### ==Welke actieve vermogens treden== er op in de draaiende AS motor en in ==welke onderdelen== van de machine treden deze vermogens op? Som ze één na één op. ==Bespreek ze uitgebreid== en leg uit wat hun ==fysische betekenis== is uitgaande van het ==EQ schema== van de ==nominaal draaiende AS motor== en geef de ==formule van dit vermogen==. Kan je de ==formules vlot omzetten==? Noteer tevens de ==formules van de resp. koppels.==
 1. **Toegevoegd vermogen:**
    dit is het elektrische vermogen dat in de motor wordt gestuurd
-2. **Primaire koperverliezen:**
+   $P_{1}=\sqrt{ 3 }\cdot I_{L}\cdot U_{L}\cdot \cos \varphi_{1}$
+1. **Primaire koperverliezen:**
    Dit is het verloren vermogen te danken aan de koper verliezen in de stator
+   $P_{Cu_{1}}=3\cdot R_{1}\cdot I_{F_{S}}^2$
 3. **Primaire ijzerverliezen:**
    Dit is het verloren vermogen te danken aan de wervelstromen in de stator
-4. 
+   $P_{Fe_{S}}=P_{1}-3\cdot R_{1}$
+4. **Luchtspleetvermogen:**
+   Het overgedragen vermogen van de stator naar de rotor dus dit vermogen is het toegevoegd vermogen zonder de prim Cu- en Fe-verliezen
+5. **Secundaire koperverliezen:**
+   Het vermogen verloren door het Joule effect in de rotorstaven
+6. **Inwendig vermogen:**
+   Het vermogen dat het inwendig koppel genereerd.
+7. **Mechanische verliezen:**
+   Het vermogen verloren aan factoren zoals wrijving van de rotor as en ventilatie.
+8. **Nuttig- of Asvermogen:**
+   Het mechanisch vermogen op de rotor as.
 
 
 - $P_{1}\implies P_{L},P_{v}(P_{Cu},P_{Fe})\implies P_{i},P_{Cu_{s}}\implies$

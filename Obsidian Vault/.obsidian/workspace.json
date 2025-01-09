@@ -50,7 +50,14 @@
               "icon": "lucide-file",
               "title": "ASM en Gelijkstoom machines"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d58ed5f94aeac462",
+        "type": "tabs",
+        "children": [
           {
             "id": "381fa1b8674d7df1",
             "type": "leaf",
@@ -65,8 +72,7 @@
               "title": "ASM motorprincipe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
