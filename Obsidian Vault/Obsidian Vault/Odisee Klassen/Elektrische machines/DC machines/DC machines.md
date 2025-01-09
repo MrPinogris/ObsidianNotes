@@ -590,6 +590,38 @@ n=\frac{U_{a}-R_{a_{tot}}\cdot I_{a}}{k_{1}\cdot \phi}=\frac{U_{a}}{k_{1}\cdot \
 $$
 ### 3.13.1 Regeling van de ankerspanning
 
+- **Grafiekbeschrijving**: Het toerental ($n$) is afhankelijk van het koppel ($M_t$). Bij constante flux ($\Phi$) en constante ankerweerstand is het toerental proportioneel aan de ankerspanning ($U_a$). 
+- **Effect van ($U_a$)**: Verlaging van ($U_a$) resulteert in een parallelle verschuiving van de karakteristiek zonder verandering in de helling.
+- **Werking met belasting**:
+  - Snijpunten tussen de koppel-karakteristiek ($M_t$) en de spanningskarakteristieken (($U_{a,n}$), ($U_{a,1}$), ($U_{a,2}$), enz.) bepalen het werkingspunt.
+  - Bij ($U_{a,n} > U_{a,1} > U_{a,2}$): Het werkingspunt verschuift, resulterend in een lager toerental.
+
+#### Conclusie:
+De ankerspanning regelt het toerental door verschuiving van de ($n-M_t$)-karakteristieken.
+
 ### 3.13.2 Regeling van de ankerweerstand
+
+- **Grafiekbeschrijving**: Het toerental ($n$) is een functie van het koppel ($M_t$). Bij constante ankerspanning ($U_a$) en flux ($\Phi$):
+  - Verhogen van de ankerweerstand ($R_a$) verhoogt de helling (rico) van de ($n-M_t$)-karakteristiek.
+  - Alle lijnen van constante ankerweerstand snijden de $Y$-as in hetzelfde punt: $\frac{U_a}{k_1 \cdot \Phi}$.
+
+- **Effect van ($R_a$)**:
+  - Verhoging van ($R_a$) verlaagt het toerental.
+  - Bij ($R_{a,\text{tot}} < R_{a,\text{tot1}} < R_{a,\text{tot2}}$): Het werkingspunt verschuift, resulterend in een lager toerental.
+
+#### Conclusie:
+Het verhogen van de ankerweerstand verlaagt het toerental door een steilere helling in de karakteristiek.
+
 ### 3.13.3 Regeling van de flux
+
+- **Grafiekbeschrijving**: Het toerental ($n$) is een functie van het koppel ($M_t$). Bij constante ankerspanning ($U_a$) en constante ankerweerstand ($R_a$):
+  - Verlaging van de flux ($\Phi$) resulteert in een hoger snijpunt van de $Y$-as: $\frac{U_a}{k_1 \cdot \Phi}$.
+  - De richtingscoëfficiënt neemt toe, wat de helling van de karakteristiek beïnvloedt.
+
+- **Effect van ($\Phi$)**:
+  - Een lagere flux ($\Phi$) verhoogt het toerental.
+
+#### Conclusie:
+Het verminderen van de flux verhoogt het toerental door het snijpunt op de $Y$-as en de richtingscoëfficiënt te beïnvloeden.
+
 ## 3.14 Aanloopstroombeperking
