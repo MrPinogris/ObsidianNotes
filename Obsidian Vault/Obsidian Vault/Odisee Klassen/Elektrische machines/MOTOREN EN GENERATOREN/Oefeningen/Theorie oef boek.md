@@ -1,5 +1,5 @@
 
-#### 1. Hoe is de ASM opgebouwd? Geef 2 verschillende types. Hoe kan je deze motor herkennen? Geef een andere naam voor de ASM.
+### 1. Hoe is de ASM opgebouwd? Geef 2 verschillende types. Hoe kan je deze motor herkennen? Geef een andere naam voor de ASM.
 
 Een ASM is opgebouwd uit een statisch gedeelte, *de stator* en een dynamisch gedeelte, *de rotor*. Beide zijn gescheiden door een kleine *luchtspleet*.
 De *stator* is gemaakt uit gietstaal met gleuven waarin de $3f$ statorwikkelingen, regelmatig over de statoromtrek verdeeld, aangebracht zijn. In de *stator* bevind zich de *rotor* met een *luchtspleet tussen*. 
@@ -14,7 +14,7 @@ De *rotor* is opgebouwd uit koperen of Aluminium staven die op hun uiteinden zij
 
 Inductie motor
 
-#### 2. Vul in:
+### 2. Vul in:
 
 | **Toerental** |             | **Generatorwerking** | **Motorwerking** |
 | ------------- | ----------- | -------------------- | ---------------- |
@@ -22,7 +22,7 @@ Inductie motor
 | $n<0$         | $\cosφ_{1}$ | +                    | -                |
 | $n>0$         | $M$         | -                    | +                |
 | $n>0$         | $\cosφ_{1}$ | +                    | -                |
-#### 3. Geef de formule voor het toegevoegd vermogen en het nuttig vermogen bij een AS generator. Stel schematisch voor en duid de energiestroom aan.
+### 3. Geef de formule voor het toegevoegd vermogen en het nuttig vermogen bij een AS generator. Stel schematisch voor en duid de energiestroom aan.
 
 $$
 P_{toe}=M\cdot \omega
@@ -34,17 +34,17 @@ $$
 P_{nuttig}=P_{L}-P_{cu_{s}}-P_{Fe_{s}}
 $$
 
-#### 4.Wat is een draaiveld?
+### 4.Wat is een draaiveld?
 
 Een magnetisch veld dat roteert in een ruimte. Gevoed door een 3f wisselstroom die door de statorwikkelingen v/d ASM vloeit. deze wikkelingen zijn geplaatste zodat de faseverschuiving tussen iedere wikkeling $120°$ is.
 
-#### 5.Welke waarden moeten voldaan zijn om binnen de stator van een ASM een draaiveld te bekomen?
+### 5.Welke waarden moeten voldaan zijn om binnen de stator van een ASM een draaiveld te bekomen?
 
 - Een 3fasige voeding waar de faseverschuiving tussen iedere fase $120°$ is en een gelijke spanning
 - De statorwikkelingen moeten geplaatst worden zodat ze onderling een fysieke hoekverschuiving hebben van $120°$ 
 - De wikkelingen moeten een gelijke belasting hebben tov elkaar
 
-#### 6.Toon het ontstaan van een
+### 6.Toon het ontstaan van een
 
 1. tweepolig veld aan a.d.h.v één $(\omega t_{3}=180°)$ of meerdere figuren $(\omega t_{3}=180°$ en $\omega t_{4}=270°)$
 2. vierpolig veld aan a.d.h.v één $(\omega t_{3}=180°)$ of meerdere figuren $(\omega t_{3}=180°$ en $\omega t_{4}=270°)$
@@ -70,7 +70,7 @@ Een magnetisch veld dat roteert in een ruimte. Gevoed door een 3f wisselstroom d
 ![[Pasted image 20241227145129.png|#invert]]
 ![[Pasted image 20241227145141.png|#invert]]
 
-#### 7.Bepaal wiskundig de grootte van het tweepolig draaiveld op $t=t_{3}$ en op $t=t_{4}$ . Geef hiervan de afleiding met bijhorend vectordiagram.
+### 7.Bepaal wiskundig de grootte van het tweepolig draaiveld op $t=t_{3}$ en op $t=t_{4}$ . Geef hiervan de afleiding met bijhorend vectordiagram.
 
 $$
 \overline{\Phi_{t}}=\overline{\Phi_{1}}+\overline{\Phi_{2}}+\overline{\Phi_{3}}
@@ -205,6 +205,7 @@ De EMK van de `Rotor` is omgepoolt, hierdoor is de `Rotorstroom` die verantwoord
 
 
 
+
 ### 20 Betreffende $M_{J}$
 
 ##### 1. Leg de betekenis uit van het $M_{J}$ koppel.
@@ -247,6 +248,6 @@ Ja, dit gebeurt als de hoeksnelheid afneemt. Dit betekend dat het systeem een re
 ![[Pasted image 20241227142126.png]]
 
 De Motor zal overbelast zijn als deze pomp 2  moet aansturen en in het statisch punt komt, want de stator stroom zal groter zijn dan de nominale stroom en dus zal de motor oververhitten.
-Bij pomp 1 is het wel mogelijk om deze constant aan te sturen, want h
+Bij pomp 1 is het wel mogelijk om deze constant aan te sturen, want de opgenomen statorstroom in het werkingspunt is lager dan de nominale stroom (vollast stroom) van de motor
 
 
