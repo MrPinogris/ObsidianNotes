@@ -29,9 +29,9 @@
               "state": {
                 "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
                 "page": 77,
-                "left": -12,
-                "top": 776,
-                "zoom": 1.2308506142771851
+                "left": -10,
+                "top": 780,
+                "zoom": 1.4702176733484904
               },
               "icon": "lucide-file-text",
               "title": "ASM en DC"
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,10 +258,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4f8f65ac458648ea",
+  "active": "0e7265a0b01f7a5a",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
