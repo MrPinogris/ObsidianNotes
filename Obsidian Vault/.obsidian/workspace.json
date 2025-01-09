@@ -4,23 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "58761c559f030a5c",
+        "id": "3cb04b561e8959d3",
         "type": "tabs",
         "children": [
-          {
-            "id": "173520b86a73686d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.14-2.16.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "2.14-2.16"
-            }
-          },
           {
             "id": "0e7265a0b01f7a5a",
             "type": "leaf",
@@ -29,12 +15,28 @@
               "state": {
                 "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
                 "page": 100,
-                "left": -20,
-                "top": 79,
-                "zoom": 0.7899112949353071
+                "left": -21,
+                "top": 57,
+                "zoom": 0.7621951091481033
               },
               "icon": "lucide-file-text",
               "title": "ASM en DC"
+            }
+          },
+          {
+            "id": "173520b86a73686d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.14-2.16.pdf",
+                "page": 1,
+                "left": -39,
+                "top": 614,
+                "zoom": 0.3835227272727273
+              },
+              "icon": "lucide-file-text",
+              "title": "2.14-2.16"
             }
           },
           {
@@ -50,14 +52,7 @@
               "icon": "lucide-file",
               "title": "ASM en Gelijkstoom machines"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3cb04b561e8959d3",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4f8f65ac458648ea",
             "type": "leaf",
@@ -72,7 +67,8 @@
               "title": "Theorie oef boek"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,6 +262,7 @@
   },
   "active": "4f8f65ac458648ea",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250109124410.png",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",

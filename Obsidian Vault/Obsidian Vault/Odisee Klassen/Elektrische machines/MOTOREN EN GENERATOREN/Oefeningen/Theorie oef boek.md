@@ -64,8 +64,7 @@ Een magnetisch veld dat roteert in een ruimte. Gevoed door een 3f wisselstroom d
 |           |       |
 |           |       |
 |           |       |
-
-![[Pasted image 20241227143452.png|#invert]]
+![[Pasted image 20250109124410.png]]
 ![[Pasted image 20241227143508.png|#invert]]
 ![[Pasted image 20241227145129.png|#invert]]
 ![[Pasted image 20241227145141.png|#invert]]
