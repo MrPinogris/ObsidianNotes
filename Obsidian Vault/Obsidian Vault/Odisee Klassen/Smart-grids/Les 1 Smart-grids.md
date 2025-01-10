@@ -51,8 +51,31 @@ Heel Europa is met elkaar gekoppeld met het net
 **Geschiedenis:**
 Ontstaan $\approx1900$ 
 
-**1900 – 1955: Geliberaliseerde markt**:
+1. **1900 – 1955: Geliberaliseerde markt**:
+	- Gemeenten gaven concessies aan producenten met tijdelijke monopolierechten.
+	- Concurrentie vond plaats op het verwerven van concessies.
+	- Door schaalvoordelen fuseerden bedrijven, wat leidde tot minder concurrentie en hogere prijzen.
+2. **1955 – 1990: Gereguleerde markt**:
+	- De overheid greep in door een Beheerscomité op te richten om de elektriciteitssector als één bedrijf te beheren.
+	- Control comités zorgden voor toezicht en transparantie.
+3. **1990 – 2003: Gereguleerde concentratie**:
+	- Concentratie leidde uiteindelijk tot één dominante producent (samenwerking Electrabel en SPE).
+	- Regeling bedoeld om de rendabiliteit te waarborgen.
+4. **2003 – heden: Liberalisering**:
+	- De Europese energiemarkt werd vrijgemaakt, waardoor consumenten vanaf 2007 vrij een leverancier konden kiezen.
+	- Productie en verkoop werden geliberaliseerd; transmissie en distributie bleven gereguleerd.
+	- Bevoegdheden werden verdeeld over federale en gewestelijke instanties, met specifieke regulatoren zoals CREG en VREG.
 
-- Gemeenten gaven concessies aan producenten met tijdelijke monopolierechten.
-- Concurrentie vond plaats op het verwerven van concessies.
-- Door schaalvoordelen fuseerden bedrijven, wat leidde tot minder concurrentie en hogere prijzen.
+--- 
+**Actueel:**
+Opdeling van het netwerk
+- $30\text{kV}$: grens tussen transmissienet op hoogspanning (HS) en de distributienetten op midden spanning (MS)
+- $70\text{kV}$: grens tussen federale en gewestelijke bevoegdheid over elektriciteitsnet
+
+$30\text{kV}$: grens tussen taken van de transmissienetbeheerder (TBN) en de distributienetbeheerders (DNB's):
+- één transmissienetbeheerder voor heel België: Elia
+- per welkomschreven gebied één distributiebeheerder (=sde voormalige intercommunales): IMEWO, Gaselwest, Integem,...
+DNB's zijn verenigd in 'netoperatoren' (voor Vlaanderen: voorheen Eandis en Infrax, nu gefusioneerd tot Fluvius).
+
+---
+Taken van de transmissinet- en sid
