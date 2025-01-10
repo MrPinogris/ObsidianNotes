@@ -195,4 +195,11 @@ Op deze knooppunten kunnen:
 - verbruikers aangesloten worden
 ==MAW deze zijn cruciaal; kunnen open of gesloten zijn==
 
-**Open schakel installaties:
+**Open schakel installaties "air insulated Substations":
+- +Goedkoper
+- -Neemt veel plaats in
+- -Bloot aan weer en wind
+**Gesloten
+- -duurder
+- +compacter
+- +onderhoudsvriendelijk
