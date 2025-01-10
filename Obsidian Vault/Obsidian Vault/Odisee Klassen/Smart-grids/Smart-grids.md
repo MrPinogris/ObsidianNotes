@@ -281,13 +281,16 @@ Op deze knooppunten kunnen:
 - Slechts *uitschakelen* als er geen stroom door de scheider loopt, tenzij een parallele verbinding het ontstaan van een boog voorkomt.
 - Slechts *inschakelen* als er geen spanning over de scheider staat.
 
-### Schakelmateriaal
+# Schakelmateriaal
+
+
 Onderdelen van installaties die(3 mogelijke basistaken):
 - stromen kunnen onderbreken
 - spanningen kunnen isoleren
 - energie kunnen verdelen
 
-
+### Classificatie
+#### indeling naar functie
 1. **scheider**
    - Enkel bedoeld om een veilige opening in een net aan te brengen
    - opening biedt isolatie tegen elke mogelijke overspanning
@@ -297,7 +300,35 @@ Onderdelen van installaties die(3 mogelijke basistaken):
    - Gelijk met scheider en extra
    - mogelijk om in of uit te schakelen in een net onder normale bedrijfscondities
 3. contactor
-   
-2. vermogensschakelaar
-3. aardschakelaar
-4. smeltveiligheid
+   - Gelijk met lastscheider en extra
+   - gemaakt voor veelvoudig schakelen
+   - schakelbaar onder geringe overbelasting
+4. vermogensschakelaar
+   - Gelijk aan contactor en extra
+   - mogelijk om alle voorkomende stromen (inclusief foutstromen) te onderbreken of daar op in te schakelen
+5. aardschakelaar
+   - Aarden van installaties die reeds onderbroken waren
+6. smeltveiligheid
+   - kan maar 1 keer de kortsluitstroom onderbreken en een veilige isolatieafstand creëren
+
+#### indeling naar blusmedium
+**Blusmedium**
+Het blusmedium is de middenstof waarin de boog ontstaat onmiddelijk na opening van de contactoren
+
+Gewenste eigenschappen:
+- groot elektrisch isolatie vermogen
+- uitstekende afvoer van ladingsdragers en thermische energie
+
+
+Meest voorkomend:
+1. LUCHT
+   - reeds langst toegepast
+   - zowel als onder atmosferische en hogere druk
+   - luide knal
+   - sterke luchtverplaatsing
+2. OLIE
+   - Begin 20ste eeuw
+   - 1st olie-bad
+   - later reductie van hoeveelheid olie in "olie-arme" schakelaar
+   - stilstaan van de markt verdwenen
+3. $\text{SF}$
