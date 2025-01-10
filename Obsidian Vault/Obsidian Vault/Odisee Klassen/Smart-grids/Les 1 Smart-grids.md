@@ -78,4 +78,36 @@ $30\text{kV}$: grens tussen taken van de transmissienetbeheerder (TBN) en de dis
 DNB's zijn verenigd in 'netoperatoren' (voor Vlaanderen: voorheen Eandis en Infrax, nu gefusioneerd tot Fluvius).
 
 ---
-Taken van de transmissinet- en sid
+Taken van de transmissienet- en distributienetbeheerders:
+- TNB:
+	- beheren van transmissienet
+	- transporteren van elektriciteit van de Belgische productiecentrales of van naburige landen naar grote afnemers of naar de distributienetten
+	- transit verzorgen van elektriciteit tussen andere landen over het Belgische transmissienet
+	- evenwicht bewaren tussen vraag en aanbod
+- DNB's:
+	- Beheer van distributienetten
+	- verdelen van elektriciteit van de TNB/lokale producenten naar eindafnemers (op midden/laagspanning)
+	- openbare dienstplichten
+---
+Bevoegdheidsverdeling in België
+- Federaal:
+	- bevoorrading van elek en aardgas
+	- transmissie van elek boven de 70kV
+	- opslag en vervoer aardgas
+	- productie van elek
+	- maxprijzen voor elek en aardgas
+	- nettariven
+- Gewestelijk:
+	- 3:
+		- VREG: Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt
+		- BRUGEL: Reguleringcommissie voor Energie in het Brussels Hoofdstedelijk Gewest
+		- CWaPE:  (Commission Wallonne Pour l’Energie)
+	- onder 70kV
+	- distributie aardgas
+	- productie milieuvriendelijk energie
+	- rationeel gebruik
+	- sociaal en milieu-aspecten
+---
+**Recente evoluties**
+
+Elia grote infrastructuurproj
