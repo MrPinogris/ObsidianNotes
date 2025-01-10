@@ -146,4 +146,36 @@ Elia grote infrastructuurprojecten
 	- meestal zonder vertakking
 	- 380kV-net= ruggengraat met grote productie-eenheden en connectie met buurlanden
 	- 30-220kV-netten zogen voor transport en energievoorziening van zware DNB's
+- **Distributienetten**
+	- verdelen van energie aan verschillende eindafnemers
+	- groot aantal vertakkingen
+	- beheer verzorgd door de DNB's (of intern bij grote bedrijven)
+	- midden spanning van  1-29kV, of laagspanning 230/400V
+- **Lucht- en grondlijnen**
+	- voordelen lucht:
+		- betere afkoeling dus dunnere kabel
+		- goedkopere lijnen
+		- aanleg en onderhoud goedkoper
+	- voordelen grond
+		- minder hinder
+		- hogere bedrijfszekerheid (niet blootgesteld aan atmosferische omstandigheden)
+		- onderhoudsvriendelijk
+- **AC VS DC
+	- **AC
+		- + Makkelijk spanning transformeren
+		- - Verliezen
+		- - Stabiliteitsproblemen
+	- **DC
+		- +beter benutting kabelsectie
+		- +vermogen stroom sturen eenvoudiger
+		- +maakt energie-uitwisseling tussen asynchrone netten mogelijk
+		- -complexe omvormingsstations
+	- **Kiezen:
+		- DC
+			- als de verbinding HEEL lang is
+			- ondergrondse verbinding vanaf 50 km
+				- capacitieve effecten van AC-kabels snel te groot ondergronds
+			- asynchrone netten met elkaar verbinden (bv 60Hz net en 50Hz net)
+### Radiale en lus verdeling
+- **Radiale
 	- 
