@@ -203,3 +203,8 @@ Op deze knooppunten kunnen:
 - -duurder
 - +compacter
 - +onderhoudsvriendelijk
+
+**Voorbeeld: schakelpost van een electriciteitscentrale
+
+- ondreaan: 
+![[Pasted image 20250110160340.png]]
