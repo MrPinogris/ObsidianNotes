@@ -47,7 +47,7 @@ Heel Europa is met elkaar gekoppeld met het net
 3. **Netwerkresilience vergroten**: Meer aandacht ging naar versterking van kritieke infrastructuur, redundantie, en het voorkomen van opsplitsing door het integreren van telecommunicatiesystemen en snellere reactietijden.
 
 ---
-### **De Belgische elektriciteitsmarkt:**
+# **De Belgische elektriciteitsmarkt:**
 **Geschiedenis:**
 Ontstaan $\approx1900$ 
 
@@ -110,4 +110,20 @@ Bevoegdheidsverdeling in België
 ---
 **Recente evoluties**
 
-Elia grote infrastructuurproj
+Elia grote infrastructuurprojecten
+1. Stevin
+	1. Garanderen elek bevoorrading (Zeebrugge)
+	2. Aansluit duurzame energie kust
+	3. energie van zee naar land brengen
+2. MOG: (Modular Offshore Grid) stopcontact op zee
+3. Verbinding met VK (UK)(Nemo Link) Gelijksstroom (DC)
+4. ALEGr0: verbinding België-Duitsland Gelijksstroom (DC)
+
+# Productie van elek energie
+- **Hooge eisen**
+	- continu leverbaar
+	- aanbod moet gelijk zijn aan vraag (altijd)
+	- spanning moet binnen een vaste grens blijven
+	- ==Frequentie **Moet** binnen zeer nauwe grenzen geregeld worden==
+- moet gebeuren met:
+	- een zo hoog mogelijk energie rendement ($\eta \to$)
