@@ -132,7 +132,8 @@ Elia grote infrastructuurprojecten
 	- grote schaal in centrales
 	- kleine schaal: lokale gedecentraliseerde productie
 	  ==$\implies$ net aanpassing nodig om mogelijk te maken==
-	- injectie op hoog-, midden- en laagspanning
+	- ==injectie op hoog-, midden- en laagspanning==
+	- ==Kent belangrijke strategische geopolitiek aspecten (afhankelijkheid van: grondstoffen internationale poletiek,...)==
 	- voorbeeld Denenmarken
 		- 1980: 16  energiecentrales
 		- 2005: 16 centrales en +1000 lokale CHP's en +6000 wind turbines
@@ -178,4 +179,20 @@ Elia grote infrastructuurprojecten
 			- asynchrone netten met elkaar verbinden (bv 60Hz net en 50Hz net)
 ### Radiale en lus verdeling
 - **Radiale
-	- 
+	- +eenvoudig aan te leggen
+	- -lage bedrijfszekerheid
+- **Opeen lus
+	- +Verhoogde bedrijfszekerheid
+	- -Complexere beveiliging
+
+# Schakel- en verdeelinstallaties
+Op knooppunten in de transmissie- en distributienetten moeten de energiestromen op een veilige en betrouwbare manier gestuurd worden.
+
+Op deze knooppunten kunnen:
+- verbindingen gemaakt met kabels en lijnen naar andere knooppunten
+- transformaties gemaakt worden
+- bronnen van elektrische energie aangesloten worden
+- verbruikers aangesloten worden
+==MAW deze zijn cruciaal; kunnen open of gesloten zijn==
+
+**Open schakel installaties:
