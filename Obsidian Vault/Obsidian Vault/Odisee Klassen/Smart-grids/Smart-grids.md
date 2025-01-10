@@ -238,4 +238,38 @@ Op deze knooppunten kunnen:
 - eenvoudigste manier
 - aan beide zijden van vermogensschakelaar een scheider, behalve voor generatortransformatorgroep
 - geen redundantie
-- meerdere feeders: bete
+- meerdere feeders: beter barenstel opsplitsen
+![[Pasted image 20250110162434.png]]
+![[Pasted image 20250110162447.png]]
+![[Pasted image 20250110162456.png]]
+**Enkel barenstel, opgesplitst**
+- indien enkel sporadisch schakelen (bv onderhoud)
+  $\to$ scheider of lastscheider
+- indien automatisch en snel schakelen nodig
+  $\to$ vermogensschakelaar 
+  ![[Pasted image 20250110162637.png]]
+**Dubbel barenstel**
+- vaak bij centrales
+- onderhoud is eenvoudig
+- installatie kan in 2 delen gesplitst woden
+- Goote hoeveelheid combinaties generator/feeders mogelijk
+- splitsing vermindert kortsluitstroom
+- bedrijf: eigen elektrische productie volledig scheidbaar van de DNB
+![[Pasted image 20250110162853.png]]
+![[Pasted image 20250110162901.png]]
+**DUBBEL BARENSTEL MET KOPPELSCHAKELAAR**
+- flexibiliteit nog verhogen door koppelschakelaar K (vermogensschakelaar)
+- in geval van defect van een vermogensschakelaar kan de koppelschakelaar tijdelijk de plaats innemen
+![[Pasted image 20250110163128.png]]
+**DUBBEL BARENSTEL MET KOPPELSCHAKELAAR EN HULPRAIL**
+- elke feeder kan geschakeld worden op hulprail
+- hulprail wordt via R op één van de rails geschakeld
+- R kan op het even welke vermogensschakelaar vervangen
+![[Pasted image 20250110163301.png]]
+**VERBINDING TUSSEN FEEDER EN DUBBEL BARENSTEL**
+- A
+	- Klassiek
+	- 1 vermogensschakelaar
+	- 2 schieders
+	- soms veel schakelacties nod
+- B
