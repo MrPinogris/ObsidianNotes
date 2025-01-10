@@ -331,4 +331,33 @@ Meest voorkomend:
    - 1st olie-bad
    - later reductie van hoeveelheid olie in "olie-arme" schakelaar
    - stilstaan van de markt verdwenen
-3. $\text{SF}$
+3. $\text{SF}_{6}$ (zwavelhexafluoride)
+   - onontvlambaar
+   - zeer stabiel
+   - niet giftig
+   - densiteit 5x hoger dan lucht
+   - veel grotere diëlektrische doorslagvastheid
+   - warmte vlot afgevoerd
+   - vaak hoogspanning
+   - sterk broeikasgas...
+4. VACUÜM
+   - boog dooft na 1e 0 doorgang
+   - wel plasma van geleidende metaaldampen
+   - stil, geen gasontlading
+   - schakelaars zijn onderhoudsarm, compact en licht
+   - vooral voor nieuwe schakelaars tot 36kV
+
+#### indeling naar bedieningssysteem
+1. Manueel schakelen
+   - voor kleine MS-schakelaars
+   - behulp van gespannen veersysteem
+     $\implies$ openingssnelheid afhankelijk van bediening 
+2. Elektromotorisch schakelsysteem
+   - veer systeem gespannen door e motor
+3. Hydraulisch schakelsysteem
+   - enkel bij hoogste spanning waar nodige krachten groot zijn
+
+### werking van vermogensschakelaars
+
+vanaf hogere nominale stromen ($\approx 400\text{A}$) of op MS en HS:
+- uis
