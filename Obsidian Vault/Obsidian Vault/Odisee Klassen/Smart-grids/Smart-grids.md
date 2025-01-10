@@ -204,7 +204,7 @@ Op deze knooppunten kunnen:
 - +compacter
 - +onderhoudsvriendelijk
 
-**Voorbeeld: schakelpost van een elektriciteitscentrale
+### **Voorbeeld: schakelpost van een elektriciteitscentrale
 
 - onderaan: generatoren met zijn bekrachtiging
 - men meet spanning, stroom en vermogen van de generator ($\text{V}_{1},\text{A}_{1},\text{W}_{1}$)
@@ -224,3 +224,18 @@ Op deze knooppunten kunnen:
 - koppelveld
 - meetveld
 ![[Pasted image 20250110161243.png]]
+### **Configuratie van een schakelpost
+==Hoe uitgebreid de installatie is, is afhankelijk van==
+- de eisen van het net: de belangrijkheid van het knooppunt, de prioriteiten van de eigenaar, mogelijke splitsing, verschillende feeders, onderhoud,...
+- het aantal en de vermogens van de generatoren, transfo's, aftakkingen,...
+- de grootte van de kortsluitstomen
+- ...
+**barenstellen zijn cruciaal; moeten alle vermogenstromen voeren en verdelen
+==uitvallen van barenstel leidt tot het (al dan niet tijdelijk) uitvallen van de feeders die ermee verbonden zijn.==
+
+**Enkel barenstel**
+- Enkel barenstel, monorail, enkele busbar,...
+- eenvoudigste manier
+- aan beide zijden van vermogensschakelaar een scheider, behalve voor generatortransformatorgroep
+- geen redundantie
+- meerdere feeders: bete
