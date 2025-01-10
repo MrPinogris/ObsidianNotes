@@ -271,5 +271,33 @@ Op deze knooppunten kunnen:
 	- Klassiek
 	- 1 vermogensschakelaar
 	- 2 schieders
-	- soms veel schakelacties nod
-- B
+	- soms veel schakelacties nodig
+- B en C
+	- Extra vermogensschakelaar per feeder
+	- makkelijker maar veel duurder
+![[Pasted image 20250110163441.png]]
+**Beperkingen scheider**
+**==Mogen NOOIT  een belasting rechtstreeks in- of uitschakelen!==**
+- Slechts *uitschakelen* als er geen stroom door de scheider loopt, tenzij een parallele verbinding het ontstaan van een boog voorkomt.
+- Slechts *inschakelen* als er geen spanning over de scheider staat.
+
+### Schakelmateriaal
+Onderdelen van installaties die(3 mogelijke basistaken):
+- stromen kunnen onderbreken
+- spanningen kunnen isoleren
+- energie kunnen verdelen
+
+
+1. **scheider**
+   - Enkel bedoeld om een veilige opening in een net aan te brengen
+   - opening biedt isolatie tegen elke mogelijke overspanning
+   - in gesloten toestand in staat om kortsluitstroom een bepaalde tijd te onderstaan
+   - openen en sluiten kan enkel in een onbelast net
+2. lastscheider of lastschakelaar
+   - Gelijk met scheider en extra
+   - mogelijk om in of uit te schakelen in een net onder normale bedrijfscondities
+3. contactor
+   
+2. vermogensschakelaar
+3. aardschakelaar
+4. smeltveiligheid
