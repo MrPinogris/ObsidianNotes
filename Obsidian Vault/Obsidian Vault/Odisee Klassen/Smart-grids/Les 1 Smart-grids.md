@@ -11,7 +11,7 @@
 - In verschillende fases in België
 - Van 1999 tot 2003
 ---
-**Voordelen vrije Europese energiemarkt:**
+### **Voordelen vrije Europese energiemarkt:**
 - Vrije concurrentie (druk om efficiëntie hoog te houden)
 - Competitive prijzen voor verbruikers
 - Openbare diensten kunnen ook in de vrije markt:
@@ -26,8 +26,33 @@ Economisch eenvoudig maar ingewikkeld technisch
 Heel Europa is met elkaar gekoppeld met het net
 
 ---
-**2006 UCTE area split:**
-- 4 nov 2006 22:10
-- delen van Duitsland, Nederland, België, Frankrijk, Spanje, Oostenrijk en Italië tot 2u zonder spanning
-- 15 000 000+ huishouden getroffen
-- gevolgen tot in Marokko
+### **2006 UCTE area split:**
+1. Aanleiding:
+	-  4 nov 2006 22:10: Hoogspanningslijn over de Eems (Duitsland) werd uitgeschakeld om een cruiseschip veilig te laten passeren
+2. Gevolg:
+	- Overbelastging op andere lijnen, die automatisch uitschakelden.
+3. Netwerkopdeling:
+	- Het net deelde op in 3 delen, waardoor er spannings- en frequentieproblemen onststonden
+4. Impact:
+	- 15 000 000+ huishouden zonder spanning delen van Duitsland, Nederland, België, Frankrijk, Spanje, Oostenrijk en Italië tot 2u zonder spanning met gevolgen tot in Marokko
+
+ **Conclusies:**
+1. **Kwetsbaarheid van interconnectie**: Het Europese elektriciteitsnet is sterk afhankelijk van onderlinge verbindingen. Een lokale storing kan snel escaleren naar een continentale crisis.
+2. **Belang van coördinatie**: Gebrek aan communicatie en afstemming tussen netbeheerders was een belangrijke oorzaak van de escalatie.
+3. **Grenzen aan belastingcapaciteit**: Het incident toonde aan dat overbelasting in een deel van het netwerk snel kan leiden tot een domino-effect, waarbij lijnen en installaties uitvallen.
+
+**Lessen:**
+1. **Betere real-time monitoring**: Netbeheerders hebben meer geavanceerde monitoringsystemen ingevoerd om overbelastingen tijdig te detecteren en te voorkomen.
+2. **Verbeterde samenwerking**: De coördinatie tussen transmissiesysteembeheerders (zoals Elia in België) binnen Europa is versterkt door duidelijke protocollen en regelmatige simulatie-oefeningen.
+3. **Netwerkresilience vergroten**: Meer aandacht ging naar versterking van kritieke infrastructuur, redundantie, en het voorkomen van opsplitsing door het integreren van telecommunicatiesystemen en snellere reactietijden.
+
+---
+### **De Belgische elektriciteitsmarkt:**
+**Geschiedenis:**
+Ontstaan $\approx1900$ 
+
+**1900 – 1955: Geliberaliseerde markt**:
+
+- Gemeenten gaven concessies aan producenten met tijdelijke monopolierechten.
+- Concurrentie vond plaats op het verwerven van concessies.
+- Door schaalvoordelen fuseerden bedrijven, wat leidde tot minder concurrentie en hogere prijzen.
