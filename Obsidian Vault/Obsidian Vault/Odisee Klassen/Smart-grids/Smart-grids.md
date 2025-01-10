@@ -119,11 +119,31 @@ Elia grote infrastructuurprojecten
 3. Verbinding met VK (UK)(Nemo Link) Gelijksstroom (DC)
 4. ALEGr0: verbinding België-Duitsland Gelijksstroom (DC)
 
-# Productie van elek energie
+# Productie van elektrische energie
 - **Hooge eisen**
 	- continu leverbaar
 	- aanbod moet gelijk zijn aan vraag (altijd)
 	- spanning moet binnen een vaste grens blijven
 	- ==Frequentie **Moet** binnen zeer nauwe grenzen geregeld worden==
 - moet gebeuren met:
-	- een zo hoog mogelijk energie rendement ($\eta \to$)
+	- een zo hoog mogelijk energie rendement (doel is $\eta \to 100\%$)
+	- een zo laag mogelijke kostprijs (€$\ll$ )
+- kan gebeuren:
+	- grote schaal in centrales
+	- kleine schaal: lokale gedecentraliseerde productie
+	  ==$\implies$ net aanpassing nodig om mogelijk te maken==
+	- injectie op hoog-, midden- en laagspanning
+	- voorbeeld Denenmarken
+		- 1980: 16  energiecentrales
+		- 2005: 16 centrales en +1000 lokale CHP's en +6000 wind turbines
+	- België:
+		- Stijging in productie van wind en PV
+		- daling van Boifuels
+
+# Transmissie- en distributienetten
+- **Transmissienetten**
+	- Zorgen voor transport van grote hoeveelheid e-energie
+	- meestal zonder vertakking
+	- 380kV-net= ruggengraat met grote productie-eenheden en connectie met buurlanden
+	- 30-220kV-netten zogen voor transport en energievoorziening van zware DNB's
+	- 
