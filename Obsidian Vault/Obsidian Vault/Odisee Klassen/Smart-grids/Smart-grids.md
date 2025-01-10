@@ -204,7 +204,23 @@ Op deze knooppunten kunnen:
 - +compacter
 - +onderhoudsvriendelijk
 
-**Voorbeeld: schakelpost van een electriciteitscentrale
+**Voorbeeld: schakelpost van een elektriciteitscentrale
 
-- ondreaan: 
+- onderaan: generatoren met zijn bekrachtiging
+- men meet spanning, stroom en vermogen van de generator ($\text{V}_{1},\text{A}_{1},\text{W}_{1}$)
+- transformator $\text{T}$
+- opnieuw meting van spanning, stroom na de transformator ($\text{V}_{2},\text{A}_{2},\text{W}_{2}$)
+- $\text{Q}_{1}$ is de vermogensschakelaar, $\text{Q}_{9}$ en $\text{Q}_{10}$ zijn scheiders waardoor de transformator op één van de barenstellen (busbar, verzamelrelais) kan geschakeld worden
+- $\text{Q}_{\text{k}}$ is de koppel(vermogen)schakelaar
+- uitgaande feeder: opnieuw 2 scheiders ($\text{Q}_{5}$ en $\text{Q}_{6}$) en één vermogensschakelaar ($\text{Q}_{2}$)
+- opnieuw meting van spanning, stroom en vermogen ($\text{V}_{3},\text{A}_{3},\text{W}_{3}$)
+- scheider $\text{Q}_{11}$
+- overspanningsbeveiliging $\text{P}$
+- H.F.T: HF-telefonie, onder andere voor aansturen dag/nachttellers
 ![[Pasted image 20250110160340.png]]
+**Onderverdeling in ==velden:
+- transformatorveld
+- velden voor uitgaande leidingen (kabels of luchtlijnen)
+- koppelveld
+- meetveld
+![[Pasted image 20250110161243.png]]
