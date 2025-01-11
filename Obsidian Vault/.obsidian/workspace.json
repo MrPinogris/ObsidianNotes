@@ -337,17 +337,33 @@
                   "type": "pdf",
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/3.pdf",
-                    "page": 10,
+                    "page": 28,
                     "left": -17,
-                    "top": 20,
+                    "top": 546,
                     "zoom": 0.9090909090909091
                   },
                   "icon": "lucide-file-text",
                   "title": "3"
                 }
+              },
+              {
+                "id": "fc8e00747b0f51c7",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/4.pdf",
+                    "page": 1,
+                    "left": -17,
+                    "top": 616,
+                    "zoom": 0.9090909090909091
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "4"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "vertical",
@@ -360,7 +376,7 @@
       }
     ]
   },
-  "active": "f737faef89465d1b",
+  "active": "fc8e00747b0f51c7",
   "lastOpenFiles": [
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/3.pdf",
