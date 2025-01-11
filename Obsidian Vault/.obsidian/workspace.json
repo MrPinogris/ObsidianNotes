@@ -63,7 +63,8 @@
               "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,17 +289,33 @@
                   "type": "pdf",
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf",
-                    "page": 5,
+                    "page": 10,
                     "left": -17,
-                    "top": 97,
+                    "top": 522,
                     "zoom": 0.9090909090909091
                   },
                   "icon": "lucide-file-text",
                   "title": "2.7-2.8"
                 }
+              },
+              {
+                "id": "efd60a6ec0d39973",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/1.pdf",
+                    "page": 2,
+                    "left": -17,
+                    "top": 294,
+                    "zoom": 0.9090909090909091
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -311,15 +328,15 @@
       }
     ]
   },
-  "active": "e8e2aace607b075e",
+  "active": "efd60a6ec0d39973",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/TODO.md",
