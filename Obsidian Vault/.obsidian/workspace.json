@@ -305,17 +305,33 @@
                   "type": "pdf",
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/1.pdf",
-                    "page": 2,
+                    "page": 20,
                     "left": -17,
-                    "top": 294,
+                    "top": 546,
                     "zoom": 0.9090909090909091
                   },
                   "icon": "lucide-file-text",
                   "title": "1"
                 }
+              },
+              {
+                "id": "1179fa1c5274b0cc",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/2.pdf",
+                    "page": 1,
+                    "left": -17,
+                    "top": 80,
+                    "zoom": 0.9090909090909091
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "2"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -328,8 +344,9 @@
       }
     ]
   },
-  "active": "efd60a6ec0d39973",
+  "active": "1179fa1c5274b0cc",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/1.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
