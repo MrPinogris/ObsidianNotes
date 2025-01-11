@@ -234,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,9 +275,9 @@
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
                     "page": 1,
-                    "left": -32,
+                    "left": -18,
                     "top": 845,
-                    "zoom": 0.4749546382625372
+                    "zoom": 0.8554222795232433
                   },
                   "icon": "lucide-file-text",
                   "title": "ASM en DC"
@@ -286,20 +287,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 563,
-        "height": 816,
+        "x": -960,
+        "y": -3,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 1.5
       }
     ]
   },
-  "active": "bf0ce66c73b28a0b",
+  "active": "79170f084d549dd7",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/Boek/ASM en DC.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/TODO.md",
