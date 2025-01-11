@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -304,9 +305,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
-                    "page": 9,
+                    "page": 12,
                     "left": -17,
-                    "top": 38,
+                    "top": 515,
                     "zoom": 0.9090909090909091
                   },
                   "icon": "lucide-file-text",
@@ -439,10 +440,10 @@
       }
     ]
   },
-  "active": "794194560cc798a7",
+  "active": "4f8f65ac458648ea",
   "lastOpenFiles": [
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.7-2.8.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
