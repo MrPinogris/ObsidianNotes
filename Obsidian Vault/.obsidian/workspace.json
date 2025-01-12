@@ -306,8 +306,10 @@
                   "type": "pdf",
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
-                    "page": 1,
-                    "zoom": 1
+                    "page": 12,
+                    "left": -17,
+                    "top": 520,
+                    "zoom": 0.9090909090909091
                   },
                   "icon": "lucide-file-text",
                   "title": "2.8-2.10"
