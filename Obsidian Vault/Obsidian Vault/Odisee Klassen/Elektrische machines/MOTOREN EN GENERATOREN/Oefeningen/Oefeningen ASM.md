@@ -138,7 +138,7 @@ ASM, $P=4$, ster $U_{1}=400\text{V@50Hz}$, $s_{n}=3\%$, $N_{s}=80$, $N_{r}=32$, 
 E_{1}= \frac{U_{1}}{\sqrt{ 3 }}=\frac{400}{\sqrt{ 3 }}=230,94\text{V}
 $$
    $$
-E_{1}=4,44\cdot f_{s}\cdot N_{s}\cdot \Phi\implies \Phi=\frac{E_{1}}{4,44\cdot f_{s}\cdot N_{s}}= \frac{400\cdot \sqrt{ 3 }}{4,44\cdot 50\cdot 80}= 0,0130\text{Wb}
+E_{1}=4,44\cdot f_{s}\cdot N_{s}\cdot \Phi\implies \Phi=\frac{E_{1}}{4,44\cdot f_{s}\cdot N_{s}}= \frac{400 /\sqrt{ 3 }}{4,44\cdot 50\cdot 80}= 0,0130\text{Wb}
 $$
 2. $E_{2_{st}}$
    $$
