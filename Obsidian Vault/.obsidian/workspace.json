@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -487,8 +488,9 @@
       }
     ]
   },
-  "active": "95887c07069431dd",
+  "active": "084e297084c7c47c",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
     "Obsidian Vault/Odisee Klassen/Energietechnologieën.md",
@@ -509,7 +511,6 @@
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
     "attachments/Pasted image 20250109160313.png",
     "attachments/Pasted image 20250109153407.png",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
     "attachments/Pasted image 20250109152550.png",
     "attachments/Pasted image 20250109143057.png",
     "attachments/Pasted image 20250109142316.png",
