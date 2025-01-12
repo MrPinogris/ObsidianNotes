@@ -246,13 +246,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "floating": {
@@ -306,10 +306,8 @@
                   "type": "pdf",
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.8-2.10.pdf",
-                    "page": 12,
-                    "left": -17,
-                    "top": 515,
-                    "zoom": 0.9090909090909091
+                    "page": 1,
+                    "zoom": 1
                   },
                   "icon": "lucide-file-text",
                   "title": "2.8-2.10"
