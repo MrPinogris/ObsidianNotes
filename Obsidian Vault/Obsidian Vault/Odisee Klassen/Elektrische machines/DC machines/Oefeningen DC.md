@@ -49,7 +49,7 @@ Een dynamo wekt een emk op van 110 V en levert een ankerstroom van 50 A. Het act
 - $E = 110 \, \text{V}$
 - $I_a = 50 \, \text{A}$
 - $P_{Cu} = 4\% \, P_{in}$
-- $\eta = 84\%$
+- $\eta = 84\%$  
 
 **Gevraagd:**
 0. Stel schematisch de vermogensverdeling voor.
