@@ -273,7 +273,11 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf"
+                    "file": "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
+                    "page": 25,
+                    "left": -17,
+                    "top": 580,
+                    "zoom": 0.9090909090909091
                   },
                   "icon": "lucide-file-text",
                   "title": "2.4-2.6"
@@ -470,7 +474,8 @@
                   "title": "ASM motorprincipe"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -483,11 +488,11 @@
       }
     ]
   },
-  "active": "f0b2e02e1990439f",
+  "active": "95887c07069431dd",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM en Gelijkstoom machines.md",
     "Obsidian Vault/Odisee Klassen/Energietechnologieën.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/Oefeningen DC.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/DC machines.md",
