@@ -63,7 +63,8 @@
               "title": "Oefeningen ASM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -438,8 +439,9 @@
       }
     ]
   },
-  "active": "4f8f65ac458648ea",
+  "active": "bf0ce66c73b28a0b",
   "lastOpenFiles": [
+    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Samenvattingen/Formularium.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Oefeningen ASM.md",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/ASM motorprincipe.md",
@@ -458,7 +460,6 @@
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/3.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/1.pdf",
     "Obsidian Vault/Odisee Klassen/Elektrische machines/DC machines/PDF lessen DC/2.pdf",
-    "Obsidian Vault/Odisee Klassen/Elektrische machines/MOTOREN EN GENERATOREN/Oefeningen/Theorie oef boek.md",
     "attachments/Pasted image 20250109160313.png",
     "attachments/Pasted image 20250109153407.png",
     "attachments/Pasted image 20250109152550.png",
