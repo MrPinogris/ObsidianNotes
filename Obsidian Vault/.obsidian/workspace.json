@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fda2227611bd720",
@@ -191,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,8 +233,8 @@
                   "state": {
                     "file": "Obsidian Vault/Odisee Klassen sem1 2024-2025/Elektrische machines/MOTOREN EN GENERATOREN/PDF lessenASM/2.4-2.6.pdf",
                     "page": 25,
-                    "left": -22,
-                    "top": 587,
+                    "left": -23,
+                    "top": 586,
                     "zoom": 0.6893939393939394
                   },
                   "icon": "lucide-file-text",
